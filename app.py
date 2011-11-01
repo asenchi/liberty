@@ -15,6 +15,14 @@ def slide(slide_id):
 def help():
     return "PUT DOCS HERE"
 
+>>> def struct(d):
+...     if d["structure"]:
+...             d["final"] = []
+...             for s in d["structure"]:
+...                     d["final"].append(d[s])
+...     d["final"] = "\n".join(d["final"])
+...     return d
+
 templates = {}
 templates["index.html"] = '''
 <!doctype html>

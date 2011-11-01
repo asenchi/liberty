@@ -19,3 +19,6 @@ Link directly to a song.
 Namespaces a list of songs into a subset slide show
 
 
+
+slurp in yaml file
+
