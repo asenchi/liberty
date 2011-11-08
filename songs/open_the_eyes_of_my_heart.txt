@@ -1,0 +1,18 @@
+---
+title: "Open the eyes of my heart, Lord"
+structure: [chorus, verse, bridge]
+chorus: |
+ Open the eyes of my heart, Lord
+ Open the eyes of my heart
+ I want to see You
+ I want to see You
+verse: |
+ To see You high and lifted up
+ Shinin' in the light of Your glory
+ Pour out Your power and love
+ As we sing holy, holy, holy
+bridge: |
+ Holy, holy, holy
+ We cry holy, holy, holy
+ You are holy, holy, holy
+ I want to see you
