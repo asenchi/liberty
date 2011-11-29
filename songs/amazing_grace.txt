@@ -7,16 +7,15 @@ v1: |
  I once was lost but now am found,
  Was blind, but now, I see
 v2: |
- T'was Grace that taught
- my heart to fear
+ T'was Grace that taught my heart to fear
  And Grace, my fears relieved
  How precious did that Grace appear
- the hour I first believed
+ The hour I first believed
 v3: |
  Through many dangers, toils and snares
- we have already come
+ We have already come
  T'was Grace that brought us safe thus far
- and Grace will lead us home
+ And Grace will lead us home
 v4: |
  The Lord has promised good to me
  His word my hope secures

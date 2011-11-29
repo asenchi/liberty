@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block body %}
+<dl>
+{% for i,song in songs %}
+<dt>{{ i }}<dt><dd><a href="/song/{{ song[0] }}">{{ song[1] }}</a></dd>
+{% endfor %}
+</dl>
+{% endblock %}

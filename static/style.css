@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 5px;
+  padding: 25px;
+  padding-left: 50px;
+}
+
+pre {
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  letter-spacing: 0.0em;
+}
+
+a {
+  color: white;
+}
+
+dl {
+  font-size: 32px;
+}
+
+dl dt {
+  float: left;
+  padding: 5px;
+}
+
+dl dd {
+  padding: 5px;
+}
