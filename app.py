@@ -1,6 +1,6 @@
 import os
 import yaml
-from flask import Flask, render_template
+from flask import Flask, render_template, redirect, url_for
 
 SONGS = "./songs"
 
@@ -33,6 +33,10 @@ def toc(songs):
         filename = song[0].replace("_", "-").split('.')[0]
         sl.append((filename, pretty_filename(song[0])))
     return list(enumerate(sl, start=1))
+
+@app.route("/")
+def index():
+    redirect(url_for('songs'))
 
 @app.route("/songs/")
 def songs():
@@ -90,4 +94,5 @@ def help():
 
 if __name__ == "__main__":
     app.debug = True
-    app.run(host="0.0.0.0",port=8080)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
