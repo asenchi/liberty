@@ -26,3 +26,7 @@ v5: |
  bright shining as the sun
  We've no less days to sing God's praise
  then when we've first begun
+inkey: a
+tempo: slow
+license: |
+ Blah blah blah

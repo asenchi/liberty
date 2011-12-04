@@ -30,3 +30,7 @@ v4: |
  You give and take away
  My heart will choose to say
  Lord, blessed be Your name
+inkey: g
+tempo: medium
+license: |
+ Blah blah blah
