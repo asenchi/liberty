@@ -24,7 +24,7 @@ def raw():
 
 @app.route("/")
 def index():
-    redirect(url_for('songs'))
+    return redirect(url_for('songs'))
 
 @app.route("/songs/")
 def songs():
