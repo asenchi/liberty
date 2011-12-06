@@ -1,0 +1,34 @@
+[
+    {
+        "final": [
+            [
+                "Amazing Grace, how sweet the sound,\nThat saved a wretch like me\nI once was lost but now am found,\nWas blind, but now, I see\n", 
+                "T'was Grace that taught my heart to fear\nAnd Grace, my fears relieved\nHow precious did that Grace appear\nThe hour I first believed\n", 
+                "Through many dangers, toils and snares\nWe have already come\nT'was Grace that brought us safe thus far\nAnd Grace will lead us home\n", 
+                "The Lord has promised good to me\nHis word my hope secures\nHe will my shield and portion be\nas long as life endures\n", 
+                "When we've been here ten thousand years\nbright shining as the sun\nWe've no less days to sing God's praise\nthen when we've first begun\n", 
+                "Amazing Grace, how sweet the sound,\nThat saved a wretch like me\nI once was lost but now am found,\nWas blind, but now, I see\n"
+            ]
+        ], 
+        "inkey": "a", 
+        "license": "Blah blah blah\n", 
+        "raw": "---\ntitle: \"Amazing Grace\"\nstructure: [[v1,v2,v3,v4,v5,v1]]\nv1: |\n Amazing Grace, how sweet the sound,\n That saved a wretch like me\n I once was lost but now am found,\n Was blind, but now, I see\nv2: |\n T'was Grace that taught my heart to fear\n And Grace, my fears relieved\n How precious did that Grace appear\n The hour I first believed\nv3: |\n Through many dangers, toils and snares\n We have already come\n T'was Grace that brought us safe thus far\n And Grace will lead us home\nv4: |\n The Lord has promised good to me\n His word my hope secures\n He will my shield and portion be\n as long as life endures\nv5: |\n When we've been here ten thousand years\n bright shining as the sun\n We've no less days to sing God's praise\n then when we've first begun\ninkey: a\nspeed: slow\nlicense: |\n Blah blah blah\n", 
+        "speed": "slow", 
+        "structure": [
+            [
+                "v1", 
+                "v2", 
+                "v3", 
+                "v4", 
+                "v5", 
+                "v1"
+            ]
+        ], 
+        "title": "Amazing Grace", 
+        "v1": "Amazing Grace, how sweet the sound,\nThat saved a wretch like me\nI once was lost but now am found,\nWas blind, but now, I see\n", 
+        "v2": "T'was Grace that taught my heart to fear\nAnd Grace, my fears relieved\nHow precious did that Grace appear\nThe hour I first believed\n", 
+        "v3": "Through many dangers, toils and snares\nWe have already come\nT'was Grace that brought us safe thus far\nAnd Grace will lead us home\n", 
+        "v4": "The Lord has promised good to me\nHis word my hope secures\nHe will my shield and portion be\nas long as life endures\n", 
+        "v5": "When we've been here ten thousand years\nbright shining as the sun\nWe've no less days to sing God's praise\nthen when we've first begun\n"
+    }
+]

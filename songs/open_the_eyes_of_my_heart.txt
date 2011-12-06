@@ -1,6 +1,6 @@
 ---
 title: "Open the eyes of my heart, Lord"
-structure: [chorus, verse, bridge]
+structure: [[chorus, verse, bridge]]
 chorus: |
  Open the eyes of my heart, Lord
  Open the eyes of my heart

@@ -1,38 +1,26 @@
 import os
+import json
+
 import yaml
 from flask import Flask, render_template, redirect, url_for
+
+from generator import *
 
 SONGS = "./songs"
 
 app = Flask(__name__)
 app.config.from_object(__name__)
 
-def open_file(s):
-    return yaml.load(file(s, 'r').read())
-
-def build_song(d):
-    if d["structure"]:
-        d["final"] = []
-        for s in d["structure"]:
-            d["final"].append(d[s])
-    d["final"] = "\n".join(d["final"])
-    return d
-
-def get_files(directory):
-    for filename in os.listdir(directory):
-        path = os.path.join(directory, filename)
-        if os.path.isfile(path):
-            yield (filename, path)
-
-def pretty_filename(f):
-    return f.replace("_", " ").title().split('.')[0]
-
-def toc(songs):
-    sl = []
-    for song in songs:
-        filename = song[0].replace("_", "-").split('.')[0]
-        sl.append((filename, pretty_filename(song[0])))
-    return list(enumerate(sl, start=1))
+@app.route("/songs.json")
+def raw():
+    songlist = get_files(app.config["SONGS"])
+    songs = []
+    for song, path in songlist:
+        opened     = open_file(path)
+        serialized = yamlize(opened)
+        compiled   = build_song(serialized, opened)
+        songs.append(compiled)
+    return json.dumps(songs, sort_keys=True, indent=4)
 
 @app.route("/")
 def index():
@@ -40,13 +28,12 @@ def index():
 
 @app.route("/songs/")
 def songs():
-    songlist = []
-    for song in get_files(app.config["SONGS"]):
-        songlist.append(song)
+    songs = {}
+    songlist = list(get_files(app.config["SONGS"]))
     songlist.sort()
-    songs = toc(songlist)
+    songs["song_list"] = toc(songlist)
     return render_template(
-               "toc.html",
+               "song_list.html",
                songs=songs,
                title="Table of Contents"
            )
@@ -59,11 +46,52 @@ def song(title):
     for song, path in songlist:
         if song.split('.')[0] == cleanse:
             opened = open_file(path)
-            compiled = build_song(opened)
+            serialized = yamlize(opened)
+            compiled = build_song(serialized, raw)
     return render_template(
                "song.html",
                song=compiled["final"],
-               title=compiled["title"]
+               title=compiled["title"],
+               raw=compiled["raw"]
+           )
+
+@app.route("/songs/inkey/<key>")
+def inkey(key):
+    songlist = list(get_files(app.config["SONGS"]))
+    songs = {}
+    songs[key] = in_key(songlist, key)
+    songs[key].sort()
+    title = "Songs in the key of %s" % key.capitalize()
+    return render_template(
+               "song_list.html",
+               songs=songs,
+               title=title
+           )
+
+@app.route("/songs/bykey/")
+def bykey():
+    songlist = list(get_files(app.config["SONGS"]))
+    songs = {}
+    for letter in ["a", "b", "c", "d", "e", "f", "g"]:
+        songs[letter] = in_key(songlist, letter)
+        songs[letter].sort()
+    return render_template(
+               "song_list.html",
+               songs=songs,
+               title = "Songs sorted by key"
+           )
+
+@app.route("/songs/byspeed/")
+def byspeed():
+    songlist = list(get_files(app.config["SONGS"]))
+    songs = {}
+    for spd in ["slow", "fast"]:
+        songs[spd] = in_speed(songlist, spd)
+        songs[spd].sort()
+    return render_template(
+               "song_list.html",
+               songs=songs,
+               title = "Songs sorted by key"
            )
 
 @app.route("/help")

@@ -3,18 +3,13 @@
     * Loading yaml
     * filename doesn't use '_'
     * File can't be read
-* Toggle displayed song and yaml file (for checking formatting)
-* Vertical spacing/generate slides
-* Master song list:
-    * alphabetize
-    * key?
-    * speed?
-    * Author?
-    * License?
-* Print css with proper spacing for notes
+
+* Print css with proper spacing for music notes
 * Install script that explodes into directory and adds desktop shortcut
 * Master USB with latest install script and python2.7
 * Shortcut w/ template for adding a song (notepad)
+* Toggle displayed song and yaml file (for checking formatting)
+
 * Metrics??
 * Twitter??
 * Heroku??
