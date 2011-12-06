@@ -91,7 +91,7 @@ def byspeed():
     return render_template(
                "song_list.html",
                songs=songs,
-               title = "Songs sorted by key"
+               title = "Songs sorted by speed"
            )
 
 @app.route("/help")
