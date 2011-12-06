@@ -31,6 +31,6 @@ v4: |
  My heart will choose to say
  Lord, blessed be Your name
 inkey: g
-tempo: medium
+speed: fast
 license: |
  Blah blah blah

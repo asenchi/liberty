@@ -27,6 +27,6 @@ v5: |
  We've no less days to sing God's praise
  then when we've first begun
 inkey: a
-tempo: slow
+speed: slow
 license: |
  Blah blah blah

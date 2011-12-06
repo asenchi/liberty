@@ -16,3 +16,6 @@ bridge: |
  We cry holy, holy, holy
  You are holy, holy, holy
  I want to see you
+inkey: a
+speed: slow
+license: ""
