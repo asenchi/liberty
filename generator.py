@@ -1,21 +1,6 @@
 import os
 import yaml
 
-def table_contents():
-    pass
-
-def inkey(key):
-    pass
-
-def speed(spd):
-    pass
-
-def license(song):
-    pass
-
-def song(song):
-    pass
-
 def open_file(path):
     return file(path, 'r').read()
 
@@ -53,26 +38,14 @@ def toc(songs):
         sl.append((href, pretty_filename(filename)))
     return list(enumerate(sl, start=1))
 
-def in_key(songs, key):
+def in_attr(attr, songs, val):
     sl = []
     for filename, path in songs:
         opened = open_file(path)
         serialized = yamlize(opened)
-        if not serialized.get("inkey"):
+        if not serialized.get(attr):
             continue
-        if serialized["inkey"] == str(key):
-            href = filename.replace("_", "-").split('.')[0]
-            sl.append((href, pretty_filename(filename)))
-    return list(enumerate(sl, start=1))
-
-def in_speed(songs, speed):
-    sl = []
-    for filename, path in songs:
-        opened = open_file(path)
-        serialized = yamlize(opened)
-        if not serialized.get("speed"):
-            continue
-        if serialized["speed"] == str(speed):
+        if serialized[attr] == str(val):
             href = filename.replace("_", "-").split('.')[0]
             sl.append((href, pretty_filename(filename)))
     return list(enumerate(sl, start=1))
