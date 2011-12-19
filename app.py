@@ -98,28 +98,6 @@ def byspeed():
 def help():
     return "PUT DOCS HERE"
 
-# templates = {}
-# templates["index.html"] = '''
-# <!doctype html>
-# <html>
-# <head>
-# <title>{{ title }}</title>
-# </head>
-# <body>
-# {% block content %}
-# {% endblock %}
-# </body>
-# </html>
-# '''
-#
-# templates["slides.html"] = '''
-# {% extends "index.html" %}
-#
-# {% block content %}
-# # SONG HERE
-# {% endblock %}
-# '''
-
 if __name__ == "__main__":
     app.debug = True
     port = int(os.environ.get("PORT", 5000))

@@ -3,9 +3,17 @@
   <head>
     <title>{{ title }}</title>
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='jquery.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='liberty.js') }}"></script>
+    <script type="text/javascript">
+        $(function() {
+          setupSongs(true);
+        });
+    </script>
   </head>
 
   <body>
     {% block body %}{% endblock %}
+    <div id="debugInfo"></div>
   </body>
 </html>

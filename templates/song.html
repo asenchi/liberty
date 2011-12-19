@@ -1,16 +1,21 @@
 {% extends "layout.html" %}
 {% block body %}
+<div id="slides">
 {% set counter = 1 -%}
 {% for slide in song -%}
-<div id="slide{{ counter }}">
+<div id="slide{{ counter }}" class="slide">
     {% for part in slide -%}
     <div class="part">
-	{% for line in part -%}
-	<div class="line">{{ line }}</div>
-	{% endfor %}
+        {% for line in part -%}
+        {% if not line == "" -%}
+        <div class="line">{{ line }}</div>
+        {% endif -%}
+        {% endfor -%}
     </div>
     {% endfor -%}
-{% set counter = counter + 1 %}
+{% set counter = counter + 1 -%}
 </div>
 {% endfor -%}
+</div>
+<div id="slideInfo"></div>
 {% endblock -%}

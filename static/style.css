@@ -24,6 +24,14 @@ dl dd {
   padding: 5px;
 }
 
+.slide {
+  display: none;
+}
+
+.current {
+  display: inline;
+}
+
 .part {
   margin-bottom: 40px;
 }
