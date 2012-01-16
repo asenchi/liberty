@@ -1,9 +1,9 @@
-* Print css with proper spacing for music notes (for printer)
 * translate songs
 * documentation
 * Install script that explodes into directory and adds desktop shortcut
 * Master USB with latest install script and python2.7
 * Windows desktop shortcut w/ template for adding a song (notepad)
+* Figure out why extra page break appears
 
 * Javascript requirements:
     * High Priority

@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  padding: 0;
+  line-height: 1.4em;
+  word-spacing: 1px;
+  letter-spacing: 0.2px;
+  background-color: #fff;
+  color: #000;
+  font-size: 12px;
+  font-family: serif;
+}
+
+.slide {
+  page-break-after: always;
+}
+
+.slide .line {
+  color: #000;
+  font-size: 22px;
+  line-height: 2.3em;
+}

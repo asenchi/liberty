@@ -28,11 +28,11 @@ dl dd {
   display: inline;
 }
 
-.part {
+.slide .part {
   margin-bottom: 40px;
 }
 
-.line {
+.slide .line {
   font-size: 32px;
   letter-spacing: 0.0em;
   margin-bottom: 1px;
