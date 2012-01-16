@@ -3,7 +3,8 @@
 <div id="slides">
 {% set counter = 1 -%}
 {% for slide in song -%}
-<div id="slide{{ counter }}" class="slide">
+<a name="{{ counter }}"> <!-- slide anchor -->
+<div id="slide{{ counter }}"
     {% for part in slide -%}
     <div class="part">
         {% for line in part -%}
@@ -17,5 +18,4 @@
 </div>
 {% endfor -%}
 </div>
-<div id="slideInfo"></div>
 {% endblock -%}

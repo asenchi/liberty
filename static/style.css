@@ -24,10 +24,6 @@ dl dd {
   padding: 5px;
 }
 
-.slide {
-  display: none;
-}
-
 .current {
   display: inline;
 }

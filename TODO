@@ -3,16 +3,21 @@
     * filename doesn't use '_'
     * File can't be read
 
-* Figure out how to display one slide at a time
-    http://jsfiddle.net/
-
-* Print css with proper spacing for music notes
+* Print css with proper spacing for music notes (for printer)
 * Install script that explodes into directory and adds desktop shortcut
 * Master USB with latest install script and python2.7
-* Shortcut w/ template for adding a song (notepad)
-* Toggle displayed song and yaml file (for checking formatting)
+* Windows desktop shortcut w/ template for adding a song (notepad)
 
-* Metrics??
-* Twitter??
-* Heroku??
+* Javascript requirements:
+    * High Priority
+        ** On /songs/ numbers select song (2 = /song/be-thou-my-vision)
+        ** On /song/* hide all but 1 slide at a time (and allow navigation between slide anchors)
+        ** Navigate between slides using arrow keys, t for /songs/, numbers for songs on /songs/
+    * Low Priority
+        ** Possible to create temporary "playlists"?
+        ** Toggle displayed song and raw yaml file ("show source")
 
+* Someday:
+    ** Metrics??
+    ** Twitter??
+    ** Heroku??
