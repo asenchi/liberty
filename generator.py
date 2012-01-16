@@ -1,11 +1,26 @@
 import os
 import yaml
 
+def verify_filename(str, set):
+    return False in [c in str for c in set]
+
 def open_file(path):
-    return file(path, 'r').read()
+    if not verify_filename(path, '-'):
+        print("Filename's should contain only letters, numbers and underscores.")
+        raise
+    try:
+        f = open(path, 'r')
+        contents = f.read()
+    finally:
+        f.close()
+    return contents
 
 def yamlize(string):
-    return yaml.load(string)
+    try:
+        return yaml.load(string)
+    except ComposerError:
+        print("Only one song should be defined per file. Songs are defined by the '---' at the top. See documentation")
+        raise
 
 def build_song(serial, raw):
     if raw:
