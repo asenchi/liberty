@@ -102,7 +102,19 @@ def favicon():
 
 @app.route("/help")
 def help():
-    return "PUT DOCS HERE"
+    docs = open('DOCS.txt', 'r').read()
+    return render_template(
+            "help.html",
+            docs=docs,
+            title = "How to structure a song"
+           )
+
+@app.route("/creed")
+def creed():
+    return render_template(
+            "creed.html",
+            title = "Apostle's Creed"
+           )
 
 if __name__ == "__main__":
     app.debug = True

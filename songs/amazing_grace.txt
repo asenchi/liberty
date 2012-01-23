@@ -28,5 +28,3 @@ v5: |
  then when we've first begun
 inkey: a
 speed: slow
-license: |
- Blah blah blah

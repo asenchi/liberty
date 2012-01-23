@@ -1,5 +1,8 @@
 {% extends "layout.html" %}
 {% block body %}
+<div id="single">
+    <a href="/creed">Apostle's Creed</a> | <a href="/help">Help</a>
+</div>
 {% for key, items in songs.iteritems() if items %}
 <h1>{{ key|replace("_", " ")|title }}</h1>
 <dl>

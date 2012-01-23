@@ -37,3 +37,21 @@ dl dd {
   letter-spacing: 0.0em;
   margin-bottom: 1px;
 }
+
+#single {
+  font-size: 24px;
+}
+
+#single a {
+  font-size: 24px;
+}
+
+#creed {
+  font-size: 30px;
+  width: 940px;
+}
+
+#creed h1 {
+  font-size: 32px;
+  text-decoration: underline;
+}
