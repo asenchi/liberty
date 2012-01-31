@@ -1,32 +1,33 @@
 ---
-title: "Song Title Here"
-structure: [[verse1, chorus],[verse2, chorus, bridge]]
-inkey: (Key that the song is played in, (i.e: a))
-speed: (fast or slow)
+title: "First line of Song"
+structure: [[verse1, chorus1],[verse2, chorus1, bridge]]
+inkey: key (i.e: a)
+speed: speed (i.e. one of fast or slow)
 verse1: |
  Text defined in these blocks represent the song lyrics.
  This represents verse 1.
- You should always add 1 space before each line of the song.
- The 'verse1' label above defines this portion of the song.
+ The 'verse1' label defines this portion of the song.
  The '|' character is very important and should always be included after the label.
  These labels allow us to define a structure for the song.
+ Add 1 space before each line of the song.
  This structure is defined at the top of the file.
  The outer square brackets represent the entire song.
  The inner brackets define slides.
- 'verse1' and 'chorus' are defined as slide one.
+ 'verse1' and 'chorus1' are defined as slide one.
 verse2: |
  This is verse 2.
  Find 'verse2' in the structure above.
  Notice that it is listed in a separate set of brackets from 'verse1'.
- 'verse2' and 'chorus' are slide two.
+ 'verse2' and 'chorus1' are slide two.
  Since we sing the chorus after each verse, we include the chorus on each slide.
 chorus: |
  This is the chorus.
  As noted above, we include it on both slides.
- If there are more chorus', add a number, so this would become 'chorus1', etc.
+ If there are more chorus', increment the number, so the next chorus would be 'chorus2'.
  Each section of the song should be uniquely labeled ('verse1', 'verse2',etc.)
  The labels are arbitrary, you could use 'v1', 'v2' for example.
  The ':' and '|' are very important for how the song is displayed.
 bridge: |
- This is an example for defining a bridge and is only sang on the 2nd slide.
+ This is an example for defining a bridge and is only shown on the 2nd slide.
  It is a good idea to look at the structure of existing songs for more examples.
+ Look at this document closely, this would display properly as an actual song. :)
