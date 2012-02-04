@@ -6,9 +6,6 @@
 * Figure out why extra page break appears
 
 * Javascript requirements:
-    * High Priority
-        ** On /song/* hide all but 1 slide at a time (and allow navigation between slide anchors)
-        ** Navigate between slides using arrow keys
     * Low Priority
         ** Toggle displayed song and raw yaml file ("show source")
 
