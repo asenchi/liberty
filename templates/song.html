@@ -4,7 +4,7 @@
 {% set counter = 1 -%}
 {% for slide in song -%}
 <a name="{{ counter }}"> <!-- slide anchor -->
-<div class="slide" id="slide{{ counter }}">
+<div class="slide" id="slide{{ counter }}" {% if not counter == 1 %}style="display:none"{% endif -%}>
     {% for part in slide -%}
     <div class="part">
         {% for line in part -%}
