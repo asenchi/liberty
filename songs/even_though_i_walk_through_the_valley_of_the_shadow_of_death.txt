@@ -1,0 +1,34 @@
+---
+title: "Even though I walk through the valley of the shadow of death"
+structure: [[verse1, chorus1, chorus2],[verse2, bridge]]
+inkey:
+speed:
+verse1: |
+ Even though I walk through the valley of the shadow of death
+ Your perfect love is casting out fear
+ And even when I'm caught in the middle of the storms of this life
+ I won't turn back, I know You are near
+chorus1: |
+ And I will fear no evil
+ For my God is with me
+ And if my God is with me
+ Whom then shall I fear, whom then shall I fear
+chorus2: |
+ Oh no, You never let go
+ Through the calm and through the storm
+ Oh no, You never let go
+ In every high and every low
+ Oh no, You never let go
+ Lord, You never let go of me
+verse2: |
+ I can see a light that is coming for the heart that holds on
+ A glorious light beyond all compare
+ There will be an end to these struggles
+ But until that day comes
+ We'll know You here on earth
+bridge: |
+ I can see a light that is coming for the heart that holds on
+ There will be an end to these troubles
+ But until that day comes
+ Still I will praise You
+ Still I will praise You

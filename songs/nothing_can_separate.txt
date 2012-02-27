@@ -1,0 +1,29 @@
+---
+title: "Nothing can separate"
+structure: [[verse1, chorus],[verse2, chorus, bridge]]
+inkey:
+speed:
+verse1: |
+ Nothing can separate
+ Even if I turn away
+ Your love never fails
+ Though I may make mistakes
+ Your mercies are new everyday
+ Your love never fails
+chorus: |
+ You stay the same through the ages
+ Your love never changes
+ There may be pain in the night but joy comes in the morning
+ And when the oceans rage
+ I don't have to be afraid
+ Because I know that You love me
+ And Your love never fails
+verse2: |
+ Your truth has come and set us free
+ And Your Spirit now lives in me
+ Your love never fails
+ The chasm was far too wide
+ But You reached across to the other side
+ Your love never fails
+bridge: |
+ You make all things work together for Your good

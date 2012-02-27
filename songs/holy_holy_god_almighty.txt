@@ -1,0 +1,18 @@
+---
+structure: [[verse1, chorus, bridge]]
+inkey: key (i.e: a)
+speed: 
+verse1: |
+ Holy Holy God Almighty
+ Who was and is to come
+ God of Glory You're so Worthy
+ All the Saints bow down
+chorus: |
+ Holy is your Name in all the earth
+ Righteous are Your ways so merciful
+ Everything You've done is just and true
+ Holy Holy God are You
+ Holy Holy God are You
+bridge: |
+ All blessing all honor belongs to You
+ All power all wisdom is Yours

@@ -1,0 +1,22 @@
+---
+title: "How lovely is Your dwelling place"
+structure: [[verse1, verse2, chorus, verse3]]
+inkey:
+speed:
+verse1: |
+ How lovely is Your dwelling place
+ Oh Lord Almighty
+ My soul longs and even faints for You
+verse2: |
+ For here my heart is satisfied
+ Within Your presence
+ I sing beneath the shadow of Your wings
+chorus: |
+ Better is one day in Your courts
+ Better is one day in Your house
+ Better is one day in Your courts
+ Than thousands elsewhere
+verse3: |
+ One thing I ask and I would seek
+ To see Your beauty
+ To find You in the place Your glory dwells

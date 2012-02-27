@@ -1,0 +1,26 @@
+---
+title: "Although I am changing, You're unchangeable oh God"
+structure: [[verse1, chorus1, chorus2],[verse2, chorus1, chorus2, bridge]]
+inkey:
+speed:
+verse1: |
+ Although I am changing, You're unchangeable oh God
+ You will be my first love, be my first love
+ And for all the changes, that You lead me through oh God
+ You will be my first love, be my first love
+chorus1: |
+ Every morning when the sun comes up
+ And every evening when the day is done
+ You will be my first love, be my first love
+chorus2: |
+ Even when you fill my heart's desires
+ Even when You're consuming fire
+ You will be my first love, be my first love
+verse2: |
+ Although I am shaken, You're unshakeable oh God
+ You will be my first love, be my first love
+ So let my idols crumble, You're unshakeable oh God
+ You will be my first love, be my first love
+bridge: |
+ May every day and every way I live bring glory to You Lord
+ Be my first love

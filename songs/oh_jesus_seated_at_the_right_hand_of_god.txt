@@ -1,0 +1,12 @@
+---
+title: "Oh Jesus seated at the right hand of God"
+structure: [[verse1, chorus]]
+inkey:
+speed:
+verse1: |
+ Oh Jesus seated at the right hand of God
+ Seated on the throne of my heart
+ I'm willing and obedient to Your voice oh Lord
+chorus: |
+ Oh I, I will follow
+ Oh I, I will follow

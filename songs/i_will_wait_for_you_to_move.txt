@@ -1,0 +1,23 @@
+---
+title: "I will wait for You to move"
+structure: [[verse1, chorus1, chorus2, verse2]]
+inkey:
+speed:
+verse1: |
+ I will wait for You to move
+ For Your mighty hand to save
+ When the troubled waters rise
+ You are my hiding place
+ You are my hiding place
+chorus1: |
+ Your walls are salvation, Your gates are praise
+ Your walls are salvation, Your gates are praise
+chorus2: |
+ My Deliverer
+ Is the Lord
+verse2: |
+ Who is like You mighty God
+ Who can take me from Your hand
+ As I walk with You in freedom
+ You're the Rock on which I stand
+ You're the Rock on which I stand

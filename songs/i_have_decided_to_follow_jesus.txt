@@ -1,0 +1,20 @@
+---
+title: "I have decided to follow Jesus"
+structure: [[verse1, verse2],[verse3]]
+inkey:
+speed:
+verse1: |
+ I have decided to follow Jesus
+ I have decided to follow Jesus
+ I have decided to follow Jesus
+ No turning back, no turning back
+verse2: |
+ The world behind me, the cross before me
+ The world behind me, the cross before me
+ The world behind me, the cross before me
+ No turning back, no turning back
+verse3: |
+ Though none go with me, still I will follow
+ Though none go with me, still I will follow 
+ Though none go with me, still I will follow 
+ No turning back, no turning back

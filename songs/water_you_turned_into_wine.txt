@@ -1,0 +1,26 @@
+---
+title: "Water Your turned into wine"
+structure: [[verse1, verse2, chorus],[verse2, chorus, bridge]]
+inkey:
+speed:
+verse1: |
+ Water You turned into wine
+ Opened the eyes of the blind
+ There's no one like You
+ None like You
+verse2: |
+ Into the darkness You shine
+ Out of the ashes we rise
+ There's no one like You
+ None like You
+chorus: |
+ Our God is greater, our God is stronger
+ God You are higher than any other
+ Our God is Healer, awesome in power
+ Our God, our God
+bridge: |
+ And if our God is for us, then who could ever stop us
+ And if our God is with us, then who could stand against
+ And if our God is for us, then who could ever stop us
+ And if our God is with us, then who could stand against
+ Who could stand against

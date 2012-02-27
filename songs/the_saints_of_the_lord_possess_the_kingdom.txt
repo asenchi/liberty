@@ -1,0 +1,14 @@
+---
+title: "The saints of the Lord possess the kingdom"
+structure: [[verse1, chorus]]
+inkey:
+speed:
+verse1: |
+ The saints of the Lord possess the kingdom
+ Possess the kingdom possess the kingdom
+ The saints of the Lord possess the kingdom
+ And will reign forevermore
+chorus: |
+ They know no defeat
+ They know no defeat
+ Jesus is their Captain they know no defeat
