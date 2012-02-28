@@ -1,0 +1,24 @@
+---
+title: "The Mystery of the Cross"
+structure: [[v1,c1,v2,b1]]
+inkey: "z"
+speed: "z"
+v1: |
+ The mystery of the cross I cannot comprehend
+ The agonies of Calvary
+ You the perfect holy One crushed Your Son
+ Drank the bitter cup reserved for me
+c1: |
+ Your blood has washed away my sin
+ Jesus thank You
+ The Father's wrath completely satisfied
+ Jesus thank You
+ Once Your enemy, now seated at Your table
+ Jesus thank You
+v2: |
+ By Your perfect sacrifice I've been brought near
+ Your enemy You've made Your friend
+ Pouring out the riches of Your glorius grace
+ Your mercy and Your kindness know no end
+b1: |
+ Lover of my soul I want to live for You

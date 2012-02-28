@@ -1,0 +1,18 @@
+---
+title: "The Lord is Gracious and Compassionate"
+structure: [[v1,v2,v3,c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ The Lord is gracious and compassionate
+ Slow to anger and rich in love
+v2: |
+ The Lord is good to us
+ He has compassion for all that He has made
+v3: |
+ As far as the east is from the west
+ That's how far He has removed our transgressions
+ From us
+c1: |
+ Praise the Lord oh my soul
+ Praise the Lord

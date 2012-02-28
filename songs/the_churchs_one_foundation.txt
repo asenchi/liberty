@@ -1,0 +1,20 @@
+---
+title: "The Church's One Foundation"
+structure: [[v1,v2,v3]]
+inkey: "z"
+speed: "z"
+v1: |
+ The church's one foundation is Jesus Christ her Lord
+ She is His new creation by water and the word
+ From heav'n He came and sought her to be His holy bride
+ With His own blood He bought her, and for her life He died
+v2: |
+ Elect from ev'ry nation yet one o'er all the earth
+ Her charter of salvation, one Lord, one faith, one birth
+ One holy name she blesses, partakes one holy food
+ And to one hope she presses, with ev'ry grace endued
+v3: |
+ 'Mid toil and tribulation, and tumult of her war
+ She waits the consummation of peace for evermore
+ 'Til with the vision glorious her longing eyes are blessed
+ And the great church victorious shall be the church at rest

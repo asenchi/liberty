@@ -1,0 +1,23 @@
+---
+title: "The Spirit of the Sovereign Lord"
+structure: [[]]
+inkey: "z"
+speed: "z"
+b1: |
+ The spirit of the sovereign Lord is upon us
+ Because He has anointed us to preach good news
+v1: |
+ He has sent us to the poor, this is the year
+ To bind up the broken hearted, this is the day
+ To bring freedom to the captives, this is the year
+ And to release the ones in darkness
+c1: |
+ This is the year of the favor of the Lord
+ This is the day of vengeance of our God
+ This is the year of the favor of the Lord
+ This is the day of vengeance of our God
+v2: |
+ He will comfort all who mourn, this is the year
+ He will provide for those who grieve, this is the day
+ He will pour out of the oil of gladness, this is the year
+ Instead of mourning you will praise

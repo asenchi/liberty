@@ -1,0 +1,21 @@
+---
+title: "The First Noel"
+structure: [[v1,c1,v2,v3]]
+v1: |
+ The first noel, the angel did say
+ Was to certain poor shepherds in fields as they lay
+ In fields where they lay keeping their sheep
+ On a cold winter's night that was so deep
+c1: |
+ Noel, noel, noel, noel
+ Born is the King of Israel
+v2: |
+ They looked up and saw a star
+ Shining in the east beyond them far
+ And to the earth it gave great light
+ And so it continued both day and night
+v3: |
+ Then let us all with one accord
+ Sing praises to our heavenly Lord
+ That hath made heaven and earth of naught
+ And with His blood mankind hath bought
