@@ -1,0 +1,27 @@
+---
+title: "To God be the Glory"
+structure: [[v1,c1],[v2,c1],[v3,c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ To God be the glory, great things He hath done
+ So loved He the world that He gave His son
+ Who yielded His life an atonement for sin
+ And opened the Life Gate that all may go in
+c1: |
+ Praise the Lord, praise the Lord
+ Let the earth hear His voice
+ Praise the Lord, praise the Lord
+ Let the people rejoice
+ Oh, come to the Father, Through Jesus the Son
+ And give Him the glory, great things He hath done
+v2: |
+ Oh, perfect redemption, the purchase of blood
+ To every believer the promise of God
+ The vilest offender who truly believes
+ That moment from Jesus a pardon receives
+v3: |
+ Great things He hath taught us, great things He hath done
+ And great our rejoicing through Jesus the Son
+ But purer, and higher, and greater will be
+ Our wonder, our transport when Jesus we see

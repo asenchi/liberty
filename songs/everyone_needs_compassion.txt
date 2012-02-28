@@ -1,0 +1,30 @@
+---
+title: "Everyone Needs Compassion"
+structure: [[v1,v2,c1],[v3,v4,c1,b1]]
+inkey: "z"
+speed: "z"
+v1: |
+ Everyone needs compassion
+ Love that’s never failing
+ Let mercy fall on me.
+v2: |
+ Everyone needs forgiveness
+ The kindness of a Savior
+ The Hope of nations
+c1: |
+ Savior, He can move the mountains
+ Our God is Mighty to save, He is Mighty to save
+ Forever, Author of salvation
+ He rose and conquered the grave
+ Jesus conquered the grave
+v3: |
+ Take me as You find me
+ All my fears and failures
+ Fill my life again
+v4: |
+ I give my life to follow
+ Everything I believe in
+ Now I surrender
+b1: |
+ Shine your light and let the whole world see
+ We’re singing for the glory of the risen King . . . Jesus

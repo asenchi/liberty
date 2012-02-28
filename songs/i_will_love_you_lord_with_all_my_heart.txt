@@ -1,0 +1,15 @@
+---
+title: "I Will Love You Lord with All My Heart"
+structure: [[c1,c1,c2,v1]]
+inkey: "z"
+speed: "z"
+c1: |
+ I will love You Lord, with all my heart
+ With all my soul and with all my mind
+c2: |
+ I will love You Lord
+v1: |
+ This is the first and great commandment
+ I will love You Lord, I will love You Lord
+ And this is why I was created
+ Just to love You Lord, just to love You Lord

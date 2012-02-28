@@ -1,0 +1,31 @@
+---
+title: "This is How I Know What Love is"
+structure: [[v1,v2,c1],[v3,c1,b1]]
+inkey: "z"
+speed: "z"
+v1: |
+ This is how I know what love is
+ This is how I know I’m free
+ This is how I know salvation
+ Jesus came and died for me
+v2: |
+ This is why I come to worship
+ This is why I lift my hands
+ This is why I now surrender
+ Everything I am
+c1: |
+ Because of your love, there’s dancing in my heart
+ Because of your grace I am free
+ Because of your Faithfulness
+ There’s a song that must be sung.
+ I will sing, I will sing because of you.
+v3: |
+ This is why there’s joy within me
+ This is why my spirit sings
+ Jesus you’re my great adventure
+ You’re my everything
+b1: |
+ You came to save the world
+ To save the world, to save the world
+ Your love can change the world
+ Can change the world, can change the world

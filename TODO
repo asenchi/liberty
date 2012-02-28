@@ -4,8 +4,10 @@
 * Master USB with latest install script and python2.7
 * Windows desktop shortcut w/ template for adding a song (notepad)
 * Figure out why extra page break appears
+* sort by speed secondary sort by key
 
 * Javascript requirements:
+    * "blank" screen, a key to display:none all slides
     * Low Priority
         ** Toggle displayed song and raw yaml file ("show source")
 

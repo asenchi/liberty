@@ -1,0 +1,23 @@
+---
+title: "I Cry Out"
+structure: [[v1,v2,v3,c1,c2]]
+inkey: "z"
+speed: "z"
+v1: |
+ I cry out to see Your glory revealed in me
+ You O Lord have sent Your love to free me
+v2: |
+ Oh God my rock
+ My strength in weakness
+ I rest in You oh Lord
+v3: |
+ You are my hope and Your promise never fails me
+ And my desire is to follow You forever
+c1: |
+ For You are good
+ For You are good
+ For You are good to me
+c2: |
+ For You are good
+ For You are good
+ For You are good to me

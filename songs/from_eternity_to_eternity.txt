@@ -1,0 +1,26 @@
+---
+title: "From Eternity to Eternity"
+structure: [[v1,v2],[v3,c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ From eternity to eternity
+ Your kingdom will ever reign
+ You are the one God, Jesus, and we bear Your name
+v2: |
+ From the rulers north to the rulers south
+ To the kingdoms east and west
+ They will bow before You
+ Your Lordship confess
+v3: |
+ Your oceans clap their hands
+ Your trees, they wave their branches
+ Your rivers run with praise
+ All creation will praise
+c1: |
+ Lord, we delight in Your rule
+ Your kingdom's advancing and Lord
+ We are moving with You
+ Lord, we delight in Your reign
+ Creation will praise You and Lord 
+ We exalt Your great name
