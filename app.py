@@ -48,14 +48,16 @@ def song(title):
             opened = open_file(path)
             serialized = yamlize(opened)
             compiled = build_song(serialized, raw)
+    total=len(compiled["final"])
     return render_template(
                "song.html",
                song=compiled["final"],
                title=compiled["title"],
+               total=total,
                raw=compiled["raw"]
            )
 
-@app.route("/songs/inkey/<key>")
+@app.route("/songs/bykey/<key>")
 def inkey(key):
     songlist = list(get_files(app.config["SONGS"]))
     songs = {}
