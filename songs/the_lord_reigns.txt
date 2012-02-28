@@ -1,0 +1,24 @@
+---
+title: "The Lord Reigns"
+structure: [[v1,v2,v3,v4]]
+inkey: "z"
+speed: "z"
+v1: |
+ The Lord reigns, the Lord reigns
+ The Lord reigns, let the earth rejoice
+ Let the earth rejoice, let the earth rejoice
+ Let the poeople be glad that our God reigns
+v2: |
+ His praises go before Him, defeating all His enemies
+ The whole earth shall be filled with
+ The presence of the Lord
+ With the presence of the Lord
+v3: |
+ The heavens declare His righteousness
+ The people see His glory
+ For you O Lord are exalted over all the earth
+ Over all the earth
+v4: |
+ A fire goes before Him and burns up all His enemies
+ The hills melt like wax at the presence of the Lord
+ At the presence of the Lord

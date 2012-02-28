@@ -1,0 +1,13 @@
+---
+title: "Thank You for Your love"
+structure: [[v1]]
+inkey: "z"
+speed: "z"
+v1: |
+ Thank You for Your love
+ Thank You for Your goodness
+ Thank You for Your grace
+ That's brought us through
+ For as high as the heaven's above
+ So great is the measure of Your perfect love
+ Great is the measure of your perfect love

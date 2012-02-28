@@ -1,0 +1,15 @@
+---
+title: "Teach Me Your Ways Oh Lord"
+structure: [[v1, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ Teach me Your ways, oh Lord
+ And I will walk in Your truth
+ Show me Your paths, oh Lord
+ For I am devoted to You Purify my heart's desire
+ I long to be Your servant
+c1: |
+ Give me an undivided heart that I may fear Your name
+ Give me an undivided heart
+ No other gods, no other gods, no other gods before You
