@@ -1,0 +1,20 @@
+---
+title: "Come, Let Us Gather at His Table"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Come let us gather at His table
+ Let's remember all the Lord has done
+ How He offered Himself freely
+ So we all could stand here now as one
+c1: |
+ Holy is the Lord our Savior
+ Let us praise His name together
+ Holy is the Lord our Maker, Holy is His name forever
+ Holy is the Lord
+v2: |
+ Come let us gather at His feet now
+ See the nail scars as we bow in praise
+ How could one so pure and tender
+ Suffer death so we could stand in grace

@@ -1,0 +1,33 @@
+---
+title: "Who Paints the Sky"
+structure: [[v1,c1,c2],[v2,c1,c2]]
+inkey: z
+speed: z
+v1: |
+ Who paints the sky into glorious day
+ Only the splendor of Jesus
+ Who breathes His life into fists of clay
+ Only the splendor of Jesus
+ Who shapes the valleys and brings the rain
+ Only the splendor of Jesus
+ Who makes the desert to live again
+ Only the splendor of Jesus
+c1: |
+ O-O-O
+ Teach every nation His marvelous ways
+ O-O-O
+ Each generation shall sing His praise
+c2: |
+ He is wonderful, He is glorious
+ Clothed in righteousness, full of tenderness
+ Come and worship Him, He's the Prince of life
+ He will cleanse our hearts in His river of fire
+v2: |
+ Who hears the cry of the barren one
+ Only the mercy of Jesus
+ Who breaks the curse of the heart of stone
+ Only the mercy of Jesus
+ Who storms the prison and sets men free
+ Only the mercy of Jesus
+ Purchasing souls for eternity
+ Only the mercy of Jesus

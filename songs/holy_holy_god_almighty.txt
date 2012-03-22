@@ -1,4 +1,5 @@
 ---
+title: "Holy, Holy God Almighty"
 structure: [[verse1, chorus, bridge]]
 inkey: key (i.e: a)
 speed: 

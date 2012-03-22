@@ -1,0 +1,24 @@
+---
+title: "How Great is Our God"
+structure: [[c1,v1,v2,b1]]
+inkey: z
+speed: z
+c1: |
+ How great is our God, sing with me how great is our God
+ And all will see, how great, how great is our God
+v1: |
+ The splendor of the King, clothed in majesty
+ Let all the earth rejoice, all the earth rejoice
+ He wraps Himself in light, and darkness tries to hide
+ And trembles at His voice and trembles at His voice
+v2: |
+ And age to age He stands, and time is in His hands
+ Beginning and the end, beginning and the end
+ The Godhead three in one, Father, Spirit, Son
+ The Lion and the Lamb, the Lion and the Lamb
+b1: |
+ Name above all names, worthy of all praise
+ My heart will sing, how great is our God
+ How great are You Lord
+ I will sing how great are You Lord
+ And all will see, how great, how great are You Lord

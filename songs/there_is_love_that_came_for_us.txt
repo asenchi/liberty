@@ -1,0 +1,29 @@
+---
+title: "There is Love that came for us"
+structure: [[v1,v2,c1],[v3,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ There is Love that came for us
+ Humbled to a sinner's cross
+ You broke my shame and sinfulness
+ You rose again victorious
+v2: |
+ Faithfulness none can deny
+ Through the storm and through the fire
+ There is truth that sets me free
+ Jesus Christ who lives in me
+c1: |
+ You are stronger, You are stronger
+ Sin is broken, You have saved me
+ It is written, Christ is risen
+ Jesus You are Lord of all
+v3: |
+ No beginning and no end
+ You're my hope my defense
+ You came to seek and save the lost
+ You paid it upon the cross
+b1: |
+ So let Your name be lifted higher
+ Be lifted higher
+ Be lifted higher

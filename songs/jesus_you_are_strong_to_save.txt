@@ -1,0 +1,23 @@
+---
+title: "Jesus, You Are Strong to Save"
+structure: [[v1, c1],[v2,c1,b1]]
+v1: |
+ Jesus You are strong to save
+ There's no battle you can't win
+ Stronger even than the grave
+ We turn to You again
+c1: |
+ We lift You up, we lift You higher
+ You deserve our highest praise
+ We'll sing it out, we'll sing it louder
+ Jesus name above all names
+v2: |
+ Only You have overcome
+ Every trial this world can bring
+ Humbly You defeated sin
+ Then died that we might live
+b1: |
+ You conquered temptation, obedient to death
+ You won our salvation, Lord You won our righteousness
+inkey: z
+speed: z
