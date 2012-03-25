@@ -1,0 +1,34 @@
+---
+title: "We Are The People of God"
+structure: [[v1,v2,c1],[b1,v3,c1]]
+inkey: z
+speed: z
+v1: |
+ We are the people of God
+ The sons and daughters of love
+ Forgiven, restored and redeemed
+ Living our lives to the praise of our King
+v2: |
+ We are the ones who will shine
+ His light in the darkness of night
+ The hopeless, the broken, the poor
+ They will be hopeless and broken no more
+c1: |
+ You are the light
+ The light of the world
+ And we shine You, Lord
+ You are the light
+ The light of the world
+ And we shine You, Lord
+b1: |
+ We shine like the stars in the universe
+ Proclaiming the hope of our God
+ To the sons and the daughters in all the earth
+ We shine You, Lord
+v3: |
+ To the Lost and the broken
+ The hurting and hopeless
+ We Shine You, Lord
+ To the ones who are weary
+ Burdened and suffering
+ We shine You, Lord

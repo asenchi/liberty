@@ -1,0 +1,36 @@
+---
+title: "Where Do I Go"
+structure: [[v1,c1],[v2,c1],[b1,c1]]
+inkey: z
+speed: fast
+v1: |
+ Where do I go when I feel so low
+ I can hardly see the sun
+ Where do I go when I feel alone
+ Just like David on the run
+ Where do I go when my heart explodes
+ With a song that can't be sung
+ Where do I go? Here's where I go
+ To the mountain of the Lord
+c1: |
+ Rejoice, rejoice!
+ Our God is king of everything
+ Rejoice, rejoice!
+ The world is in his hands
+ Lift up your voice
+ And love your God with all your heart, rejoice!
+v2: |
+ Where do I go with a thankful heart
+ That can feel his love abound
+ How do I thank my provisioner
+ For the manna on the ground
+ What can I sing as an offering
+ Like a bird making it's call
+ Here's what I sing praise to the king
+ He's the one that's over all
+b1: |
+ Lord in every circumstance we'll praise you
+ Lord every day we'll call your name
+ And you'll always lift us up
+ And you'll always lift us up
+ And we'll sing and shout your praise for ever more
