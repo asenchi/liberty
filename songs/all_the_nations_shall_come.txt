@@ -1,0 +1,20 @@
+---
+title: "All the nations shall come"
+structure: [[v1, c1, b1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼All the nations shall come
+ They shall enter with song
+ They shall worship the Lord 
+ Lift up high praises to the Lord 
+ Lift up high praises to our God
+c1:
+ You are King, You are Prince of Peace
+ And You will reign on David’s throne
+ You are Jesus, You are Prince of Peace
+ And You will reign on David’s throne
+b1: |
+ Hallelujah to the Prince of Peace
+ Hallelujah to the Son of Man
+ Hallelujah to our God, to our God, to our God

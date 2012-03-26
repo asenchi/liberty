@@ -1,0 +1,25 @@
+---
+title: "And I cry Holy, Holy, Holy God"
+structure: [[v1, v2, v3, v4]]
+inkey: "z"
+speed: "z"
+v1: |
+￼And I cry Holy, Holy, Holy God
+ How awesome is Your name
+ Holy, Holy, Holy God
+ How majestic is Your reign
+ And I am changed in the presence of a Holy God
+v2: |
+ In the presence of a Holy God 
+ There’s new meaning now to grace 
+ You took all my sins upon Yourself 
+ I can only stand amazed
+ v3: |
+ In the presence of Your infinite might
+ I’m so small and frail and weak
+ When I see Your power and wisdom, Lord
+ I have no words left to speak in the presence of Your glory
+v4: |
+ All my crowns lie in the dust
+ You are righteous in Your Judgments, Lord
+ You are faithful, true, and just

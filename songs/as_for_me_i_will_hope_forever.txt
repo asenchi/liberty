@@ -1,0 +1,20 @@
+---
+title: "As for me I will hope forever"
+structure: [[v1, c1, v2, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ As for me I will hope forever
+ I will praise You yet more and more
+ With my mouth I will tell of Your righteousness
+ Your salvation from shore to shore
+c1: |
+ And I will come with the mighty deeds of God
+ I will make known Your Name
+ I will tell of Your holy love for me
+ And how You love them the same
+v2: |
+ Oh, God, You have taught me from early age
+ Still I will tell of Your wondrous deeds
+ Even when I‘m old, oh, God, give me more of You
+ Until my generation sees

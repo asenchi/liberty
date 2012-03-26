@@ -1,0 +1,15 @@
+---
+title: "Father I can’t explain this kind of love"
+structure: [[v1, v2]]
+inkey: "z"
+speed: "z"
+v1: |
+ Father I can’t explain this kind of love
+ This kind of grace
+ I know my sin broke Your heart 
+ And yet You love to welcome me
+v2: |
+ This is my song of praise to You
+ For who you are and all that You do
+ From the moment my life began
+ You have been faithful

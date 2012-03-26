@@ -1,0 +1,25 @@
+---
+title: "All I once held dear, built my life upon"
+structure: [[v1, c1, v2, c1, v3, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ All I once held dear, built my life upon
+ All this world reveres and wars to own
+ All I once thought gain I have counted loss
+ Spent and worthless now compared to this
+c1: |
+ Knowing You, Jesus; Knowing You
+ There is no greater thing
+ You’re my all; You’re the Best
+ You’re my joy my righteousness, and I love You Lord
+v2: |
+ Now my heart’s desire is to know You more 
+ To be found in You and be known as Yours
+ To possess by faith what I could not earn 
+ All surpassing gift of righteousness
+v3: |
+ Oh to know the power of Your risen life
+ And to know You in Your sufferings
+ To become like You in Your death my Lord
+ So with You to live and never die

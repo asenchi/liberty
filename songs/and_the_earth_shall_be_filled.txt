@@ -1,0 +1,17 @@
+---
+title: "And the earth shall be filled"
+structure: [[v1, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼And the earth shall be filled
+ With the knowledge of the glory of the Lord
+ Just like the waters cover the sea
+ And the earth shall be filled
+ With the knowledge of the glory of the Lord
+ Just like the waters cover the sea
+c1: |
+ Lifting up a standard for the nations
+ To demonstrate the purpose of His kingdom
+ His people unashamed to proclaim His name
+ As the fullness of the Lord fills all in all

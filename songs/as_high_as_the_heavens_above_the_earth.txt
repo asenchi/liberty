@@ -1,0 +1,15 @@
+---
+title: "As high as the heavens are above the earth"
+structure: [[v1, v2]]
+inkey: "z"
+speed: "z"
+v1: |
+ As high as the heavens are above the earth
+ So great is the Father’s love
+ As far as the east is from the west
+ So far has He taken our sin from us
+v2: |
+ For His anger lasts only a moment
+ But His favor lasts for a lifetime
+ Weeping may remain for a night
+ But rejoicing comes, it comes in the morning

@@ -1,0 +1,23 @@
+---
+title: "Father of life draw me closer"
+structure: [[v1, v2, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼Father of life draw me closer
+ Lord, my heart is set on You
+ Let me run the race of time with Your life unfolding mine
+ And let the peace of God let it reign
+v2: |
+ Oh Holy Spirit You're my comfort
+ Strengthen me hold my head up high
+ And I stand upon Your truth
+ Bringing glory unto You and let the peace of God let it reign
+c1: |
+ Oh Lord I hunger for more of You
+ Rise up within me, let me know Your truth 
+ Oh Holy Spirit saturate my soul
+ And let the life of God fill me now
+ Let Your healing power breathe life
+ And make me whole
+ And let the peace of God let it reign

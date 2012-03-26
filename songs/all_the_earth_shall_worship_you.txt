@@ -1,0 +1,21 @@
+---
+title: "All the earth shall worship You"
+structure: [[v1, v2, c1, b1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼All the earth shall worship You
+ And sing unto Your name
+ They shall sing unto Your Name
+v2: |
+ And unto Your Name, O Lord Every knee shall bow,
+ Every tongue confess
+ That You are Lord
+c1: |
+ To the glory of the Father,
+ We declare that You are Lord;
+ To the glory of the Father,
+ We declare that You are Lord
+b1: |
+ You are Lord (You are Lord)
+ You are Lord (You are Lord)

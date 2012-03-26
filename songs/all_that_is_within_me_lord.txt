@@ -1,0 +1,22 @@
+---
+title: "All that is within me Lord"
+structure: [[v1, v2, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼All that is within me Lord
+ Will bless Your Holy name
+ I live my life to worship You alone
+ You brought me out of darkness and into Your glorious light
+ Forever I will sing of Your great love
+ Forever I will sing of Your great love
+v2: |
+ I love to see You glorified
+ To see You lifted high
+ I yearn to see all nations bow their knee
+ It’s You alone Lord Jesus
+ Who can cause the coldest heart
+ To find Your love and everlasting peace
+c1: |
+ Holy, Holy, Holy is the Lord 
+ Holy, Holy, Holy is the Lord

@@ -1,0 +1,17 @@
+---
+title: "From the rising of the sun ‘til the time that it goes down"
+structure: [[v1, v2, c1, c2]]
+inkey: "z"
+speed: "z"
+v1: |
+ From the rising of the sun ‘til the time that it goes down
+ The Name of the Lord shall be praised
+v2: |
+ From the rising of the sun ‘til the time that it goes down
+ The Name of the Lord shall be praised
+c1: |
+ For the Lord is high above all nations
+ His glory above the heavens
+c2: |
+ And who is like unto the Lord our God
+ Who dwelleth on high

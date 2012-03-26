@@ -1,0 +1,15 @@
+---
+title: "As a deer panteth for the water"
+structure: [[v1, v2]]
+inkey: "z"
+speed: "z"
+v1: |
+ As a deer panteth for the water
+ So my soul longeth after You
+ You alone are my heart’s desire
+ And I long to worship You
+v2: |
+ You alone are my strength, my shield
+ To You alone will my spirit yield
+ You alone are my heart’s desire
+ And I long to worship You

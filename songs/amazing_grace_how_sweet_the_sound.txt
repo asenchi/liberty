@@ -1,0 +1,27 @@
+---
+title: "Amazing Grace! How sweet the sound"
+structure: [[v1, v2, c1],[v3, v4, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼Amazing Grace! How sweet the sound
+ That saved a wretch like me
+ I once was lost, but now I’m found, was blind, but now I see
+v2: |
+ ‘Twas Grace that taught my heart to fear
+ And Grace my fears relieved
+ How precious did that Grace appear the hour I first believed
+c1: |
+ My chains are gone, I’ve been set free
+ My God, my Savior has ransomed me
+ And like a flood, His mercy reigns
+ Unending love, Amazing Grace
+ v3: |
+ The Lord has promised good to me
+ His Word my hope secures; He will my shield and portion be
+ As long as life endures
+v4: |
+ The earth shall soon dissolve like snow
+ The sun forbear to shine
+ But God who called me here below
+ Will be forever mine

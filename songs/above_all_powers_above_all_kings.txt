@@ -1,0 +1,22 @@
+---
+title: "Above all powers, above all kings"
+structure: [[v1, v2, c1]]
+inkey: "z"
+speed: "z"
+v1: |
+ Above all powers, above all kings
+ Above all nature and all created things
+ Above all wisdom and all the ways of man
+ You were here
+ Before the world began
+v2: |
+ Above all kingdoms
+ Above all thrones
+ Above all wonders the world has ever known
+ Above all wealth and treasures of the Earth
+ There's no way to measure what You're worth
+c1: |
+ Crucified, laid behind a stone
+ You lived to die rejected and alone
+ Like a rose trampled on the ground
+ You took the fall and thought of me above all

@@ -1,0 +1,24 @@
+---
+title: "For this purpose Christ was revealed"
+structure: [[v1, c1, v2, c1, b1]]
+inkey: "z"
+speed: "z"
+v1: |
+￼For this purpose Christ was revealed
+ To destroy all the works of the evil one
+ Christ in us has overcome
+ So with gladness we sing
+ And welcome His kingdom in
+c1: |
+ Over sin He has conquered (Hallelujah, He has conquered)
+ Over death, victorious (Hallelujah, victorious)
+ Over sickness He has triumphed (Hallelujah, He has triumphed)
+ Jesus reigns over all
+v2: |
+ In the Name of Jesus we stand, by the pow’r of His blood
+ We now claim this ground, Satan has no authority here
+ Clouds of darkness must flee, for Christ has the victory
+b1: |
+ Jesus reigns over all
+ Jesus reigns over all
+ Jesus reigns over all

@@ -1,0 +1,33 @@
+---
+title: "For the beauty of the earth"
+structure: [[v1, v2],[v3, v4]]
+inkey: "z"
+speed: "z"
+v1: |
+￼For the beauty of the earth
+ For the glory of the skies
+ For the love which from our birth
+ Over and around us lies
+ Christ our God, to Thee we raise
+ This our hymn of grateful praise
+v2: |
+ For the wonder of each hour
+ Of the day and of the night
+ Hill and vale and tree and flow’r
+ Sun and moon and stars of light
+ Christ our God, to Thee we raise
+ This our hymn of grateful praise
+v3: |￼
+ For the joy of human love
+ Brother, sister, parent, child
+ Friends on earth and friends above
+ For all gentle thoughts and mild
+ Christ our God, to Thee we raise
+ This our hymn of grateful praise
+v4: |
+ For Thy church that evermore
+ Lifteth holy hands above
+ Offering up on every shore
+ Her pure sacrifice of love
+ Christ our God, to Thee we raise
+ This our hymn of grateful praise

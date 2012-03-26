@@ -1,0 +1,14 @@
+---
+title: "From my heart to Yours"
+structure: [[v1, v2]]
+inkey: "z"
+speed: "z"
+v1: |
+￼From my heart to Yours
+ From my heart to Yours
+ I lift a love song up to You
+ I lift a love song up to You
+v2: |
+ I love everything about You
+ And everything You do
+ Oh Lord, from my heart to Yours

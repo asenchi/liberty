@@ -1,0 +1,16 @@
+---
+title: "All creation cries to You"
+structure: [[v1, v2, c1], [v3, c1, b1]]
+inkey: "z"
+speed: "z"
+v1: |
+ All creation cries to You
+ Worshipping in spirit and in truth
+ Glory to the Faithful One
+ Jesus Christ, God’s Son
+v2: |
+ All creation gives You praise  You alone are truly great  You alone are God who reigns  For eternity c1: |
+ God is great and His praise fills the earth, fills the heavens  And Your name will be praised through all the world  God is great, sing His praise all the earth, all the heavens  Cause we’re living for the glory of Your name  The glory of Your name
+v3: |
+ All to You oh God we bring  Jesus teach us how to live  Let your fire burn in us  That all may hear and all may see b1: |
+ Holy is the Lord  The whole earth sings  The whole earth sings
