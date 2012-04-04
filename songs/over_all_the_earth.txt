@@ -1,0 +1,20 @@
+---
+title: "Over All The Earth"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Over all the earth You reign on high
+ Every mountain stream, every sunset sky
+ But my one request, Lord my only aim
+ Is that You reign in me
+c1: |
+ Lord reign in me, Reign in Your power
+ Over all my dreams, in my darkest hour
+ You are the Lord of all I am
+ So won’t You reign in me
+v2: |
+ Over every thought, over every word
+ May my life reflect the beauty of the Lord
+ You mean more to me than any earthly thing
+ So won’t You reign in me

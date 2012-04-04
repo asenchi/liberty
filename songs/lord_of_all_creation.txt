@@ -1,0 +1,25 @@
+---
+title: "Lord Of All Creation"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: a
+speed: z
+v1: |
+ Lord of all creation
+ Of water, earth and sky
+ The heavens are Your tabernacle
+ Glory to the Lord on high
+c1: |
+ God of wonders beyond our galaxy
+ You are holy, holy
+ The universe declares Your majesty
+ You are holy, holy
+ Lord of heaven and earth
+ Lord of heaven and earth
+v2: |
+ Ruler of the nations
+ King of kings and Lord of lords
+ Every knee will bow before You
+ To sing Your praise forevermore
+b1: |
+ Hallelujah
+ To the Lord of heaven and earth

@@ -1,11 +1,12 @@
 ---
 title: "The saints of the Lord possess the kingdom"
 structure: [[verse1, chorus]]
-inkey:
-speed:
+inkey: z
+speed: z
 verse1: |
  The saints of the Lord possess the kingdom
- Possess the kingdom possess the kingdom
+ Possess the kingdom
+ Possess the kingdom
  The saints of the Lord possess the kingdom
  And will reign forevermore
 chorus: |
