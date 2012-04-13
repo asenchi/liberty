@@ -1,8 +1,8 @@
 ---
 title: "Holy, Holy God Almighty"
 structure: [[verse1, chorus, bridge]]
-inkey: key (i.e: a)
-speed: 
+inkey: z
+speed: z
 verse1: |
  Holy Holy God Almighty
  Who was and is to come

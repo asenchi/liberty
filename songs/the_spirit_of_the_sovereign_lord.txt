@@ -1,6 +1,6 @@
 ---
 title: "The Spirit of the Sovereign Lord"
-structure: [[]]
+structure: [[b1,v1,c1,v2]]
 inkey: "z"
 speed: "z"
 b1: |

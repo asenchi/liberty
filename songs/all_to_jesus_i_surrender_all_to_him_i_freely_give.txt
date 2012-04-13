@@ -1,23 +1,34 @@
 ---
-title: "All to Jesus I surrender, all to Him I freely give"
+title: "All to Jesus I surrender"
 structure: [[v1, c1, v2, c1, v3, c1, v4, c1, v5, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼All to Jesus I surrender, all to Him I freely give;
- I will ever love and trust Him, in His presence daily live.
+ All to Jesus I surrender
+ All to Him I freely give
+ I will ever love and trust Him
+ In His presence daily live
 c1: |
- I surrender all, I surrender all. 
- All to Thee, My Blessed Savior, I surrender all.
+ I surrender all, I surrender all.
+ All to Thee, My Blessed Savior
+ I surrender all.
 v2: |
- All to Jesus I surrender, humbly at His feet I bow,
- Worldly pleasures all forsaken, take me Jesus, take me now.
+ All to Jesus I surrender
+ Humbly at His feet I bow
+ Worldly pleasures all forsaken
+ Take me Jesus take me now
 v3: |
- All to Jesus I surrender, make me, savior, wholly Thine;
- Let me feel the Holy Spirit, truly know that Thou art mine.
+ All to Jesus I surrender
+ make me savior wholly Thine
+ Let me feel the Holy Spirit
+ Truly know that Thou art mine
 v4: |
- All to Jesus I surrender, Lord, I give myself to Thee;
- Fill me with Thy love and power, let Thy blessing fall on Me.
+ All to Jesus I surrender
+ Lord I give myself to Thee
+ Fill me with Thy love and power
+ Let Thy blessing fall on Me
 v5: |
- All to Jesus I surrender, now I feel the sacred flame;
- Oh, the joy of full salvation! Glory, glory to His Name!
+ All to Jesus I surrender
+ Now I feel the sacred flame
+ Oh the joy of full salvation
+ Glory, glory to His Name

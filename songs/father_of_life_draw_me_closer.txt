@@ -4,7 +4,7 @@ structure: [[v1, v2, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼Father of life draw me closer
+ Father of life draw me closer
  Lord, my heart is set on You
  Let me run the race of time with Your life unfolding mine
  And let the peace of God let it reign

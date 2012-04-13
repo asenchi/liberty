@@ -4,7 +4,7 @@ structure: [[v1, c1, b1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼All the nations shall come
+ All the nations shall come
  They shall enter with song
  They shall worship the Lord 
  Lift up high praises to the Lord 

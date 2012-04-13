@@ -4,7 +4,7 @@ structure: [[v1, v2, c1, b1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼All the earth shall worship You
+ All the earth shall worship You
  And sing unto Your name
  They shall sing unto Your Name
 v2: |

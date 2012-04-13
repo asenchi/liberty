@@ -4,9 +4,10 @@ structure: [[v1, c1, v2, c1, v3, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼Angels from the realms of glory
+ Angels from the realms of glory
  Wing your flight o’er all the earth
- Ye who sang creation’s story Now proclaim Messiah’s birth
+ Ye who sang creation’s story
+ Now proclaim Messiah’s birth
 c1: |
  Come and worship, come and worship
  Worship Christ, the new born King
@@ -15,7 +16,7 @@ v2: |
  Watching o’er Your flocks by night
  God with us is now residing
  Yonder shines the Infant light
-c3: |
+v3: |
  Saints before the alter bending
  Watching long in hope and fear
  Suddenly the Lord descending

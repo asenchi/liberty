@@ -4,7 +4,7 @@ structure: [[v1, c1, v2, c1, v3, c1, v4, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼Angels we have heard on high, sweetly singing o’er the plains
+ Angels we have heard on high, sweetly singing o’er the plains
  And the mountains in reply, echoing their joyous strains
 c1: |
  Gloria in excelsis Deo

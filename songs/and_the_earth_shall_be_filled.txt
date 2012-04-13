@@ -4,7 +4,7 @@ structure: [[v1, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼And the earth shall be filled
+ And the earth shall be filled
  With the knowledge of the glory of the Lord
  Just like the waters cover the sea
  And the earth shall be filled

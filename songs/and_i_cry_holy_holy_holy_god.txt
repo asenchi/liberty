@@ -1,10 +1,10 @@
 ---
 title: "And I cry Holy, Holy, Holy God"
-structure: [[v1, v2, v3, v4]]
+structure: [[v1, v2],[v3, v4]]
 inkey: "z"
 speed: "z"
 v1: |
-￼And I cry Holy, Holy, Holy God
+ And I cry Holy, Holy, Holy God
  How awesome is Your name
  Holy, Holy, Holy God
  How majestic is Your reign
@@ -14,7 +14,7 @@ v2: |
  There’s new meaning now to grace 
  You took all my sins upon Yourself 
  I can only stand amazed
- v3: |
+v3: |
  In the presence of Your infinite might
  I’m so small and frail and weak
  When I see Your power and wisdom, Lord

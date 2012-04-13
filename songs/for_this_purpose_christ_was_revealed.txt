@@ -4,7 +4,7 @@ structure: [[v1, c1, v2, c1, b1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼For this purpose Christ was revealed
+ For this purpose Christ was revealed
  To destroy all the works of the evil one
  Christ in us has overcome
  So with gladness we sing

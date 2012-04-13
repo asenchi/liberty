@@ -1,17 +1,14 @@
 ---
 title: "For Thou O Lord art high above all the earth"
-structure: [[v1, c1, v2, c1, b1]]
+structure: [[v1, c1, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼For Thou O Lord art high above all the earth
+ For Thou O Lord art high above all the earth
  Thou art exalted far above all Gods
  For Thou O Lord art high above all the earth
  Thou art exalted far above all Gods
 c1: |
- I exalt Thee
- I exalt Thee
- I exalt Thee, O Lord
  I exalt Thee
  I exalt Thee
  I exalt Thee, O Lord

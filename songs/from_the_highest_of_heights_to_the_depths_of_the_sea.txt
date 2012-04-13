@@ -4,7 +4,7 @@ structure: [[v1, c1, c2],[v2, c1, c2]]
 inkey: "z"
 speed: "z"
 v1: |
-￼From the highest of heights to the depths of the sea
+ From the highest of heights to the depths of the sea
  Creation’s revealing Your majesty
  From the colors of fall to the fragrance of spring
  Every creature unique in the song that it sings, all exclaiming

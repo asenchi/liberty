@@ -4,7 +4,7 @@ structure: [[v1, v2, c1]]
 inkey: "z"
 speed: "z"
 v1: |
-￼All that is within me Lord
+ All that is within me Lord
  Will bless Your Holy name
  I live my life to worship You alone
  You brought me out of darkness and into Your glorious light

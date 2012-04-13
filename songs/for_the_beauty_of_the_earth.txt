@@ -4,7 +4,7 @@ structure: [[v1, v2],[v3, v4]]
 inkey: "z"
 speed: "z"
 v1: |
-￼For the beauty of the earth
+ For the beauty of the earth
  For the glory of the skies
  For the love which from our birth
  Over and around us lies
@@ -17,7 +17,7 @@ v2: |
  Sun and moon and stars of light
  Christ our God, to Thee we raise
  This our hymn of grateful praise
-v3: |￼
+v3: |
  For the joy of human love
  Brother, sister, parent, child
  Friends on earth and friends above
