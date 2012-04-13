@@ -1,0 +1,23 @@
+---
+title: "Great are You, Lord, Mighty in Strength"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ Great are You Lord mighty in strength
+ You are faithful You will ever be
+ We will praise You all of our days
+ It’s for Your glory we offer everything
+c1: |
+ Raise your hands, all you nations, shout to God all creation
+ How awesome is the Lord most high
+ We will praise You together for now and forever
+ How awesome is the Lord most high
+v2: |
+ Where you send us God we will go
+ You’re the answer we want the world to know
+ We will trust You when You call our name
+ Where You lead us we’ll follow all the way
+b1: |
+ Hallelujah, Hallelujah
+ How awesome is the Lord most high

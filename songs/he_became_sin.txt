@@ -1,0 +1,25 @@
+---
+title: "He Became Sin, Who Knew No Sin"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ He became sin, Who knew no sin
+ That we might become His Righteousness
+ He humbled Himself and carried the cross
+ Love so amazing, Love so amazing
+c1: |
+ Jesus Messiah, Name above all names
+ Blessed Redeemer, Emmanuel
+ The rescue for sinners, the ransom from Heaven
+ Jesus Messiah, Lord of all
+v2: |
+ His body the bread, His blood the wine
+ Broken and poured out all for love
+ The whole earth trembled, and the veil was torn
+ Love so amazing, Love so amazing
+b1: |
+ All our hope is in You
+ All our hope is in You
+ All the glory to You, God
+ The light of the world

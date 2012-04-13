@@ -1,6 +1,0 @@
----
-title: "Jesus, Name Above All Names"
-structure: [[]]
-inkey: z
-speed: z
-

@@ -1,8 +1,8 @@
 ---
 title: "Oh Jesus seated at the right hand of God"
 structure: [[verse1, chorus]]
-inkey:
-speed:
+inkey: z
+speed: z
 verse1: |
  Oh Jesus seated at the right hand of God
  Seated on the throne of my heart

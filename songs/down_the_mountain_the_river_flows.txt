@@ -1,0 +1,25 @@
+---
+title: "Down the Mountain the River Flows"
+structure: [[v1,c1],[v2,c1],[v3,c1]]
+inkey: z
+speed: z
+v1: |
+ Down the mountain the river flows
+ And it brings refreshing wherever it goes
+ Thru the valleys and over the fields
+ The river is rushing and the river is here
+c1: |
+ The river of God sets our feet-a-dancing
+ The river of God fills our hearts with cheer
+ The river of God fills our mouth with laughter
+ And we rejoice for the river is here
+v2: |
+ The river of God is teeming with life
+ All who touch it can be revived
+ And those who linger on this river's shore
+ Will come back thirsting for more of the Lord
+v3: |
+ Up to the mountain we love to go
+ To find the presence of the Lord
+ Along the banks of the river we run
+ We dance with laughter giving praise to the Son

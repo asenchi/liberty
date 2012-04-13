@@ -1,0 +1,37 @@
+---
+title: "How Deep The Father's Love For Us"
+structure: [[v1,v2],[v3,v4]]
+inkey: z
+speed: z
+v1: |
+ How deep the Father’s love for us
+ How vast beyond all measure
+ That He should give His only Son
+ To make a wretch His treasure
+ How great the pain of searing loss
+ The Father turns His face away
+ As wounds which mar the Chosen One
+ Bring many sons to glory
+v2: |
+ Behold the Man upon a cross
+ My sin upon His shoulders
+ Ashamed I hear my mocking voice
+ Call out among the scoffers
+ It was my sin that held Him there
+ Until it was accomplished
+ His dying breath has bro’t me life
+ I know that it is finished
+v3: |
+ I will not boast in anything
+ No gifts, no pow’r, no wisdom
+ But I will boast in Jesus Christ
+ His death and resurrection
+ Why should I gain from His reward
+ I cannot give an answer
+ But this I know with all my heart
+ His wounds have paid my ransom
+v4: |
+ Why should I gain from His reward
+ I cannot give an answer
+ But this I know with all my heart
+ His wounds have paid my ransom

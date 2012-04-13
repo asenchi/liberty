@@ -1,0 +1,28 @@
+---
+title: "I Hear the Savior Say"
+structure: [[v1,c1,b1],[v2,c1,b1],[v3,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ I hear the Savior say
+ Thy strength indeed is small
+ Child of weakness watch and pray
+ Find in me thine all in all
+c1: |
+ 'Cause Jesus paid it all
+ All to Him I owe
+ Sin had left a crimson stain
+ He washed it white as snow
+b1: |
+ Oh praise the One who paid my debt and
+ Raise this life up from the dead
+v2: |
+ Lord now indeed I find
+ Thy power and thine alone
+ Can change the lepers spots
+ And melt the heart of stone
+v3: |
+ And when before the throne
+ I stand in Him complete
+ Jesus died my soul to save
+ My lips shall still repeat
