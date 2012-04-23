@@ -1,14 +1,14 @@
 {% extends "layout.html" %}
 {% block body %}
 <div id="single">
-    <a href="/creed">Apostle's Creed</a> | <a href="/help">Help</a>
+    <a href="/creed">Apostle's Creed</a> | <a href="/songs/bykey">By Key</a> | <a href="/songs/byspeed">By Speed</a> | <a href="/help">Help</a>
 </div>
 {% for key, items in songs.iteritems() if items %}
 <h1>{{ key|replace("_", " ")|title }}</h1>
-<dl>
+<ul>
 {% for i,song in items %}
-<dt>{{ i }}<dt><dd><a href="/song/{{ song[0] }}">{{ song[1] }}</a></dd>
+<li><a href="/song/{{ song[0] }}">{{ song[1] }}</a></li>
 {% endfor %}
-</dl>
+</ul>
 {% endfor %}
 {% endblock %}

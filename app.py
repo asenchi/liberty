@@ -74,7 +74,7 @@ def inkey(key):
 def bykey():
     songlist = list(get_files(app.config["SONGS"]))
     songs = {}
-    for letter in ["a", "b", "c", "d", "e", "f", "g"]:
+    for letter in ["a", "b", "c", "d", "e", "f", "g", "z"]:
         songs[letter] = in_attr("inkey", songlist, letter)
         songs[letter].sort()
     return render_template(
@@ -87,7 +87,7 @@ def bykey():
 def byspeed():
     songlist = list(get_files(app.config["SONGS"]))
     songs = {}
-    for spd in ["slow", "fast"]:
+    for spd in ["slow", "fast", "z"]:
         songs[spd] = in_attr("speed", songlist, spd)
         songs[spd].sort()
     return render_template(

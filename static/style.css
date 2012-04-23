@@ -12,16 +12,13 @@ a {
   color: white;
 }
 
-dl {
+ul {
   font-size: 32px;
+  list-style-type: none;
+  padding: 0;
 }
 
-dl dt {
-  float: left;
-  padding: 5px;
-}
-
-dl dd {
+li {
   padding: 5px;
 }
 

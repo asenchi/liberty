@@ -1,17 +1,14 @@
-* translate songs
-* documentation
-* Install script that explodes into directory and adds desktop shortcut
-* Master USB with latest install script and python2.7
-* Windows desktop shortcut w/ template for adding a song (notepad)
-* Figure out why extra page break appears
-* sort by speed secondary sort by key
-
 * Javascript requirements:
-    * "blank" screen, a key to display:none all slides
+    * "blank" screen, a key to display:none all slides (key: b)
+    * Back to song list (/songs/) (key: t)
     * Low Priority
         ** Toggle displayed song and raw yaml file ("show source")
 
-* Someday:
-    ** Metrics??
-    ** Twitter??
-    ** Heroku??
+TODO:
+
+* documentation
+* sort by speed secondary sort by key
+* Windows:
+** Install script that explodes into directory and adds desktop shortcut
+** Master USB with latest install script and python2.7
+** Windows desktop shortcut w/ template for adding a song (notepad)
