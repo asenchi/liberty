@@ -43,6 +43,10 @@ window.onload = function() {
 				slides[current].style.display = hidden ? '' : 'none';
 				event.preventDefault();
 				return false;
+			case 84:  // T
+				window.location.href = '/songs/';
+				event.preventDefault();
+				return false;
 		}
 	}
 }
