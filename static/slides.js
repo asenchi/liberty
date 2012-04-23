@@ -38,6 +38,11 @@ window.onload = function() {
 				activate(current - 1);
 				event.preventDefault();
 				return false;
+			case 66:  // B
+				var hidden = slides[current].style.display == 'none';
+				slides[current].style.display = hidden ? '' : 'none';
+				event.preventDefault();
+				return false;
 		}
 	}
 }
