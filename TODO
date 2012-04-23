@@ -1,8 +1,5 @@
 * Javascript requirements:
-    * "blank" screen, a key to display:none all slides (key: b)
-    * Back to song list (/songs/) (key: t)
-    * Low Priority
-        ** Toggle displayed song and raw yaml file ("show source")
+    * progress bar (1/3 slides)
 
 TODO:
 
