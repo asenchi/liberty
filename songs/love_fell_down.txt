@@ -1,0 +1,15 @@
+---
+title: "Love Fell Down"
+structure: [[v1,c1]]
+inkey: z
+speed: z
+v1: |
+  Love fell down to the bloodstained ground
+  Now Your grace abounds forever
+  You are love and You gave me life
+  Now we'll walk this road together
+c1: |
+  I will sing of Your love in the morning
+  I will sing of Your faithfulness at night
+  I will sing of Your mercy, Lord, all my life
+  All my life I will sing
