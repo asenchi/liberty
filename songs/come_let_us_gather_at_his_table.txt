@@ -11,7 +11,8 @@ v1: |
 c1: |
  Holy is the Lord our Savior
  Let us praise His name together
- Holy is the Lord our Maker, Holy is His name forever
+ Holy is the Lord our Maker
+ Holy is His name forever
  Holy is the Lord
 v2: |
  Come let us gather at His feet now
