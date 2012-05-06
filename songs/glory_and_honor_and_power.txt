@@ -1,0 +1,19 @@
+---
+title: "Glory and Honor and Power"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Glory and honor and power to You our God
+ Under Your mighty hand we are bowed down
+ With joy fulfilling Your word, through the ages we'll sing
+ Hosanna, praises to You
+ You are the King
+v2: |
+ Blessing and wisdom and might to You holy One
+ We wear our robes washed white in the blood of the Lamb
+ To You who sits on the throne, You created all things
+ Reign now and forevermore; You are the King
+c1: |
+ You are the King of kings, You are the Lord of lords
+ You are the King of kings, You are the Lord

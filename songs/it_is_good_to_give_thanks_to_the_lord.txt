@@ -1,0 +1,17 @@
+---
+title: "It is good to give thanks to the Lord"
+structure: [[v1,v2]]
+inkey: z
+speed: z
+v1: |
+ It is good to give thanks to the Lord
+ To sing praises to His name
+ All the days of my life
+ To declare Your steadfast love in the morning
+ And Your faithfulness by night
+v2: |
+ For You oh Lord have made me glad
+ I sing for joy at work of Your hands
+ All Your words are faithful and true
+ I will trust in You
+ Yes I will trust in You
