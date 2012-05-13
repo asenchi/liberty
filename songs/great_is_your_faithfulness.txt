@@ -1,0 +1,22 @@
+---
+title: "Great is Your faithfulness"
+structure: [[v1,v2,c1,v3,b1]]
+inkey: z
+speed: z
+v1: |
+ Great is Your faithfulness, Great is Your faithfulness
+ You never change, You never fail O God
+v2: |
+ True are your promises, true are your promises
+ You never change, You never fail O God
+c1: |
+ So we raise up holy hands, to praise the holy One
+ Who was and is and is to come
+ Yes we raise up holy hands, to praise the holy One
+ Who was and is and is to come
+v3: |
+ Wide is your love and grace, wide is your love and grace
+ You never change, You never fail O God
+b1: |
+ You were, You are, You will always be
+ You were, You are, You will always be

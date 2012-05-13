@@ -1,0 +1,17 @@
+---
+title: "You are my rock"
+structure: [[v1,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ You are my rock
+ You are my sure foundation
+ Eternal cornerstone
+v2: |
+ You are my rock
+ My strength and my salvation
+ I worship You alone
+c1: |
+ In the time of trouble, when my heart is overwhelmed
+ I can always trust You, Lord, I'll run to You
+ My only refuge

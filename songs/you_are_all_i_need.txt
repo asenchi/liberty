@@ -1,0 +1,20 @@
+---
+title: "You are all I need"
+structure: [[v1,v2,v3,c1]]
+inkey: z
+speed: z
+v1: |
+ You are all I need, all that I desire
+ Full of grace and truth, there is none like You
+ Lord You give me life
+v2: |
+ You are all I want, nothing else will do
+ I am here to say, Father have Your way
+ I belong to You
+v3: |
+ Abba Father, draw me closer to Your heart
+ Holy God, let me know the wonder of Your love
+c1: |
+ As I worship, how I worship You
+ Lord I worship, yes I worship You
+ Give my all to You
