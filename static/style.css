@@ -31,7 +31,7 @@ li {
 }
 
 .slide .line {
-  font-size: 32px;
+  font-size: 36px;
   letter-spacing: 0.0em;
   margin-bottom: 1px;
 }
@@ -51,5 +51,4 @@ li {
 
 #creed h1 {
   font-size: 32px;
-  text-decoration: underline;
 }
