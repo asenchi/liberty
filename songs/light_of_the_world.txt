@@ -1,0 +1,23 @@
+---
+title: "Light of the World"
+structure: [[v1,c1,v2,b1]]
+inkey: z
+speed: z
+v1: |
+ Light of the world, You stepped down into darkness
+ Opened my eyes, let me see
+ Beauty that made this heart adore You
+ Hope of a life spent with You
+c1: |
+ Here I am to worship; here I am to bow down
+ Here I am to say that You're my God
+ And You’re altogether lovely, altogether worthy
+ Altogether wonderful to me
+v2: |
+ King of all days, oh so highly exalted
+ Glorious in Heaven above
+ Humbly You came to the earth You created
+ All for love's sake became poor
+b1: |
+ I'll never know how much it cost
+ To see my sin upon that cross
