@@ -1,0 +1,24 @@
+---
+title: "No Eye Has Seen"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ No eye has seen and no ear has heard
+ And no mind has ever conceived
+ The glorious things that You have prepared
+ For everyone who has believed
+ You brought us near and You called us Your own
+ And made us joint heirs with Your Son
+c1: |
+ How high and how wide, how deep and how long
+ How sweet and how strong is Your love
+ How lavish Your grace, how faithful Your ways
+ How great is Your love, O Lord
+v2: |
+ Objects of mercy, who should have known wrath
+ Were filled with unspeakable joy
+ Riches of wisdom, unsearchable wealth
+ And the wonder of knowing Your voice
+ You are our treasure and our great reward
+ Our hope and our glorious King
