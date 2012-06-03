@@ -1,0 +1,17 @@
+---
+title: "Savlation Belongs To Our God"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Salvation belongs to our God who sits on the throne
+ And to the lamb, praise and glory, wisdom and thanks
+ Honor and power and strength
+c1: |
+ Be to our God forever and ever
+ Be to our God forever and ever
+ Be to our God forever and ever, Amen
+v2: |
+ And we the redeemed shall be strong in purpose and unity
+ Declaring aloud, praise and glory, wisdom and thanks
+ Honor and power and strength
