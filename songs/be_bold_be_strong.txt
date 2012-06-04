@@ -1,0 +1,22 @@
+---
+title: "Be bold! Be strong!"
+structure: [[verse1, verse2, chorus, bridge]]
+inkey:
+speed:
+verse1: |
+ Be bold! Be strong!
+ For the Lord your God is with you
+ Be bold! Be strong!
+ For the Lord your God is with you
+verse2: |
+ I am not afraid, I am not dismayed
+ 'Cause I'm walking in faith and victory
+ Come on and walk in faith and victory
+ For the Lord your God is with me
+chorus: |
+ Come on and run through the camp
+ Tell all the people "Get ready, get ready!"
+bridge: |
+ Are you ready to take a stand?
+ Are you ready to take the land?
+ Are you ready to take a stand for the Lord?

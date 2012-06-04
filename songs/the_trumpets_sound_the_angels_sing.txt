@@ -1,0 +1,21 @@
+---
+title: "The trumpets sound, the angels sing"
+structure: [[v1,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ The trumpets sound, the angels sing
+ The feast is ready to begin
+ The gates of heaven are open wide
+ And Jesus welcomes you inside
+v2: |
+ Tables are laden with good things
+ O taste the peace, the joy He brings
+ He'll fill you up with love divine
+ He'll turn your water into wine
+c1: |
+ Sing with thankfulness songs of pure delight
+ Come and revel in heaven's love and light
+ Take your place at the table of the king
+ The feast is ready to begin
+ The feast is ready to begin

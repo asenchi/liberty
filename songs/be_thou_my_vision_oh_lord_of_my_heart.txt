@@ -1,0 +1,30 @@
+---
+title: "Be thou my vision O Lord of my heart"
+structure: [[verse1, verse2, verse3],[verse4, verse5]]
+inkey:
+speed:
+verse1: |
+ Be Thou my vision O Lord of my heart
+ Naught be all else to me save that Thou art
+ Thou my best thought by day or by night
+ Waking or sleeping Thy presence my light
+verse2: |
+ Be Thou my my wisdom and Thou my true word
+ I ever with Thee and Thou with me Lord
+ Thou my great Father, I thy true son
+ Thou in me dwelling and I with Thee one
+verse3: |
+ Riches I heed not nor man's empty praise
+ Thou mine inheritence now and always
+ Thou and Thou only first in my heart
+ High King of Heaven my treasure Thou art
+verse4: |
+ Be Thou my breastplate, my sword for the fight
+ Be Thou my armor and be Thou my might
+ Thou my soul shelter and Thy my high tower
+ Raise Thou me heavenward O Power of my power
+verse5: |
+ High King of heaven my victory won
+ May I reach heaven's joy, O bright heaven't sun
+ Heart of my own heart whatever befall
+ Still be my vision O Ruler of all

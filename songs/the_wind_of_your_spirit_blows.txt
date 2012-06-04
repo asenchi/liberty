@@ -1,0 +1,21 @@
+---
+title: "The wind of Your Spirit blows"
+structure: [[v1,v2,c1`]]
+inkey: z
+speed: z
+v1: |
+ The wind of Your Spirit blows
+ Through the dry places Your river flows
+ My soul finds rest in You alone
+v2: |
+ I'll make my boast in the Lord
+ My broken spirit
+ He has restored
+ I will rejoice in God alone
+c1: |
+ I will sing, I will dance
+ I will glorify my King
+ Lord Your love has captured me
+ I will praise, I will shout
+ I will run to seek Your face
+ Your awesome presence covers me

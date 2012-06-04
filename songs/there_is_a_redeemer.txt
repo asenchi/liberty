@@ -1,0 +1,25 @@
+---
+title: "There is a Redeemer"
+structure: [[v1,v2,c1,v3]]
+inkey: z
+speed: z
+v1: |
+ There is a Redeemer
+ Jesus God's own Son
+ Precious Lamb of God Messiah
+ Holy One
+v2: |
+ Jesus my Redeemer
+ Name above all names
+ Precious Lamb of God Messiah
+ Oh for sinners slain
+c1: |
+ Thank You oh my Father
+ For giving us Your Song
+ And leaving Your spirit 'til
+ The work on earth is done
+v3: |
+ When I stand in glory
+ I will see His face
+ And there I'll serve my King forever
+ In that Holy place

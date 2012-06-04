@@ -1,0 +1,21 @@
+---
+title: "Then let the heavens rejoice"
+structure: [[c1,v1,v2]]
+inkey: z
+speed: z
+c1: |
+ Then let the heavens rejoice
+ Then let the earth be glad
+ Let the people of God worship their Maker
+ For He's the King of kings
+ The One who's over all
+ Lord we say You are a mighty God
+ Lord we say You are a mighty God
+v1: |
+ Great is the Lord and worthy of all praise
+ Great is the Lord, the Lord who reigns
+v2: |
+ Lord there is no one quite like You
+ Worthy of all our praise this day
+ Lord we say You are a mighty God
+ Lord we say You are a mighty God
