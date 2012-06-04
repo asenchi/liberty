@@ -1,0 +1,21 @@
+---
+title: "Streams of worship and rivers of praise"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Streams of worship and rivers of praise
+ Ascending to the one who is the Ancient of Days
+ To Him who is worthy, to Him who was slain
+ To Him who sits upon the throne and to the Lamb
+c1: |
+ You are worthy, You are holy
+ The Lord who was, the Lord who is
+ The Lord who is to come
+ You are awesome, You are mighty
+ Be praise and honor and glory forevermore
+v2: |
+ Thousands upon thousands encircle the throne
+ Singing a new song to the one who is to come
+ To Him who is worthy, to Him who was slain
+ To Him who sits upon the throne and to the lamb

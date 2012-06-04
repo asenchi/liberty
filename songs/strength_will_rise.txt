@@ -1,0 +1,17 @@
+---
+title: "Strength will rise as we wait upon the Lord"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ Strength will rise as we wait upon the Lord
+ We will wait upon the Lord, we will wait upon You Lord
+v2: |
+ Our God, You reign forever
+ Our hope, our strong deliverer
+v3: |
+ You are the everlasting God, the everlasting God
+ You do not faint, You won't grow weary
+ You're the defender of the weak
+ You comfort those in need
+ You lift us up on wings like eagles
