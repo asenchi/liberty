@@ -1,0 +1,21 @@
+---
+title: "O God, O God, O God"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ CONFIRM
+ O God, O God, O God
+ As we pray O pray, as we pray
+v2: |
+ We've been called to be a people of prayer
+ Of fervent petition, compassion, and care
+ We arise to meet this call, to share the light of Your glory
+ Your mighty deliverance, the power of your passion
+ For people everywhere
+v3: |
+ Hear the cry of Your people, as we call on Your name
+ Come, pour out Your mercy, pray
+ Hear the cry of Your people as we call on Your name
+ Come, pour out Your mercy, pray
+ As we pray we've been

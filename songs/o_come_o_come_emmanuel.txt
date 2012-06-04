@@ -1,0 +1,22 @@
+---
+title: "O come, O come, Emmanuel"
+structure: [[v1,c1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ O come, o come, Emmanuel and ransom captive Israel
+ That mourns in lonely exile here
+ Until the Son of God appear
+c1: |
+ Rejoice! Rejoice! Emmanuel
+ Shall come to Thee O Israel
+v2: |
+ O come, O come, Thou lord of might
+ Who to Thy tribes on Sinai's height
+ In ancient times didst give the law
+ In cloud and majesty and awe
+v3: |
+ O come, Thou rod of Jesse, free
+ Thine own from Satan's tyranny
+ From depths of hell Thy people save
+ And give them victory o'er the grave

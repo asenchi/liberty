@@ -1,0 +1,17 @@
+---
+title: "O how good, O how pleasant it is"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ CONFIRM
+ O how good, O how pleasant it is
+ For brothers to live together in unity
+v2: |
+ O how good is the blessing God gives
+ When we worship Him together in unity
+v3: |
+ Only one body, only one Spirit, only one Father above
+ We are all brothers, for we are His children
+ One with another in the bond of love
+ Oh, oh, oh, oh
