@@ -1,0 +1,18 @@
+---
+title: "There's no veil any longer to separate the church"
+structure: [[v1,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ There's no veil any longer to separate the church
+ From the presence of the Lord, there's no veil any longer
+ We enter with sincere and grateful hearts
+v2: |
+ Lord we come into Your courts with a sacrifice of praise
+ Lord we come in confidence with a sacrifice of praise
+ Creator of all heaven and earth, we are wonderfully made
+c1: |
+ Lord of all the universe, we are gloriously saved
+ Boldly we approach the throne
+ We are Yours and not our own
+ For who You are, for what You've done, we worship You

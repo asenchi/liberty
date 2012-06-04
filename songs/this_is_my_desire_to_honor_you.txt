@@ -1,0 +1,24 @@
+---
+title: "This is my desire, to honor You"
+structure: [[v1,c1],[v2,c1]]
+inkey: z
+speed: z
+v1: |
+ This is my desire to honor You
+ Lord with all my heart I worship You
+ All I have within I give You praise
+ All that I adore is in You
+c1: |
+ Lord I give you my heart
+ I give You my soul
+ I live for You alone
+ Every breath that I take
+ Every moment I'm awake
+ Lord have Your way in me
+v2: |
+ Lord my heart's on fire
+ I long for You
+ You are my desire, I worship You
+ I lay myself before You, Lord have Your way
+ Use me for Your glory
+ I love You

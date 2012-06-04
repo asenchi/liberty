@@ -1,0 +1,20 @@
+---
+title: "There is no other God like You"
+structure: [[]]
+inkey: z
+speed: z
+v1: |
+ There is no other God like You
+ You alone, You alone
+ There is no other name I will sing
+ You alone, You alone
+ There is no other name I will praise
+ You alone, You alone
+ There is no other to whom I will bow
+ You alone, You alone
+c1: |
+ You alone I long to worship
+ You alone I long to praise
+ To you alone I bow my knee
+ As I come to Your throne of grace
+ As I come to Your throne of grace

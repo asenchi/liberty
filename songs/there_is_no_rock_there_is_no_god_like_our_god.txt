@@ -1,0 +1,16 @@
+---
+title: "There is no rock, there is no God like our God"
+structure: [[v1,c1]]
+inkey:
+speed:
+v1: |
+ There is no rock, there is no God like our God
+ No other name worthy of all our praise
+ The Rock of salvation who cannot be moved
+ He's proven Himself to be faithful and true
+ There is no rock, there is no God like ours
+c1: |
+ Rock of ages, Jesus is the Rock
+ Rock of ages, Jesus is the Rock
+ Rock of ages, Jesus is the Rock
+ There is no rock, there is no God like ours

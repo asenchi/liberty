@@ -1,0 +1,22 @@
+---
+title: "This I know, my God is for me, this I know"
+structure: [[v1,c1,v2,b1]]
+inkey: z
+speed: z
+v1: |
+ ***CONFIRM***
+ This I know, my God is for me, this I know
+ This I know, my God is on my side
+ My God is for me this I know
+c1: |
+ If God did not spare His only Son
+ But delivered Him up for us all
+ Will he not give us every good thing
+ When we come in His name and call, oh
+v2: |
+ Let us draw near the throne of grace for mercy and
+ Help in our need
+ For Jesus is ever praying for us, He is living to intercede
+b1: |
+ My God is for me, this I...
+ My God is for me, this I know, oh oh

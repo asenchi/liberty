@@ -1,0 +1,22 @@
+---
+title: "There is no one like our God, no one at all"
+structure: [[v1,c1,c2]]
+inkey: z
+speed: z
+v1: |
+ There's no one like our god, no one at all
+ He gave His Son for us
+ Jesus the Lord
+ Who can love us like He does
+ No one at all
+ Oh how we love you Lord
+c1: |
+ You are high above all nations
+ Your glory shines above the heavens
+ Humbled yourself to love and save us
+ Be praised through endless generations
+c2: |
+ You lift the needy from the ashes
+ And seat them high up with the princes
+ You give the barren woman healing
+ She'll dance for joy like the mother of children

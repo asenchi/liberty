@@ -1,0 +1,15 @@
+---
+title: "There is no one like You"
+structure: [[v1,v2]]
+inkey: z
+speed: z
+v1: |
+ There is no on like You
+ No one can touch my heart like You do
+ I could search for all eternity long and
+ Find there is none like You
+v2: |
+ Your mercy flows like a river wide
+ And healing come from Your hands
+ Suffering children are safe in Your arms
+ There is none like You

@@ -1,0 +1,16 @@
+---
+title: "This is the air I breathe"
+structure: [[v1,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ This is the air I breathe
+ This is the air I breathe
+ Your holy presence living in me
+v2: |
+ This is my daily bread
+ This is my daily bread
+ Your holy word spoken to me
+c1: |
+ And I, I'm desparate for You
+ And I, I'm lost without You
