@@ -1,0 +1,22 @@
+---
+title: "Sing alleluia, alleluia to the King of glory"
+structure: [[c1,v1,v2,c2]]
+inkey: z
+speed: z
+c1: |
+ Sing alleluia, alleluia to the King of glory through all the ages
+ Sing alleluia, alleluia to the King of glory through all the ages
+v1: |
+ Oh Lamb of God now slain for us
+ Come grant us liberty
+ Oh King of Kings and Lord of lords
+ Come and set our spirits free
+v2: |
+ Your voice cries throughout the earth
+ Come draw your hearts close unto me
+ Our voice blends in one accord
+ Our God has won the victory
+c2: |
+ Sing sing sing, sing sing sing
+ Sing alleluia, alleluia to the King
+ Sing sing sing, sing sing alleluia

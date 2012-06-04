@@ -1,0 +1,31 @@
+---
+title: "Son of Man, Great I am"
+structure: [[v1,v2,c1],[v3,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ Son of Man, Great I Am, King of heaven
+ Son of God, You hold the measure of my days
+ Holy Lamb, spotless Lamb, You are worthy, I am not
+ Before Your throne I stand amazed
+v2: |
+ Every tongue confess and every knee will bow
+ To Jesus Christ the Lord forever, hear our praises now
+c1: |
+ Your name is matchless, Your name is priceless
+ Your name means more than I could know
+ You're so far above me, the way that You love me
+ Goes further than any love could go
+v3: |
+ Wonderful Counselor, Root of David, Morning Star
+ You are the way, the truth, the life
+ Lion of the tribe of Judah, Mighty God is who You are
+ The only perfect sacrifice
+b1: |
+ In Your name You took the blind man
+ And You gave him back his sight
+ In Your name You took the dead man
+ And You brought him back to life
+ In Your name You took this prisoner
+ And You opened up the doors
+ And I will sing before Your throne forever more

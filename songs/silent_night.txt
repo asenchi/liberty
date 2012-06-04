@@ -1,0 +1,27 @@
+---
+title: "Silent Night"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ Silent night, holy night
+ All is calm, all is bright
+ Round yon virgin mother and child
+ Holy infant
+ So tender and mild
+ Sleep in heavenly peace
+ Sleep in heavenly peace
+v2: |
+ Silent night, holy night
+ Shepherds quake at the sight
+ Glories stream from heaven afar
+ Heavenly hosts sing alleluia
+ Christ, the Savior is born
+ Christ, the Savior is born
+v3: |
+ Silent night, holy night
+ Son of God, love's pure light
+ Radiant beams from Thy holy face with
+ The dawn of redeeming grace
+ Jesus, Lord, at thy birth
+ Jesus, Lord, at thy birth

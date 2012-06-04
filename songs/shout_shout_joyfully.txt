@@ -1,0 +1,12 @@
+---
+title: "Shout, Shout Joyfully unto God all of the earth"
+structure: [[v1,v2]]
+inkey: z
+speed; z
+v1: |
+ Shout, shout joyfully unto God all of the earth
+ Shout, shout joyfully unto God all of the earth
+v2: |
+ Sing the glories of His name
+ Make His praises glorious
+ Shout, shout joyfully unto God all of the earth

@@ -1,0 +1,19 @@
+---
+title: "Softly and tenderly Jesus is calling"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ Softly and tenderly Jesus is calling
+ Calling for you and for me
+ See, on the portals He's waiting and watching
+ Watching for you and for me
+v2: |
+ Come home, come home, ye who are weary, come home
+ Earnestly, tenderly, Jesus is calling
+ Calling, "O sinner, come home!"
+v3: |
+ Why should we tarry when Jesus is pleading
+ Pleading for you and for me
+ Why should we linger and heed not His mercies
+ Mercies for you and for me

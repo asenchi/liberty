@@ -1,0 +1,29 @@
+---
+title: "Sing a song of victory"
+structure: [[v1,v2,c1],[v3,c1]]
+inkey: z
+speed: z
+v1: |
+ Sing a song of victory, shout aloud unto the Lord
+ Who is like the living God, Yahweh is for us
+ Tell of all His faithfulness; our lives have been restored
+ Hallelujah we are blessed
+ Yahweh is for us
+v2: |
+ He hears, He hears every faithful prayer
+ He sees, He's watching with tender care
+ He knows, He knows every pain we bear
+ From the highest heaven His mercies flow
+ To the ends of the earth His people know
+ Yahweh is for us
+c1: |
+ Yahweh is for us
+ Yahweh is for us
+ Yahweh is for us
+ Yahweh is for us
+v3: |
+ All the idols of this age come from a world of lies
+ Nothing in their wooden hearts but Yahweh is for us
+ They cannot see our needs; they cannot hear our cries
+ Only Yahweh intervenes
+ Yahweh is for us

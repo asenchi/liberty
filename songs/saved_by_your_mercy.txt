@@ -1,0 +1,20 @@
+---
+title: "Saved by Your Mercy, Found in Your Grace"
+structure: [[v1,v2,v3,v4]]
+inkey: z
+speed: z
+v1: |
+ Saved by Your mercy, found in Your grace
+ Totally surrendered to Your embrace
+ Lord I give my life to You
+v2: |
+ I see Your perfection; I’m filled with Your peace
+ Your faithfulness sings over me
+ And Your love is the light of my soul
+v3: |
+ And I lift my eyes to You, Creator of the world
+ And I stand in awe of You, of Your glory
+ And I live to worship You, Son of God, King of heaven
+v4: |
+ And the angels 'round Your throne cry out "Holy"
+ To the One who is to come, hear us sing "Hallelujah"

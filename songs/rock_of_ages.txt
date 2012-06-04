@@ -1,0 +1,26 @@
+---
+title: "Rock of Ages, Cleft for Me"
+structure: [[v1,v2],[v3]]
+inkey: z
+speed: z
+v1: |
+ Rock of ages, cleft for me
+ Let me hide myself in Thee
+ Let the water and the blood
+ From Your wounded side which flowed
+ Be of sin the double cure
+ Save from warth and make me pure
+v2: |
+ Could my tears forever flow
+ Could my zeal no languor know
+ These for sin could not atone
+ You must save, and You alone
+ In my hand no price I bring
+ Simply to Your cross I cling
+v3: |
+ While I draw this fleeting breath
+ When my eyes shall close in death
+ When I rise to worlds unknown
+ And behold You on Your throne
+ Rock of ages, cleft for me
+ Let me hide myself in Thee

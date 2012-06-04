@@ -1,0 +1,14 @@
+---
+title: "Sing a joyful song unto the land"
+structure: [[v1]]
+inkey: z
+speed: z
+v1: |
+ Sing a joyful song unto the Lord
+ Praise the Lord with gladness
+ Sing a joyful song unto the Lord
+ For He alone is God
+ Praise Him
+ Praise the Lord with gladness
+ Praise Him
+ For He alone is God

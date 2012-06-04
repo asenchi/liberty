@@ -1,0 +1,21 @@
+---
+title: "Spirit of the living God"
+structure: [[v1,v2]]
+inkey: z
+speed: z
+v1: |
+ Spirit of the living God
+ We affirm Your presence here
+ Spirit of the living God
+ We affirm Your power here
+ To heal us and to deliver us
+ To fill us and to change us
+ Spirit of God
+v2: |
+ Spirit of the living God
+ We affirm Your presence here
+ Spirit of the living God
+ We affirm Your power here
+ To rest on us and to empower us
+ To work through us and to reveal in us
+ Jesus in King

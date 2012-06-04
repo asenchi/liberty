@@ -1,0 +1,23 @@
+---
+title: "Righteousness, Peace, Joy in the Holy Ghost"
+structure: [[v1,v2,v3,v4,v5]]
+inkey: z
+speed: z
+v1: |
+ Righteousness, peace, joy in the Holy Ghost
+ Righteousness, peace and joy in the Holy Ghost
+ That's the kingdom of God
+v2: |
+ I'm so glad to be a part of the kingdom
+ I'm so glad to be a part of the kingdom
+ I'm so glad to be a part of the kingdom
+ Giving God the glory
+v3: |
+ There's love in the kingdom, so much love in the kingdom
+ There's love in the kingdom, come on everybody
+v4: |
+ There's peace in the kingdom, so much peace in the kingdom
+ There's peace in the kingdom, come on everybody
+v5: |
+ There's joy in the kingdom, so much joy in the kingdom
+ There's joy in the kingdom, come on everybody
