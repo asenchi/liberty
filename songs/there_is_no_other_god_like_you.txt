@@ -1,6 +1,6 @@
 ---
 title: "There is no other God like You"
-structure: [[]]
+structure: [[v1,c1]]
 inkey: z
 speed: z
 v1: |
