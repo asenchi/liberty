@@ -1,0 +1,22 @@
+---
+title: "You're the reason I live"
+structure: [[v1,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ You're the reason I live
+ You're my quest, my constant vision
+ You're the water I drink, the treasure I seek
+ More than gold
+v2: |
+ You're the fire in my heart
+ My consuming love and passion
+ You're the air that I breathe
+ The song that I sing
+ From my heart and soul
+c1: |
+ Jesus, Lord over all
+ You're the Lord over me
+ Jesus, drawn to this alter I come
+ Here is my heart
+ May Your will be done in me
