@@ -1,0 +1,25 @@
+---
+title: "Joyful Joyful We Adore You"
+structure: [[v1,v2,c1,v3]]
+inkey: z
+speed: z
+v1: |
+ Joyful joyful we adore You
+ God of glory, Lord of love
+ Hearts unfold like flowers before You
+ Opening to the sun above
+v2: |
+ Melt the clouds of sin and sadness
+ Drive the dark of doubt away
+ Giver of eternal gladness
+ Fill us with the light of day
+c1: |
+ You are the One who saves, You are the One who saves
+ You are the One who's hands lift us from the grave
+ You are the light of life, the everlasting day
+ You are the One who takes all our sins away
+v3: |
+ You are giving and forgiving
+ Ever blessing, ever blessed
+ Fountain of joy of living
+ Ocean depths of happy rest

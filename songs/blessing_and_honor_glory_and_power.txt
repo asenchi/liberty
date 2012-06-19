@@ -1,0 +1,25 @@
+---
+title: "Blessing and Honor, Glory and Power"
+structure: [[v1,v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ Blessing and honor, glory and power
+ Be unto the Ancient of Days
+ From every nation, all of creation
+ Bow before the Ancient of Days
+v2: |
+ Every tongue in heaven and earth
+ Shall declare Your glory
+ Every knee shall bow at Your throne in worship
+ You will be exalted, O God
+ And Your kingdom shall not pass away
+ O Ancient of Days
+c1: |
+ Your kingdom shall reign over all the earth
+ Sing unto the Ancient of Days
+ For none can compare to Your matchless worth
+ Sing unto the Ancient of Days
+ Blessing and honor, glory and power to You Lord
+b1: |
+ Blessing and honor, to you Lord
