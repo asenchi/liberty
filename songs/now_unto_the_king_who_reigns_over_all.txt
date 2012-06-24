@@ -1,0 +1,30 @@
+---
+title: "Now unto the King who reigns over all"
+structure: [[v1, c1, v2],[b1, c1, e1]]
+inkey: z
+speed: z
+v1: |
+ Now unto the King who reigns over all
+ And never changes or turns
+ Unfailing justice, unfading grace
+ Whose promises remain
+ Yes Your promises remain
+c1: |
+ The heavens ring, the saints all sing
+ Great is Your faithfulness
+ From age to age we will proclaim
+ Great is Your faithfulness
+ How great is Your faithfulness
+v2: |
+ Everything changes, but You stay the same
+ Your Word and Kingdom endure
+ We lean on the promise of all that You are
+ And trust forevermore
+ We will trust forevermore
+b1: |
+ From generation to generation
+ You never fail us O God
+ Yesterday and today and tomorrow
+ Until the day You return
+e1: |
+ Great is Your faithfulness God
