@@ -1,6 +1,6 @@
 ---
 title: "From the highest of heights to the depths of the sea"
-structure: [[v1, c1, c2],[v2, c1, c2]]
+structure: [[v1, c1, c2],[v2, c2, c3]]
 inkey: "z"
 speed: "z"
 v1: |
@@ -20,4 +20,9 @@ v2: |
  Who has told every lightning bolt where it should go
  Or seen heavenly storehouses laden with snow
  Who imagined the sun and gives source to its light
- Yet conceals it to bring us the coolness of night None can fathom
+ Yet conceals it to bring us the coolness of night
+ None can fathom
+c3: |
+ Incomparable, unchangeable
+ You see the depths of my heart and You love me the same
+ You are amazing God
