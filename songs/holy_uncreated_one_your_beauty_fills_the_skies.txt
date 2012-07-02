@@ -1,0 +1,23 @@
+---
+title: "Holy uncreated One, Your beauty fills the skies"
+structure: [[v1, v2, c1, v3, v4]]
+inkey: z
+speed: z
+v1: |
+ Holy uncreated One, Your beauty fills the skies
+ But the glory of Your majesty is the mercy in Your eyes
+v2: |
+ Worthy uncreated One, from heaven to earth come down
+ You laid aside Your royalty to wear the sinner's crown
+c1: |
+ O great God, be glorified
+ Our lives laid down, Yours magnified
+ O great God, be lifted high
+ There is none like You
+v3: |
+ Jesus, Saviour, God's own Son, risen, reigning Lord
+ Sustainer of the universe, by the power of Your Word
+v4: |
+ And when we see Your matchless face
+ In speechless awe we'll stand
+ And there we'll bow with grateful hearts unto the great I Am
