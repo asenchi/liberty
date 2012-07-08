@@ -1,0 +1,15 @@
+---
+title: "We bring the sacrifice of praise"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ We bring the sacrifice of praise
+ Unto the house of the Lord
+ We bring the sacrifice of praise
+ Unto the house of the Lord
+c1: |
+ And we offer up to You
+ The sacrifices of thanksgiving
+ And we offer up to You
+ The sacrifices of joy
