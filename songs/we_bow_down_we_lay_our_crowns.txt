@@ -1,0 +1,15 @@
+---
+title: "We bow down, we lay our crowns"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ We bow down, we lay our crowns
+ At the feet of Jesus
+ The greatness of the mercy and love
+ At the feet of Jesus
+c1: |
+ And we cry holy, holy, holy
+ And we cry holy, holy, holy
+ And we cry holy, holy, holy
+ Is the Lamb
