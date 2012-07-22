@@ -26,4 +26,4 @@ verse2: |
  But You reached across to the other side
  Your love never fails
 bridge: |
- You make all things work together for Your good
+ You make all things work together for our good
