@@ -1,0 +1,25 @@
+---
+title: "Trade Your Heavy Heart"
+structure: [[c1,v1,v2,b1]]
+inkey: z
+speed: z
+c1: |
+ Trade your heavy heart for a heart of joy
+ Celebrate what God has done
+ Join the song of praise as we gather here
+ Celebrate the Lord of love
+v1: |
+ Jesus is our lord
+ He is reigning here
+ We declare His kingdom come
+ Darkness has to flee
+ In His holy light
+ Celebrate the Lord of love
+v2: |
+ All creation sings
+ Hear the oceans roar
+ Let the earth proclaim
+ That Christ is Lord
+b1: |
+ Let the earth proclaim Him
+ Let the earth proclaim Him
