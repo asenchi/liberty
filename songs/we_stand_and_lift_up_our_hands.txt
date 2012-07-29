@@ -14,10 +14,8 @@ chorus: |
  The earth is filled with His glory
  Holy is the Lord God Almighty
  The earth is filled with His glory
- The earth is filled with His glory
 bridge: |
  It's rising up all around
- It's the anthem of the Lord's renown
  It's the anthem of the Lord's renown
  And together we sing
  Everyone sing
