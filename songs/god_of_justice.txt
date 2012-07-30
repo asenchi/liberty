@@ -1,0 +1,28 @@
+---
+title: "God of Justice"
+structure: [[v1,v2,c1],[v3,v4,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ God of Justice, Saviour to all
+ Came to rescue the weak and the poor
+ Chose to serve and not be served
+v2: |
+ Jesus, You have called us
+ Freely we've received now freely we will give
+c1: |
+ We must go live to feed the hungry
+ Stand beside the broken, we must go
+ Stepping forward keep us from just singing
+ Move us into action, we must go
+v3: |
+ To act justly everyday
+ Loving mercy in everyway
+ Walking humbly before You God
+v4: |
+ You have shown us, what You require
+ Freely we've received now freely we will give
+b1: |
+ Fill us up and send us out
+ Fill us up and send us out
+ Fill us up and send us out Lord

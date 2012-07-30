@@ -52,3 +52,11 @@ li {
 #creed h1 {
   font-size: 32px;
 }
+
+#progress {
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+  color: #222;
+  font-size: 32px;
+}

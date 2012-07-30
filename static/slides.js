@@ -1,5 +1,6 @@
 window.onload = function() {
 	var slides = document.getElementById('slides');
+	var progress = document.getElementById('progress');
 	if(!slides) return;  // Not showing a song, nothing to do
 
 	// Put together a list of slides
@@ -17,6 +18,7 @@ window.onload = function() {
 		slides[current].style.display = 'none';
 		slides[index].style.display = '';
 		current = index;
+		progress.innerHTML = (current + 1) + '/' + slides.length;
 	}
 
 	// Respond to keyboard events
