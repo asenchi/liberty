@@ -1,0 +1,14 @@
+---
+title: "You're the love of my life"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ You're the love of my life
+ You're the joy of my morning
+ You're the song in my heart and
+ I will praise Your holy name
+c1: |
+ Singing hallelujah, hallelujah
+ Singing hallelujah
+ I will praise Your holy name

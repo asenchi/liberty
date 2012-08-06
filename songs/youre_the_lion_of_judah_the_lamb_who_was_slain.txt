@@ -1,0 +1,30 @@
+---
+title: "You're the Lion of Judah, the Lamb who was slain"
+structure: [[v1, c1],[v2, c1]]
+inkey: z
+speed: z
+v1: |
+ You're the Lion of Judah, the Lamb who was slain
+ You ascended to heaven and evermore will reign
+ At the end of the age when the earth You reclaim
+ You will gather the nations before You
+ And the eyes of all men will be fixed on the Lamb
+ Who was crucified
+ With wisdom and mercy and justice
+ You'll reign at Your Father's side
+c1: |
+ And the angels will cry
+ Hail the Lamb who was slain for the world
+ Rule in power
+ And the earth will reply
+ You shall reign as the King of all kings and the
+ Lord of all lords
+v2: |
+ There's a shield in our hand and a sword at our side
+ There's a fire in our spirits that cannot be denied
+ 'Cause the Father has told us for these You have died
+ For the nations that gather before You
+ And the ears of all men need to hear of the Lamb
+ Who was crucified
+ Who defeated the grave and was raised up to reign
+ At His Father's side
