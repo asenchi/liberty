@@ -1,0 +1,18 @@
+---
+title: "I'm giving You my heart, all that is within"
+structure: [[v1, c1, v2]]
+inkey: z
+speed: z
+v1: |
+ I'm giving You my heart, all that is within
+ I lay it all down, for the sake of You my King
+ I'm giving You my dreams, laying down my rights
+ I'm giving up my pride, for the promise of new life
+c1: |
+ And I surrender
+ All to You, all to You
+v2: |
+ I'm singing You this song, I'm waiting at the Cross
+ All the world holds dear, I count it all as loss
+ For the sake of knowing You, for the glory of Your name
+ To know the lasting joy, even sharing in Your pain
