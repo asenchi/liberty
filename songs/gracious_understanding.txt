@@ -1,0 +1,23 @@
+---
+title: "Gracious Understanding"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ Gracious understanding
+ God’s love so confounding appears to us
+ In a cleansing flow of blood
+ The Son left throne and glory
+ Bore the Father’s wrath and fury in our stead
+ And for the sins of all He bled
+c1: |
+ We stand in awe in worship
+ We raise our voice in worship We adore
+ The King of Kings and Lord of Lords
+v2: |
+ Behold the Lamb in heaven
+ He was dead but God raised Him from the grave
+ For His arm is mighty to save
+ Now glorified and reigning
+ The keys to death and Hades in His hand
+ All hail the Lord of every land

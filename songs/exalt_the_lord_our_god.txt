@@ -1,0 +1,16 @@
+---
+title: "Exalt the Lord our God"
+structure: [[c1,v1,v2,v2]]
+inkey: z
+speed: z
+c1: |
+ Exalt the Lord our God
+ Exalt the Lord our God
+ Exalt the Lord our God
+ Exalt the Lord our God
+v1: |
+ And worship at His Holy hill
+ For the Lord our God, His name is Holy
+v2: |
+ We worship You Lord, for Your name is Holy
+ For Your name is Holy
