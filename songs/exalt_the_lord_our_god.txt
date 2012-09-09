@@ -9,8 +9,8 @@ c1: |
  Exalt the Lord our God
  Exalt the Lord our God
 v1: |
- And worship at His Holy hill
+ And worship at His holy hill
  For the Lord our God, His name is Holy
 v2: |
- We worship You Lord, for Your name is Holy
+ We worship You Lord
  For Your name is Holy
