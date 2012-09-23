@@ -1,0 +1,15 @@
+---
+title: "I will praise you all my life"
+structure: [[v1,c1]]
+inkey: g
+speed: slow
+v1: |
+ I will praise you all my life
+ I will sing to you with my whole heart
+ I will trust in you, my hope and my help
+ My maker and my faithful God
+c1: |
+ Faithful God, my faithful God
+ You lift me up and you upload my cause
+ You give me life, you dry my eyes
+ You're always near, you're a faithful God

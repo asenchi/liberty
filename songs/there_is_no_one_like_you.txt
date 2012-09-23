@@ -1,10 +1,10 @@
 ---
-title: "There is no one like You"
+title: "There is none like You"
 structure: [[v1,v2]]
 inkey: z
 speed: z
 v1: |
- There is no one like You
+ There is none like You
  No one can touch my heart like You do
  I could search for all eternity long and
  Find there is none like You
