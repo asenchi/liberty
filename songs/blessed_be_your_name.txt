@@ -1,6 +1,6 @@
 ---
 title: "Blessed Be Your Name"
-structure: [[v1, v2, c1], [v3, v2, v4, c1]]
+structure: [[v1, v2, c1], [v3, v2, c1, v4]]
 v1: |
  Blessed be Your name in the land that is plentiful
  Where Your streams of abundance flow

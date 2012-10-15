@@ -1,6 +1,6 @@
 ---
 title: "Bless the Lord, O my soul"
-structure: [[c1, v1, v2],[v3, c1]]
+structure: [[c1, v1, v2],[c1, v3]]
 inkey: z
 speed: z
 c1: |

@@ -1,0 +1,32 @@
+---
+title: "If my heart is overwhelmed and I cannot hear Your voice"
+structure: [[v1, pc1, c1],[v2, pc1, c1],[b1, b2]]
+inkey: z
+speed: z
+v1: |
+ If my heart is overwhelmed and I cannot hear Your voice
+ I hold onto what is true, though I cannot see
+ If the storms of life they come, and the road ahead gets steep
+ I will lift these hands in faith, I will believe
+pc1: |
+ I remind myself of all that You've done
+ And the life I have because of Your Son
+c1: |
+ Love came down and rescued me
+ Love came down and set me free
+ I am Yours, I am forever Yours
+ Mountain high or valley low
+ I sing out and remind my soul
+ I am Yours, I am forever Yours
+v2: |
+ When my heart is fill with hope
+ And every promise comes my way
+ When I feel Your hands of grace, rest upon me
+ Staying desperate for You God, staying humbled at Your feet
+ I will lift these hands and praise, I will believe
+b1: |
+ I am Yours, I am Yours, all my days Jesus I am Yours
+b2: |
+ I'm Yours I'm Yours forever
+ I'm Yours I'm Yours forever
+ I'm Yours I"m Yours forevermore
