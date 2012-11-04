@@ -11,7 +11,8 @@ v1: |
 v2: |
  ‘Twas Grace that taught my heart to fear
  And Grace my fears relieved
- How precious did that Grace appear the hour I first believed
+ How precious did that Grace appear
+ The hour I first believed
 v3: |
  Through many dangers, toils and snares
  I have already come
