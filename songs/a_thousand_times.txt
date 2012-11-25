@@ -1,0 +1,25 @@
+---
+title: "A Thousand Times I've Failed"
+structure: [[v1,v2,c1],[v3,v2,c1]]
+inkey: z
+speed: z
+v1: |
+ A thousand times I've failed, still Your mercy remains
+ And should I stumble again, I'm caught in Your grace
+ Everlasting, Your light will shine whne all else fades
+ Never ending Your glory goes beyond all fame
+v2: |
+ My heart and my soul, I give You control
+ Consume me from the inside out Lord
+ Let justice and praise become my embrace
+ To love You from the inside out
+v3: |
+ Your will above all else, still my purpose remains
+ The art of losing myself in bringing You praise
+ Everlasting Your light will shine when all else fades
+ Never ending Your glory goes beyond all things
+c1: |
+ Everlasting Your light will shine when all else fades
+ Never ending Your glory goes beyond all things
+ And the cry of my heart is to bring You praise
+ From the inside out Lord my soul cries out
