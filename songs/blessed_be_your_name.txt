@@ -1,13 +1,15 @@
 ---
 title: "Blessed Be Your Name"
 structure: [[v1, v2, c1], [v3, v2, c1], [v4, v2, c1]]
+inkey: g
+speed: fast
 v1: |
  Blessed be Your name in the land that is plentiful
  Where Your streams of abundance flow
  Blessed be Your name
  Blessed be Your name when I'm found in the desert place
  Though I walk through the wilderness
- Blessed be your name
+ Blessed be Your name
 v2: |
  Every blessing You pour out I'll turn back to praise
  And when the darkness closes in Lord
@@ -29,7 +31,3 @@ v4: |
  You give and take away
  My heart will choose to say
  Lord, blessed be Your name
-inkey: g
-speed: fast
-license: |
- Blah blah blah

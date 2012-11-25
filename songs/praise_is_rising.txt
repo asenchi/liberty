@@ -1,13 +1,12 @@
 ---
 title: "Praise is Rising"
-structure: [[v1,v2,b1,c1,c2],[v3,v4,b1,c1,c2]]
+structure: [[v1,b1,c1,c2],[v3,b1,c1,c2]]
 inkey: z
 speed: z
 v1: |
  Praise is rising
  Eyes are turning to You
  We turn to You
-v2: |
  Hope is stirring
  Hearts are yearning for You
  We long for You
@@ -15,7 +14,6 @@ v3: |
  Hear the sound of
  Hearts returning to You
  We turn to You
-v4: |
  In Your kingdom
  Broken lives are made new
  You make us new
