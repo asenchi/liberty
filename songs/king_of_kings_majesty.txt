@@ -1,0 +1,22 @@
+---
+title: "King of Kings, Majesty"
+structure: [[v1, c1, v2]]
+inkey: z
+speed: z
+v1: |
+ King of Kings, Majesty
+ God of heaven living in me
+ Gentle Saviour, closest friend
+ Strong Deliv'rer, Beginning and End
+ All within me falls at Your throne
+c1: |
+ Your Majesty, I can but bow
+ I lay my all before You now
+ In royal robes I don't deserve
+ I live to serve Your Majesty
+v2: |
+ Earth and heav'n worship You
+ Love eternal, faithful and true
+ Who bought the nations, ransomed souls
+ Brought this sinner near to Your throne
+ All within me cries out in praise

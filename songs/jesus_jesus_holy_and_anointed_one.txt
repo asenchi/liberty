@@ -1,0 +1,13 @@
+---
+title: "Jesus, Jesus, Holy and anointed One"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Jesus, Jesus, Holy and anointed One, Jesus
+ Jesus, Jesus, risen and exalted One, Jesus
+c1: |
+ Your Name is like honey on my lips
+ Your Spirit is like water to my soul
+ Your Word is a lamp unto my feet
+ Jesus, I love You, I love You
