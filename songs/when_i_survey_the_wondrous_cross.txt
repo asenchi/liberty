@@ -1,0 +1,25 @@
+---
+title: "When I survey the wondrous cross"
+structure: [[v1, v2, v3],[v4]]
+inkey: z
+speed: z
+v1: |
+ When I survey the wondrous cross
+ On which the Prince of glory died
+ My richest gain I count but loss
+ And pour contempt on all my pride
+v2: |
+ Forbid it Lord, that I should boast
+ Save in the death of Christ, my God
+ All the vain things that charm me most
+ I sacrifice them to His blood
+v3: |
+ See from His head, His hands, His feet
+ Sorrow and love flow mingled down
+ Did ever such love and sorrow meet
+ Or thorns compose so rich a crown
+v4: |
+ Were the whole realm of nature mine
+ That were a present far too small
+ Love so amazing, so divine
+ Demands my soul, my life, my all

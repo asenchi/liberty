@@ -1,0 +1,23 @@
+---
+title: "Great God of might, great God of wonders"
+structure: [[v1, pc1, c1],[v2, pc1, c1]]
+inkey: z
+speed: z
+v1: |
+ Great God of might, great God of wonders
+ Giver of life, giver of grace
+ Creator of everything before us
+ You had me in mind before the stars were in place
+pc1: |
+ Your love surpasses all by far
+ We're praising You for all You are
+c1: |
+ The reason we're here and the reason we sing
+ Is to thank You, oh God, and give praise to the King
+ We lift up our hearts, and we lift up our eyes, and we sing
+ You are holy
+v2: |
+ Father of love, Father of mercy
+ What have I done that You would think about me
+ You've taken my shame, You've taken my sorrow
+ You've given me life and life abundantly

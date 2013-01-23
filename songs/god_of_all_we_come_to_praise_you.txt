@@ -1,0 +1,20 @@
+---
+title: "God of all, we come to praise You"
+structure: [[v1, c1, b1, c2]]
+inkey: z
+speed: z
+v1: |
+ God of all, we come to praise You
+ We lift Your name on high in all the earth
+c1: |
+ God of glory
+ God of majesty
+ God of mercy
+ We lift Your name on high
+b1: |
+ God of all, God of all
+c2: |
+ God of holiness
+ God of righteousness
+ God of heaven
+ We lift Your name on high
