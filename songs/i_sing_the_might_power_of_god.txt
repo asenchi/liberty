@@ -1,0 +1,32 @@
+---
+title: "I Sing the Mighty Power of God"
+structure: [[v1],[v2],[v3]]
+inkey: z
+speed: slow
+v1: |
+ I sing the mighty power of God
+ That made the mountains rise
+ That spread the flowing seas abroad
+ And built the lofty skies
+ I sing the wisdom that ordained
+ The sun to rule the day
+ The moon shines full at His command
+ And all the stars obey
+v2: |
+ I sing the goodness of the Lord
+ That filled the earth with food
+ He formed the creatures with His word
+ And then pronounced them good
+ Lord, how Thy wonders are displayed
+ Where'er I turn my eye
+ If I survey the ground I tread
+ Or graze up on the sky
+v3: |
+ There's not a plant or flower below
+ But makes Thy glories known
+ And clouds arise and tempests blow
+ By order from Thy throne
+ While all that borrows life from Thee
+ Is ever in Thy care
+ And everywhere that man can be
+ Thou, God art present there
