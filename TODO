@@ -1,11 +1,7 @@
-* Javascript requirements:
-    * progress bar (1/3 slides)
-
 TODO:
 
 * documentation
 * sort by speed secondary sort by key
-* Windows:
-** Install script that explodes into directory and adds desktop shortcut
-** Master USB with latest install script and python2.7
-** Windows desktop shortcut w/ template for adding a song (notepad)
+* install snow leopard
+** script mp3splt
+** create a dropbox account
