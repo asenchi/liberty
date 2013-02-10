@@ -1,0 +1,20 @@
+---
+title: "O Worship the King"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ O worship the King, all glorious above
+ And gratefully sing, His power and His love
+ Our Shield and Defender, the Ancient of Days
+ Pavilioned in splendor and girded with praise
+v2: |
+ Your bountiful care what tongue can recite
+ It breathes in the air; it shines in the light
+ It streams from the hills; it descends to the plain
+ And sweetly distills; in the dew and the rain
+v3: |
+ O children of God though our strength be frail
+ In You do we trust nor find You to fail
+ Your mercies how tender, how firm to the end
+ Our Maker, Defender, Redeemer and Friend
