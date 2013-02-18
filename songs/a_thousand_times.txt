@@ -6,7 +6,7 @@ speed: z
 v1: |
  A thousand times I've failed, still Your mercy remains
  And should I stumble again, I'm caught in Your grace
- Everlasting, Your light will shine whne all else fades
+ Everlasting, Your light will shine when all else fades
  Never ending Your glory goes beyond all fame
 v2: |
  My heart and my soul, I give You control
