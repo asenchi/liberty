@@ -1,0 +1,21 @@
+---
+title: "You have become for us wisdom"
+structure: [[v1, c1, v2]]
+inkey: z
+speed: z
+v1: |
+ You have become for us wisdom
+ You have become for us righteousness
+ You have become our salvation
+ You have become all our holiness
+c1: |
+ All that we need is found in You
+ Oh, all that we need is in You
+ All that we need is found in You
+ You are our all in all
+ You have become our all in all
+v2: |
+ You have become our provision
+ In union with You we have victory
+ In You we have died and have risen
+ And You are our great hope of glory
