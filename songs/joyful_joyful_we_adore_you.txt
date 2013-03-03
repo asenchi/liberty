@@ -1,6 +1,6 @@
 ---
 title: "Joyful Joyful We Adore You"
-structure: [[v1,v2,c1,v3]]
+structure: [[v1,c1,v3],[v2,c1,v3]]
 inkey: z
 speed: z
 v1: |
