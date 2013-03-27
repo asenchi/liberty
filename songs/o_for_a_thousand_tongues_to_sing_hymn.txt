@@ -1,0 +1,35 @@
+---
+title: "O for a thousand tongues to sing"
+structure: [[v1, v2, v3],[v4, v5, v6]]
+inkey: z
+speek: z
+v1: |
+ O for a thousand tongues to sing
+ My great Redeemer's praise
+ The glories of my God and King
+ The triumphs of His grace
+v2: |
+ My gracious Master and my God
+ Assist me to proclaim
+ To spread through all the earth abroad
+ The honors of Thy name
+v3: |
+ Jesus, the name that calms our fears
+ That bids our sorrows cease
+ 'Tis music in the sinner's ears
+ 'Tis life and health and peace
+v4: |
+ He breaks the power of cancelled sin
+ He set the prisoners free
+ His blood can make the foulest clean
+ His blood availed for me
+v5: |
+ He speaks and listening to His voice
+ New life and dead receive
+ The mournful broken hearts rejoice
+ The humble poor believe
+v6: |
+ Glory to God and praise and love
+ Be ever, ever giv'n
+ By saints below and saints above
+ The church in earth and Heave'n

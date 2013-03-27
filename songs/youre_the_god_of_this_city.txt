@@ -1,0 +1,28 @@
+---
+title: "You're The God of this city"
+structure: [[v1, v2, c1, c2],[v1, v2, c1, c3]]
+inkey: z
+speed: z
+v1: |
+  You're the God of this city
+  You're the King of these people
+  You're the Lord of this nation
+  You are
+v2: |
+  You're the Light in this darkness
+  You're the Hope to the hopeless
+  You're the Peace to the restless
+  You are
+c1: |
+  There is no one like our God
+  There is no one like our God
+c2: |
+  For greater things have yet to come
+  And greater things are still to be done in this city
+  Greater things have yet to come
+  And greater things are still to be done in this city
+c3: |
+  Greater things have yet to come
+  And greater things are still to be done in this city
+  Greater things have yet to come
+  And greater things are still to be done here
