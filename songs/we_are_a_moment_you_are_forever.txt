@@ -1,0 +1,21 @@
+---
+title: "We are a moment, You are forever"
+structure: [[v1, c1, v2]]
+inkey: z
+speed: z
+v1: |
+ We are a moment, You are forever
+ Lord of the ages, God before time
+ We are a vapor, You are eternal
+ Love everlasting, reigning on high
+v2: |
+ We are the broken, You are the healer
+ Jesus Redeemer, mighty to save
+ You are the love song we'll sing forever
+ Bowing before You, blessing Your name
+c1: |
+ Holy holy Lord God Almighty
+ Worthy is the Lamb Who was slain
+ Highest praises honor and glory
+ Be unto Your name
+ Be unto Your name

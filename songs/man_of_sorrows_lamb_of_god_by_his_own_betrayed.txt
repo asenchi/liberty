@@ -1,6 +1,6 @@
 ---
 title: "Man of sorrows, Lamb of God, by His own betrayed"
-structure: [[v1, v2, c1],[v3, c1],[b1, c1, v4]]
+structure: [[v1, v2, c1],[v3, c1, b1],[v4, c1]]
 inkey: z
 speed: z
 v1: |
