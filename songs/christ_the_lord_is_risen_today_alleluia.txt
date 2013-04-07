@@ -1,0 +1,25 @@
+---
+title: "Christ the Lord is risen today, alleluia"
+structure: [[v1, v2, v3],[v4]]
+inkey: z
+speed: z
+v1: |
+ Christ the Lord is risen today, alleluia
+ Sons of men and angels say, alleluia
+ Raise your joys and triumphs high, alleluia
+ Sing ye Heav'ns and Earth reply, alleluia
+v2: |
+ Lives again our glorious King, alleluia
+ Where O death is now thy sting, alleluia
+ Dying once He all doth save, alleluia
+ Where thy victory O grave, alleluia
+v3: |
+ Loves redeeming work is done, alleluia
+ Fought the fight the battle won, alleluia
+ Death in vain forbids Him rise, alleluia
+ Christ has opened Paradise, alleluia
+v4: |
+ Soar we now where Christ has lead, alleluia
+ Following our exalted Head, alleluia
+ Made like Him, like Him we rise, alleluia
+ Ours the cross, the grave, the skies, alleluia

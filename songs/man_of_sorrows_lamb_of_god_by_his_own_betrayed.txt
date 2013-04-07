@@ -1,0 +1,35 @@
+---
+title: "Man of sorrows, Lamb of God, by His own betrayed"
+structure: [[v1, v2, c1],[v3, c1],[b1, c1, v4]]
+inkey: z
+speed: z
+v1: |
+ Man of sorrows, Lamb of God 
+ By His own betrayed
+ The sin of man and wrath of God
+ Has been on Jesus laid
+v2: |
+ Silent as He stood accused 
+ Beaten, mocked and scorned
+ Bowing to the Father's will
+ He took a crown thorns
+v3: |
+ Sent of Heaven, God's own Son 
+ To purchase and redeem
+ And reconcile the very ones 
+ Who nailed Him to that tree
+v4: |
+ See the stone is rolled away
+ Behold the empty tomb
+ Hallelujah, God be praised
+ He's risen from the grave
+c1: |
+ Oh that rugged cross, my salvation
+ Where Your love poured out over me
+ Now my soul cries out hallelujah
+ Praise and honor unto Thee
+b1: |
+ Now my debt is paid, it is paid in full
+ By the precious blood that my Jesus spilled
+ Now the curse of sin, has no hold on me
+ Whom the Son sets free, oh is free indeed
