@@ -1,0 +1,31 @@
+---
+title: "Lost Are Saved"
+structure: [[v1,c1,v2],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ Lost are saved, find their way
+ At the sound of Your great name
+ All condemned, feel no shame
+ At the sound of Your great name
+ Every fear, has no place
+ At the sound of Your great name
+ The enemy, he has to leave
+ At the sound of Your great name
+c1: |
+ Jesus, worthy is the Lamb
+ That was slain for us Son of God and Man
+ You are high and lifted up
+ And all the world will praise Your great name
+v2: |
+ All the weak, find their strength
+ At the sound of Your great name
+ Hungry souls, receive grace
+ At the sound of Your great name
+ The fatherless, they find their rest
+ At the sound of Your great name
+ Sick are healed, and the dead are raised
+ At the sound of Your great name
+b1: |
+ Redeemer, my Healer, Lord Almighty
+ My Savior, Defender, You are my King
