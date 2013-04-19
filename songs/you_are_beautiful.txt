@@ -1,0 +1,29 @@
+---
+title: "You Are Beautiful"
+structure: [[c1,v1],[c1,v2]]
+inkey: z
+speed: z
+c1: |
+ You are beautiful
+ The treasure of my heart
+ You are wonderful
+ My heart's desire
+v1: |
+ And I'm so in love with You Jesus
+ So in love with you Jesus
+ Overwhelmed by Your mercy
+ Amazed by Your grace
+ I'm so in love with You Jesus
+ So in love with You Jesus
+ Overwhelmed by Your mercy
+ Amazed by Your grace
+v2: |
+ You are my hope in despair
+ You are my beauty for ashes
+ My dancing in the morning
+ You are my light in the darkness
+ My strength in the weakness
+ Peace in confusion
+ My anchor through the storm
+ My victory cry in the battle
+ Jesus, Jesus, Jesus, Jesus
