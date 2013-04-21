@@ -1,0 +1,21 @@
+#!/bin/sh
+
+# Move into our HOME directory
+cd
+root=$(pwd)
+
+DATE=$(date +"%y%m%d")
+RECORDER="/Volumes/DR-100MK2/MUSIC"
+FULL="$root/Sermons/Full"
+
+test ! -d $RECORDER && {
+  echo "Digital Recorder is not mounted."
+  exit 1
+}
+
+test ! -d $FULL && {
+  echo "For some reason we are missing our Sermons directory $FULL, bailing...
+  exit 1
+}
+
+
