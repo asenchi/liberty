@@ -1,6 +1,6 @@
 ---
 title: "Jesus I'm Amazed by Your Mercy"
-structure: [[v1,v2,c1,b1]]
+structure: [[v1,v2,c1],[b1,c1]]
 inkey: z
 speed: z
 v1: |
