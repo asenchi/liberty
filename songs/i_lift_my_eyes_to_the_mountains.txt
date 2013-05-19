@@ -1,0 +1,20 @@
+---
+title: "I lift my eyes up to the mountains"
+structure: [[v1, c1, v2]]
+inkey: z
+speed: z
+v1: |
+ I lift my eyes up to the mountains
+ Where does my help come from
+ My help comes from You
+ Maker of Heaven, Creator of the earth
+c1: |
+ O how I need You Lord, You are my only hope
+ You are my only prayer
+ So I will wait for You and put my trust in You
+ For You are always there
+v2: |
+ You are the vine and we are the branches
+ Let us abide in You
+ You are the fountain of life and blessing
+ All good things come from You
