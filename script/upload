@@ -6,7 +6,7 @@ root=$(pwd)
 
 DATE=$(date +"%y%m%d")
 SRCPATH="/Volumes/DR-100MK2/MUSIC"
-PATH="$root/Sermons"
+DSTPATH="$root/Sermons"
 
 FULL="$DSTPATH/Full"
 TRACKS="$DSTPATH/Tracks"
