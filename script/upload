@@ -5,17 +5,35 @@ cd
 root=$(pwd)
 
 DATE=$(date +"%y%m%d")
-RECORDER="/Volumes/DR-100MK2/MUSIC"
-FULL="$root/Sermons/Full"
+SRCPATH="/Volumes/DR-100MK2/MUSIC"
+PATH="$root/Sermons"
 
-test ! -d $RECORDER && {
-  echo "Digital Recorder is not mounted."
+FULL="$DSTPATH/Full"
+TRACKS="$DSTPATH/Tracks"
+
+test ! -d $SRCPATH && {
+  echo "Error: Digital Recorder is not mounted."
   exit 1
 }
 
-test ! -d $FULL && {
-  echo "For some reason we are missing our Sermons directory $FULL, bailing...
+test ! -d $DSTPATH && {
+  echo "Error: For some reason we are missing our Sermons directory $DSTPATH, bailing..."
   exit 1
 }
 
+for file in $(ls $SRCPATH)
+do
+  ### Copy our full sermon to Dropbox
+  test ! -f $FULL/$file && {
+    echo "Copying $SRCPATH/$file to $FULL/$file...\c"
+    cp $SRCPATH/$file $FULL/$file
+    echo "done."
+  }
 
+  ### Split our sermon into minute tracks
+  filename=$(echo $file | cut -d. -f1)
+  test ! -d $TRACKS/$filename && {
+    ### Creating directory for $filename
+    mkdir -p $TRACKS/$filename
+  }
+done
