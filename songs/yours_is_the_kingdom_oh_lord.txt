@@ -1,6 +1,6 @@
 ---
 title: "Yours is the kingdom, oh Lord"
-structure: [[c1, v2, v3]]
+structure: [[c1, v1, v2]]
 inkey: z
 speed: z
 c1: |
