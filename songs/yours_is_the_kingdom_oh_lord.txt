@@ -1,0 +1,20 @@
+---
+title: "Yours is the kingdom, oh Lord"
+structure: [[c1, v2, v3]]
+inkey: z
+speed: z
+c1: |
+ Yours is the kingdom, oh Lord
+ And the power and the glory forever
+ With Your rule extending over all the earth
+v1: |
+ Our Father, who reigns in heaven
+ Hallowed be Your name
+ May Your kingdom come
+ And Your will be done
+ On earth as it is in heaven
+v2: |
+ Give us this day our daily bread
+ Forgive us as we forgive
+ And lead us not into temptation
+ But deliver us from all evil
