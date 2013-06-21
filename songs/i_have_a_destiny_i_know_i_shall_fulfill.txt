@@ -1,0 +1,20 @@
+---
+title: "I have a destiny I know I shall fulfill"
+structure: [[c1, v1, v2]]
+inkey: z
+speed: z
+c1: |
+ I have a destiny I know I shall fulfill
+ I have a destiny in that city on a hill
+ I have a destiny and it's not an empty wish
+ For I know I was born for such a time as this
+v1: |
+ Long before the ages You destined me
+ To walk in all the works You have prepared for me
+ You've given me a part to play history
+ To help prepare a bride for eternity
+v2: |
+ I did not choose You but You have chosen me
+ And appointed me for bearing fruit abundantly
+ I know You will complete the work begun in me
+ By the power of Your spirit working mightily

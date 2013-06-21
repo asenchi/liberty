@@ -1,0 +1,30 @@
+--- 
+title: "You are holy"
+structure: [[v1],[c1, c2]]
+inkey: z
+speed: z
+v1: |
+ You are holy (echo), You are mighty (echo)
+ You are worthy (echo), worthy of praise (echo)
+ I will follow (echo), I will listen (echo)
+ I will love You (echo), All of my days (echo)
+c1: |
+ Men                      Women
+ I will sing to           You are Lord of Lords
+ And worship              You are King of Kings
+ The King who             You are a mighty God
+ Is worthy                Lord of everything
+ I will love and          You're Emmanuel
+ Adore You                You're the great I Am
+ I will bow down          You're my Prince of Peace
+ Before You               Who is the Lamb
+ I will sing to           You're my living God
+ And worship              You're my saving grace
+ The King who             You will reign forever
+ Is worthy                You're the Ancient of Days
+ I will love and          You are Alpha, Omega
+ Adore You                Beginning and end
+ I will bow down          You're my Savior, Messiah
+ Before You               Redeemer and friend
+c2: |
+ You're my Prince of Peace and I will live my life for You

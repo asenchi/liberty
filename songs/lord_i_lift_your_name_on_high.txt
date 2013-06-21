@@ -1,0 +1,15 @@
+---
+title: "Lord I lift Your name on high"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Lord I lift Your name on high
+ Lord I love to sing Your praises
+ I'm so glad You're in my life
+ I'm so glad You came to save us
+c1: |
+ You came from Heaven to Earth to show the way
+ From the Earth to the cross, my debt to pay
+ From the cross to the grave, from the grave to the sky
+ Lord I lift Your name on high

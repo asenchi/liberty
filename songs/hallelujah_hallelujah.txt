@@ -1,0 +1,22 @@
+---
+title: "Hallelujah, hallelujah"
+structure: [[v1, v2, c1]]
+inkey: z
+speed: z
+v1: |
+ Hallelujah, hallelujah
+ For our Lord God almighty reigns
+v2: |
+ Hallelujah, hallelujah
+ For our Lord God almighty reigns
+ Hallelujah
+c1: |
+ Holy, holy
+ Are You Lord God almighty
+ Worthy is the Lamb
+ Worthy is the Lamb
+ You are holy
+ Holy are You Lord God almighty
+ Worthy is the Lamb
+ Worthy is the Lamb
+ You are holy
