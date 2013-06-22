@@ -17,7 +17,7 @@ def open_file(path):
 
 def yamlize(string):
     try:
-        return yaml.load(string)
+        return yaml.safe_load(string)
     except Exception:
         print("Only one song should be defined per file. Songs are defined by the '---' at the top. See documentation")
         raise

@@ -47,9 +47,9 @@ def song(title):
     songlist = get_files(app.config["SONGS"])
     for song, path in songlist:
         if song.split('.')[0] == cleanse:
-            opened = open_file(path)
+            opened     = open_file(path)
             serialized = yamlize(opened)
-            compiled = build_song(serialized, raw)
+            compiled   = build_song(serialized, raw)
     total=len(compiled["final"])
     return render_template(
                "song.html",
