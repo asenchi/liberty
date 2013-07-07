@@ -1,0 +1,18 @@
+---
+title: "Jesus, Lover of my soul"
+structure: [[v1,c1]]
+inkey: z
+speed: z
+v1: |
+ Jesus, lover of my soul
+ Jesus, I will never let You go
+ You’ve taken me from the miry clay
+ You’ve set my feet upon the rock
+ And now I know
+c1: |
+ I love You
+ I need You
+ Though my world may fall I’ll never let You go
+ My Savior
+ My closest friend
+ I will worship You until the very end
