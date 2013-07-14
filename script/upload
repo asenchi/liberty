@@ -35,5 +35,10 @@ do
   test ! -d $TRACKS/$filename && {
     ### Creating directory for $filename
     mkdir -p $TRACKS/$filename
+    cd $FULL/$file
+    mp3splt -f -t 1.0 -a -d $TRACKS/$filename $file
+    if [ $? -ne 0 ]
+    then echo "Error: mp3splt didn't work."
+    fi
   }
 done
