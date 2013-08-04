@@ -1,0 +1,15 @@
+---
+title: "You did not wait for me"
+structure: [[v1,c1]]
+inkey: z
+speed: z
+v1: |
+ You did not wait for me to draw near to You
+ But You clothed Yourself with frail humanity
+ You did not wait for me to cry out to You
+ But You let me hear Your voice calling me
+c1: |
+ And I'm forever grateful to You
+ I'm forever grateful for the cross
+ I'm forever grateful to You
+ That You came to seek and save the lost

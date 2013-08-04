@@ -1,0 +1,23 @@
+---
+title: "Lord I know the power"
+structure: [[v1,v2,c1],[v3,c1]]
+inkey: z
+speed: z
+v1: |
+ Lord I know the power of the blood of the Lamb
+ The cleansing flow from Calvary to redeem fallen man
+ Though You were rejected
+ And Your love was more than tested
+ You carried on
+v2: |
+ Lord You left Your Father, You came to set men free
+ To give me life You laid Yours down as a ransom just for me
+ Jesus I’m so grateful that Your love’s been more than faithful
+c1: |
+ Lord Your grace is still amazing
+ Lord Your grace is still amazing
+ Lord Your grace is still amazing, amazing to me
+v3: |
+ Even though desires, try to lead us far away
+ Your Spirit draws us back to You so that we will not stray
+ Even in our weakness, Lord Your love can always keep us

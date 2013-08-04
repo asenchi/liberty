@@ -5,9 +5,9 @@ inkey: "z"
 speed: "z"
 v1: |
  For Thou O Lord art high above all the earth
- Thou art exalted far above all Gods
+ Thou art exalted far above all gods
  For Thou O Lord art high above all the earth
- Thou art exalted far above all Gods
+ Thou art exalted far above all gods
 c1: |
  I exalt Thee
  I exalt Thee

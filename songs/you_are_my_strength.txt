@@ -1,0 +1,22 @@
+---
+title: "You Are My Strength"
+structure: [[v1,c1,v2]]
+inkey: z
+speed: z
+v1: |
+ You are my strength when I am weak
+ You are the treasure that I seek
+ You are my all and all
+ Seeking You as a precious Jewel
+ Lord to give up I'd be a fool
+ You are my all in all
+v2: |
+ Taking my sin my cross my shame
+ Rising again I bless Your name
+ You are my all in all
+ When I fall Down You pick me up
+ When I am dry You fill my cup
+ You are my all in all
+c1: |
+ Jesus Lamb of God worthy is Your Name
+ Jesus Lamb of God worthy is Your Name
