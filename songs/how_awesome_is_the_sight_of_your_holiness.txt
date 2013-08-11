@@ -1,0 +1,20 @@
+---
+title: "How awesome is the sight of Your holiness"
+structure: [[v1, c1, c2, c3, c4]]
+inkey: z
+speed: z
+v1: |
+ How awesome is the sight of Your holiness
+ How majestic is Your purity
+ Your righteousness shines brighter than the sun on me
+c1: |
+ Holy, Holy, Holy
+ Is the Lord our God
+c2: |
+ Glory, Glory, Glory
+ To Your matchless name
+c3: |
+ Worthy, Worthy, Worthy
+ Is the Lamb that was slain
+c4: |
+ And He rose again
