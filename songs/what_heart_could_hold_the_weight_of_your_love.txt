@@ -1,0 +1,29 @@
+---
+title: "What heart could hold the weight of Your love"
+structure: [[v1, c1, v2],[b1, c1, v3]]
+inkey: z
+speed: z
+v1: |
+ What heart could hold the weight of Your love
+ And know the heights of Your great worth
+ What eyes could look on Your glorious face
+ Shining like the sun
+v2: |
+ Your name alone has the power to raise us
+ Your light will shine when all else fades
+ Our eyes will look on Your glorious face
+ Shining like the sun, who is like You God
+v3: |
+ And You will come again in Glory
+ To judge the living and the dead
+ All eyes will look on Your glorious face
+ Shining like the sun, who is like You God
+c1: |
+ You are holy, holy, holy
+ God most high and God most worthy
+ You are holy, holy, holy
+ Jesus You are, Jesus You are
+b1: |
+ Who shall we say You are? You're the living God
+ Who shall we say You are? You're the Great I Am
+ The highest name of all, You're all You say You are
