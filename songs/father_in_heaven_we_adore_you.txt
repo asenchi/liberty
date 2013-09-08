@@ -1,14 +1,14 @@
 ---
-title: "Father in Heaven we adore You"
-structure: [[v1, v2]]
-inkey: "z"
-speed: "z"
+title: "Father in heaven we adore You"
+structure: [[v1, c1]]
+inkey: z
+speed: z
 v1: |
- Father in Heaven we adore You
- Great is Your name in all the earth
- May Your kingdom be established through our praises
+ Father in heaven we adore You
+ We lift Your name on high in all the earth
+ May Your kingdom be established in our praises
  As Your people declare Your mighty works
-v2: |
+c1: |
  Blessed be the Lord God Almighty
  Who was and is and is to come
  Blessed be the Lord God Almighty
