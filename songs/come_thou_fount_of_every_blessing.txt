@@ -1,0 +1,32 @@
+---
+title: "Come Thou fount of every blessing"
+structure: [[v1, v2],[v3]]
+inkey: z
+speed: z
+v1: |
+ Come Thou fount of every blessing
+ Tune my heart to sing Your grace
+ Streams of mercy, never ceasing
+ Call for songs of loudest praise
+ Teach me some melodious sonnet
+ Sung by flaming tongues above
+ Praise the mount, I'm fixed upon it
+ Mount of Thy unchanging love
+v2: |
+  Thus far Your love has blessed me
+  You have brought me to this place
+  And I know Your hand will lead me
+  Safely home by Your good grace
+  Jesus sought me when a stranger
+  Wandering from the fold of God
+  He, to rescue me from danger
+  Bought me with His precious blood
+v3: |
+  O to grace how great a debtor
+  Daily I’m convinced it’s true
+  Let that grace now, like a fetter
+  Bind my wandering heart to You
+  Prone to wander, Lord, I feel it
+  Prone to leave the God I love
+  Here’s my hear Lord, take and seal it
+  Seal it for your courts above
