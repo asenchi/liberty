@@ -1,6 +1,6 @@
 ---
 title: "You're The God of this city"
-structure: [[v1, v2, c1, c2],[v1, v2, c1, c3]]
+structure: [[v1, v2, c1, c2],[v3, v4, c1, c3]]
 inkey: z
 speed: z
 v1: |
@@ -13,16 +13,26 @@ v2: |
   You're the Hope to the hopeless
   You're the Peace to the restless
   You are
+v3: |
+  You're the Lord of Creation
+  The Creator of all things
+  You're the King above all kings
+  You are
+v4: |
+  You're the Strength in our weakness
+  You're the Love to the broken
+  You're the Joy in the sadness
+  You are
 c1: |
   There is no one like our God
   There is no one like our God
 c2: |
-  For greater things have yet to come
-  And greater things are still to be done in this city
   Greater things have yet to come
   And greater things are still to be done in this city
+  Greater things are yet to come
+  And greater things are still to be done here
 c3: |
   Greater things have yet to come
   And greater things are still to be done in this city
-  Greater things have yet to come
-  And greater things are still to be done here
+  Where glory shines from hearts alive
+  With praise for You and love for You in this city
