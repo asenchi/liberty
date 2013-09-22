@@ -1,12 +1,11 @@
 ---
 title: "You are the sovereign I Am, Your name is holy"
-structure: [[v1, v2, c1],[v3, v4, c1]]
+structure: [[v1, c1, v2]]
 inkey: z
 speed: z
 v1: |
  You are the sovereign I Am, Your name is holy
  You are the pure spotless Lamb, Your name is holy
-v2: |
  You are the almighty One, Your name is holy
  You are the Christ God's own Son, Your name is holy
 c1: |
@@ -14,9 +13,8 @@ c1: |
  There is healing within, in Your holy name
  In Your name, there is strength to remain
  To stand in spite of pain, in Your holy name
-v3: |
+v2: |
  You are the King of all kings, Your name is Jesus
  You are the Lord of all things, Your name is Jesus
-v4: |
  You are the Ancient of Days, Your name is Jesus
  You are so worthy of praise, Your name is Jesus

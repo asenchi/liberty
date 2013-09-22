@@ -14,10 +14,12 @@ v1: |
  You'll reign at Your Father's side
 c1: |
  And the angels will cry
- Hail the Lamb who was slain for the world
+ Hail the Lamb
+ Who was slain for the world
  Rule in power
  And the earth will reply
- You shall reign as the King of all kings and the
+ You shall reign
+ As the King of all kings and the
  Lord of all lords
 v2: |
  There's a shield in our hand and a sword at our side
