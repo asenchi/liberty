@@ -1,0 +1,18 @@
+---
+title: "Glory to God in the Highest"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ Glory to God in the highest
+ Peace to Your people on Earth
+ Glory to You Lord God, our heavenly King
+v2: |
+ Almighty God our Father
+ We worship You and we give thanks
+ For You alone are Holy and worthy of praise
+v3: |
+ The heavens are telling Your glory
+ Creation is singing for joy
+ The nations will bow down before You
+ And give You praise
