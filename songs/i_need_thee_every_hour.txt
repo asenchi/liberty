@@ -1,0 +1,22 @@
+---
+title: "I Need Thee Every Hour"
+structure: [[v1,v2,v3,b1]]
+inkey: z
+speed: z
+v1: |
+ I need Thee every hour most gracious Lord
+ No tender voice like Thine can peace afford
+ I need Thee oh I need Thee every hour I need Thee
+ Oh bless me now my Savior I come to Thee
+v2: |
+ I need Thee every hour stay Thou nearby
+ Temptations Lose their power when Thou art nigh
+ I need Thee oh I need Thee every hour I need Thee
+ Oh bless me now my Savior I come to Thee
+v3: |
+ I need Thee every hour most Holy One
+ Oh make me Thine indeed Thou blessed Son
+ I need Thee oh I need Thee every hour I need Thee
+ Oh bless me now my Savior I come to Thee
+b1: |
+ Oh bless me now my Savior I come to Thee
