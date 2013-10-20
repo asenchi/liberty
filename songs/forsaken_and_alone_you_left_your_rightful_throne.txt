@@ -1,6 +1,6 @@
 ---
 title: "Forsaken and alone You left Your rightful throne"
-structure: [[verse1, chorus, verse2],[verse3, chorus, bridge]]
+structure: [[verse1, pc, chorus],[verse2, pc, chorus, bridge]]
 inkey:
 speed:
 verse1: |
@@ -9,20 +9,21 @@ verse1: |
  They looked for You one day
  They found an empty grave
  The resurrected Savior gave us freedom
-chorus: |
+pc: |
  Lord we don't deserve the banquet that You serve
  The wages of our sin had been foretold
-verse2: |
+chorus: |
  Your grace is freedom from all the snares that bind us
  And all we do is call upon Your name
  Your grace is freedom
  To live the life You've planned for us
  And by Your grace we'll walk with You today
-verse3: |
+verse2: |
  We're santified and saved, You washed away the stain
  You purified us now we live in freedom
  You help us turn away
  From darkness, sin, and pain
+ Your Spirit guides us as we live in freedom
 bridge: |
  Oh God, give us strength, give us grace, give us love
  Oh God, live within our hearts
