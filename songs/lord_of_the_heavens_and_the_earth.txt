@@ -1,0 +1,19 @@
+---
+title: "Lord of the heavens and the earth"
+structure: [[v1,c1]]
+inkey: z
+speed: z
+v1: |
+ Lord of the heavens and the earth
+ My Savior, Redeemer, risen Lord
+ All honor and glory, power and strength
+ To Him upon the throne
+c1: |
+ Holy, holy You are worthy
+ Praises to the Son of God
+ Jesus, You alone are worthy
+ Crowned in righteousness and peace
+ Glory, glory hallelujah
+ Praises to the great I Am
+ Hosanna join with angels singing
+ Worthy is the Lamb of God
