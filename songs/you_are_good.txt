@@ -1,6 +1,6 @@
 ---
 title: "you are good"
-structure: [[v1, c1],[v2, c1],[v3, c1, b1]]
+structure: [[v1],[v2, c1],[v3, c1, b1]]
 inkey: z
 speed: z
 v1: |
@@ -23,7 +23,7 @@ v2: |
  In You death has lost its sting
 c1: |
  Oh, I'm running to Your arms, I'm running to Your arms
- The riches of Your love Will always be enough
+ The riches of Your love will always be enough
  Nothing compares to Your embrace 
  Light of the world forever reign
 v3: |
