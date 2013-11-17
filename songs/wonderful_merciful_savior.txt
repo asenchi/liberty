@@ -1,25 +1,29 @@
 ---
 title: "Wonderful merciful Savior"
-structure: [[verse1, verse2, verse3, verse4]]
-inkey:
-speed:
-verse1: |
+structure: [[v1, v2],[v3, v4]]
+inkey: z
+speed: slow
+v1: |
  Wonderful merciful Savior
  Precious Redeemer and Friend
  Who could have thought that a Lamb could
- Rescue the souls of men, oh You rescue the souls of men
-verse2: |
+ Rescue the souls of men
+ Oh You rescue the souls of men
+v2: |
  Counselor, Comforter, Keeper
  Spirit we long to embrace
  You offer hope when our hearts have
- Hopelessy lost the way, oh we hopelessly lost the way
-verse3: |
+ Hopelessy lost the way
+ Oh we hopelessly lost the way
+v3: |
  You are the One that we praise
- You are the One that we adore
+ You are the One we adore
  You give the healing and grace our
- Hearts always hunger for, oh our hearts always hunger for
-verse4: |
+ Hearts always hunger for
+ Oh our hearts always hunger for
+v4: |
  Almighty infinite Father
  Faithfully loving Your own
  Here in our weakness You find us
- Falling before Your throne, oh we're falling before Your throne
+ Falling before Your throne
+ Oh we're falling before Your throne
