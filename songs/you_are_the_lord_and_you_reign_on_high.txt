@@ -1,0 +1,26 @@
+---
+title: "You are the Lord and You reign on high"
+structure: [[v1, c1],[v2, c1]]
+inkey: z
+speed: z
+v1: |
+ You are the Lord and You reign on high
+ You are the Lord
+ Spoke into darkness, created the light
+ You are the Lord
+ Who is like unto You, never ending in days
+ You are the Lord
+ And You come in power when we call on Your name
+ You are the Lord
+c1: |
+ God of power, we call on Your name
+ God of power, forever the same
+v2: |
+ Your gospel, O Lord, is the hope for our nation
+ You are the Lord
+ It's the power of God for our salvation
+ You are the Lord
+ We ask not for riches but look to the cross
+ You are the Lord
+ And for our inheritence give us the lost
+ You are the Lord
