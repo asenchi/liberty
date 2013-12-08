@@ -1,0 +1,15 @@
+---
+title: "Your love oh Lord reaches to the heavens"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Your love, oh Lord, reaches to the heavens
+ Your faithfulness stretches to the skies
+ Your righteousness is like the mighty mountain
+ Your justice flows like the ocean's tide
+c1: |
+ And I will lift my voice
+ To worship You my King
+ And I will find my strength
+ In the shadow of Your wings
