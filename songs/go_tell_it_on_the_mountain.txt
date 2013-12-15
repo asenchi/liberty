@@ -1,0 +1,25 @@
+---
+title: "Go tell it on the mountain"
+structure: [[c1, v1, v2],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ Go, tell it on the mountain
+ Over the hills and everywhere
+ Go, tell it on the mountain
+ That Jesus Christ is born
+v1: |
+ While shepherds kept their watching
+ Over silent flocks by night
+ Behold throughout the heavens
+ There shone a holy light
+v2: |
+ The shepherds feared and trembled
+ When lo! above the earth
+ Rang out the angels chorus
+ That hailed the Savior's birth
+v3: |
+ Down in a lowly manger
+ The humble Christ was born
+ And God sent us salvation
+ That blessed Christmas morn
