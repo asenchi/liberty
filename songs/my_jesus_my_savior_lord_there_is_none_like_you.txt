@@ -1,6 +1,6 @@
 ---
 title: "My Jesus, my Savior, Lord there is none like You"
-structure: [[]]
+structure: [[v1, v2, c1]]
 inkey: z
 speed: z
 v1: |
