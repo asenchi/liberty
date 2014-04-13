@@ -1,0 +1,20 @@
+---
+title: "I've Been Raised with Christ"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ I’ve been raised with Christ
+ And I’ll keep seeking the things above
+ O’ the things of my Lord
+ I’ve been raised with Christ
+ And I’ll not be satisfied with anything less
+ Than all that God has for me
+v2: |
+ My soul will always seek You my Lord
+ And my lips will always praise You with joy
+ For my life has been given into Your hands
+v3: |
+ Yes my soul will always seek You my Lord
+ And my lips will always praise You with joy
+ In my heart I have sanctified You as Lord
