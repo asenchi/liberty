@@ -1,0 +1,30 @@
+---
+title: "I know that my Redeemer lives"
+structure: [[v1, v2, v3],[v4, v5]]
+inkey: z
+speed: z
+v1: |
+ I know that my Redeemer lives
+ What comfort this sweet sentence gives
+ He lives, He lives, who once was dead
+ He lives, my ever-loving Head
+v2: |
+ He lives triumphant from the grave
+ He lives eternally to save
+ He lives all-glorious in the sky
+ He lives exalted there on high
+v3: |
+ He lives to bless me with His love
+ He lives to plead for me above
+ He lives my hungry soul to feed
+ He lives to help in time of need
+v4: |
+ He lives to silence all my fears
+ He lives to wipe away my tears
+ He lives to calm my troubled heart
+ He lives all blessings to impart
+v5: |
+ He lives all glory to His name
+ He lives, my Jesus, still the same
+ Oh, the sweet joy this sentence gives
+ I know that my Redeemer lives
