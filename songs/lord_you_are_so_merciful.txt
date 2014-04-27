@@ -1,0 +1,25 @@
+---
+title: "Lord you are so merciful"
+structure: [[v1, c1, v2],[c2]]
+inkey: z
+speed: z
+v1: |
+ Lord, You are so merciful
+ Lord, You are so full of grace
+ Lord, You love to pour out Your blessings
+ And our hearts love to sing Your praise
+c1: |
+ In Your presence there is freedom
+ In Your presence there is joy
+ In Your presence there is truth
+ Jesus, Jesus it's You
+v2: |
+ Lord, we need Your mercy
+ Lord, we need Your grace
+ Lord, please pour out Your blessings
+ Our hearts will always sing Your praise
+c2: |
+ In Your presence we find freedom
+ In Your presence we find joy
+ In Your presence we find truth
+ Jesus, Jesus it's You
