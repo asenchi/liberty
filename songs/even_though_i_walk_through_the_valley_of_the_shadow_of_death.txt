@@ -1,6 +1,6 @@
 ---
 title: "Even though I walk through the valley of the shadow of death"
-structure: [[verse1, chorus1, chorus2],[verse2, bridge]]
+structure: [[verse1, chorus1, chorus2],[verse2, bridge, chorus2]]
 inkey:
 speed:
 verse1: |
@@ -23,12 +23,10 @@ chorus2: |
 verse2: |
  I can see a light that is coming for the heart that holds on
  A glorious light beyond all compare
- There will be an end to these struggles
- But until that day comes
+ There will be an end to these struggles but until that day comes
  We'll know You here on earth
 bridge: |
  I can see a light that is coming for the heart that holds on
  There will be an end to these troubles
  But until that day comes
- Still I will praise You
  Still I will praise You
