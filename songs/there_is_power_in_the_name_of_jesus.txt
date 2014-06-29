@@ -1,0 +1,21 @@
+---
+title: "There is power in the name of Jesus"
+structure: [[c1,v1,c2]]
+inkey: z
+speed: z
+v1: |
+ All sufficient sacrifice
+ So freely given
+ Such a price bought
+ Our redemption
+ Heaven's gates swing wide
+c1: |
+ There is power in the name of Jesus
+ There is power in the name of Jesus
+ There is power in the name of Jesus
+ To break every chain
+c2: |
+ There's an army rising up
+ There's an army rising up
+ There's an army rising up
+ To break every chain
