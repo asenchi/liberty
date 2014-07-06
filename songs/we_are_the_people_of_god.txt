@@ -1,6 +1,6 @@
 ---
 title: "We Are The People of God"
-structure: [[v1,v2,c1],[b1,v3,c1]]
+structure: [[v1,v2,c1],[b1,c1]]
 inkey: z
 speed: z
 v1: |
