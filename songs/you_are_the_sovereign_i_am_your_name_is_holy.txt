@@ -1,6 +1,6 @@
 ---
 title: "You are the sovereign I Am, Your name is holy"
-structure: [[v1, c1, v2]]
+structure: [[v1, c1, v2, v3]]
 inkey: z
 speed: z
 v1: |
@@ -16,5 +16,6 @@ c1: |
 v2: |
  You are the King of all kings, Your name is Jesus
  You are the Lord of all things, Your name is Jesus
+v3: |
  You are the Ancient of Days, Your name is Jesus
  You are so worthy of praise, Your name is Jesus
