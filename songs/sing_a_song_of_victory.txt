@@ -1,6 +1,6 @@
 ---
 title: "Sing a song of victory"
-structure: [[v1,v2,c1],[v3,c1]]
+structure: [[v1,c1,c2],[v3,c1,c2]]
 inkey: z
 speed: z
 v1: |
@@ -9,17 +9,14 @@ v1: |
  Tell of all His faithfulness; our lives have been restored
  Hallelujah we are blessed
  Yahweh is for us
-v2: |
+c1: |
  He hears, He hears every faithful prayer
  He sees, He's watching with tender care
  He knows, He knows every pain we bear
  From the highest heaven His mercies flow
  To the ends of the earth His people know
  Yahweh is for us
-c1: |
- Yahweh is for us
- Yahweh is for us
- Yahweh is for us
+c2: |
  Yahweh is for us
 v3: |
  All the idols of this age come from a world of lies
