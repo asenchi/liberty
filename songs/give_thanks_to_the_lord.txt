@@ -1,6 +1,6 @@
 ---
 title: "Give Thanks To The Lord"
-structure: [[v1,v2,c1],[v3,c1]]
+structure: [[v1,c1,v2],[v3,c1]]
 inkey: z
 speed: z
 v1: |
