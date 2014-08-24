@@ -1,6 +1,6 @@
 ---
 title: "From the highest of heights to the depths of the sea"
-structure: [[v1, c1, c2],[v2, c2, c3]]
+structure: [[v1, c1],[v2, c1],[c2]]
 inkey: "z"
 speed: "z"
 v1: |
@@ -12,7 +12,6 @@ c1: |
  Indescribable, uncontainable,
  You placed the stars in the sky and You know them by name
  You are amazing God
-c2: |
  All powerful, untamable
  Awestruck we lift up our voice and we humbly proclaim
  You are amazing God
@@ -22,7 +21,10 @@ v2: |
  Who imagined the sun and gives source to its light
  Yet conceals it to bring us the coolness of night
  None can fathom
-c3: |
+c2: |
+ All powerful, untamable
+ Awestruck we lift up our voice and we humbly proclaim
+ You are amazing God
  Incomparable, unchangeable
  You see the depths of my heart and You love me the same
  You are amazing God
