@@ -1,0 +1,17 @@
+---
+title: "We give thanks to you"
+structure: [[v1,v2,v3]]
+inkey: z
+speed: z
+v1: |
+ We give thanks to You, O Lord almighty God
+ The One who is, who was, and is to come
+ You've taken up Your power and begun to reign
+ The nations bow before the Holy One
+v2: |
+ Now Your salvation and Your power and Your kingdom
+ Have all come and You are Lord of all
+v3: |
+ The accuser of the brothers has been hurled down forever
+ Overcome by the blood, overcome by your blood
+ Overcome by the blood of the Lamb
