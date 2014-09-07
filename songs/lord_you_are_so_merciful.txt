@@ -9,9 +9,9 @@ v1: |
  Lord, You love to pour out Your blessings
  And our hearts love to sing Your praise
 c1: |
- In Your presence there is freedom
- In Your presence there is joy
- In Your presence there is truth
+ In You there is freedom
+ In You there is joy
+ In You there is truth
  Jesus, Jesus it's You
 v2: |
  Lord, we need Your mercy
@@ -19,7 +19,7 @@ v2: |
  Lord, please pour out Your blessings
  Our hearts will always sing Your praise
 c2: |
- In Your presence we find freedom
- In Your presence we find joy
- In Your presence we find truth
+ In You we find freedom
+ In You we find joy
+ In You we find truth
  Jesus, Jesus it's You
