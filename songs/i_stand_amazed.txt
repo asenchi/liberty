@@ -1,0 +1,25 @@
+---
+title: "I stand amazed in the presence"
+structure: [[v1,c1],[v2,c1],[v3,c1]]
+inkey: z
+speed: z
+v1: |
+ I stand amazed in the presence
+ Of Jesus the Nazarene
+ And wonder how He could love me
+ A sinner, condemned, unclean
+c1: |
+ How marvelous, how wonderful
+ And my song shall ever be
+ How marvelous, how wonderful
+ Is my Savior's love for me
+v2: |
+ He took my sins and my sorrows
+ He made them His very own
+ He bore the burden to calvary
+ And suffered and died alone
+v3: |
+ When with the ransomed in glory
+ His face I at last shall see
+ 'twill be my joy through the ages
+ To sing of His love for me
