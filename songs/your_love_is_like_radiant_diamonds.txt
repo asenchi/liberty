@@ -1,0 +1,17 @@
+---
+title: "Your love is like radiant diamonds"
+structure: [[v1, c1, b1]]
+inkey: z
+speed: z
+v1: |
+ Your love is like radiant diamonds
+ Bursting inside us we cannot contain
+ Your love will surely come to find us
+ Like blazing wild fire singing Your name
+c1: |
+ God of mercy sweet love divine
+ I have surrendered to Your design
+ May this offering stretch across the skies
+ And these Hallelujahs be multiplied
+b1: |
+ Hallelujah, Hallelujah, to You Lord
