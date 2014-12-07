@@ -1,0 +1,22 @@
+---
+title: "Jesus, lover of my soul. All consuming fire is in Your gaze"
+structure: [[v1, pc1, c1]]
+inkey: z
+speed: z
+v1: |
+ Jesus, lover of my soul
+ All consuming fire is in Your gaze
+ Jesus, I want You to know
+ I will follow You all my days
+pc1: |
+ For no one else in history is like You
+ And history itself belongs to You
+ Alpha and Omega, You have loved me
+ And I will share eternity with You
+c1: |
+ It's all about You, Jesus
+ And all this is for You
+ For Your glory and Your fame
+ It's not about me
+ As if You should do things my way
+ You alone are God, and I surrender to Your ways
