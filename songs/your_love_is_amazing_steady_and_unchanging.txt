@@ -1,0 +1,24 @@
+---
+title: "Your love is amazing, steady and unchanging"
+structure: [[v1, c1, v2],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ Your love is amazing, steady and unchanging
+ Your love is a mountain firm beneath my feet
+ Your love is a mystery, how You gently lift me
+ When I am surrounded, Your love carries me
+v2: |
+ Your love is surprising, I can feel it rising
+ All the joy that's growing deep inside of me
+ Every time I see You, all Your goodness shines through
+ I can feel this God song rising up in me
+c1: |
+ Hallelujah, hallelujah, hallelujah
+ Your love makes me sing
+ Hallelujah, hallelujah, hallelujah
+ Your love makes me sing
+b1: |
+ Yes, You make me sing
+ Lord, You make me sing
+ How You make me sing
