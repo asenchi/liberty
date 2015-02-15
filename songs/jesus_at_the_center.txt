@@ -1,0 +1,26 @@
+---
+title: "Jesus at the center of it all"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ Jesus at the center of it all
+ Jesus at the center of it all
+ From beginning to the end, it will always be
+ It's always been You, Jesus
+v2: |
+ Jesus be the center of my life
+ Jesus be the center of my life
+ From beginning to the end, it will always be
+ It's always been You Jesus, Jesus
+c1: |
+ Nothing else matters 
+ Nothing in this world will do
+ Jesus You're the center
+ And everything revolves around You
+ Jesus You
+b1: |
+ From my heart to the Heavens
+ Jesus be the center
+ It's all about You
+ Yes it's all about You
