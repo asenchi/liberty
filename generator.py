@@ -19,6 +19,7 @@ def yamlize(string):
     try:
         return yaml.safe_load(string)
     except Exception:
+        print(string)
         print("Only one song should be defined per file. Songs are defined by the '---' at the top. See documentation")
         raise
 
@@ -39,7 +40,7 @@ def build_song(serial, raw):
 def get_files(directory):
     for filename in os.listdir(directory):
         path = os.path.join(directory, filename)
-        if os.path.isfile(path):
+        if os.path.isfile(path) and not filename.startswith('.'):
             yield (filename, path)
 
 def pretty_filename(f):

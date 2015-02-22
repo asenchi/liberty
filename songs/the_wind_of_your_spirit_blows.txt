@@ -1,6 +1,6 @@
 ---
 title: "The wind of Your Spirit blows"
-structure: [[v1,v2,c1`]]
+structure: [[v1,v2,c1]]
 inkey: z
 speed: z
 v1: |
