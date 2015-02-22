@@ -1,0 +1,25 @@
+---
+title: "Who Oh Lord Could Save Themselves"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ Who, oh Lord, could save themselves
+ Their own soul could heal
+ Our shame was deeper than the sea
+ Your grace is deeper still
+c1: |
+ You alone can rescue, You alone can save
+ You alone can lift us from the grave
+ You came down to find us, led us out of death
+ To You alone belongs the highest praise
+v2: |
+ You, oh Lord, have made a way
+ The great divide You heal
+ For when our hearts were far away
+ Your love went further still
+ Yes, Your love goes further still
+b1: |
+ We lift up our eyes, lift up our eyes
+ You're the Giver of Life
+ You're the Giver of Life
