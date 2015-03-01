@@ -3,6 +3,7 @@ title: "You call me out upon the waters"
 structure: [[v1,c1],[v2,c2],[b1,c2,c3]]
 inkey: z
 speed: z
+video: "http://youtu.be/N2PNTq_-mZs"
 v1: |
  You call me out upon the waters
  The great unknown where feet may fail
@@ -10,7 +11,7 @@ v1: |
  In oceans deep
  My faith will stand
 c1: |
- And I will call upon Your name
+ I will call upon Your name
  And keep my eyes above the waves
  When oceans rise
  My soul will rest in Your embrace
@@ -22,7 +23,7 @@ v2: |
  Where feet may fail and fear surrounds me
  You've never failed and You won't start now
 c2: |
- So I will call upon Your name
+ I will call upon Your name
  And keep my eyes above the waves
  When oceans rise
  My soul will rest in Your embrace

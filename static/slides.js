@@ -49,6 +49,7 @@ window.onload = function() {
 				window.location.href = '/songs/';
 				event.preventDefault();
 				return false;
+                        case 86:  // V
 		}
 	}
 }
