@@ -22,4 +22,5 @@ c1: |
  Lay down your burdens, lay down your shame
  All who are broken, lift up your face
  O wanderer, come home, you're not too far
- So lay down your hurt, lay down your heart, come as you are 
+ So lay down your hurt, lay down your heart
+ Come as you are 
