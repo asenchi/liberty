@@ -18,6 +18,6 @@ v2: |
  Then died that we might live
 b1: |
  You conquered temptation, obedient to death
- You won our salvation, Lord You won our righteousness
+ You won our salvation, Lord You are our righteousness
 inkey: z
 speed: z
