@@ -1,6 +1,6 @@
 ---
 title: "I'm forgiven because you were forsaken"
-structure: [[v1, c1, b1]]
+structure: [[v1, c1]]
 inkey: z
 speed: z
 v1: |
@@ -13,8 +13,3 @@ c1: |
  That You my King would die for me
  Amazing Love I know it's true, It's my joy to honor You
  In all I do, I honor You
-b1: |
- You are my King
- You are my King
- Jesus You are my king
- Jesus You are my king
