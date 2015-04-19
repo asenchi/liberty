@@ -1,6 +1,6 @@
 ---
 title: "Rain in the Morning"
-structure: [[v1, c1, v2, c1, c2, b1]]
+structure: [[v1, c1], [v2, c1, c2], [b1, c1, c2]]
 inkey: z
 speed: slow
 v1: |
