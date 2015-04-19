@@ -1,0 +1,30 @@
+---
+title: "Rain in the Morning"
+structure: [[v1, c1, v2, c1, c2, b1]]
+inkey: z
+speed: slow
+v1: |
+ Creation cries out with your praise
+ We call out your name in the morning
+ You fill us with strength for the day
+ And a love we can share on our way
+v2: |
+ We sing out a song of your praise
+ We join with the voices of ancients
+ In a chorus that lifts up your name
+ Your mercy and love we proclaim
+c1: |
+ Your grace comes like rain in the morning
+ Your love is a shelter at night
+ Your word is a lamp in the darkness
+ And you are the light
+c2: |
+ Teach us to sing of your praises
+ Help us to walk in your ways
+ You are the God of the ages
+ My dwelling place
+b1: |
+ Great is the Lord
+ Great are you Lord
+ Great is the Lord
+ Great are you Lord
