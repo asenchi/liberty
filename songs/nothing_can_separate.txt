@@ -13,7 +13,8 @@ verse1: |
 chorus: |
  You stay the same through the ages
  Your love never changes
- There may be pain in the night but joy comes in the morning
+ There may be pain in the night
+ But joy comes in the morning
  And when the oceans rage
  I don't have to be afraid
  Because I know that You love me
