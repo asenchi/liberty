@@ -1,0 +1,23 @@
+---
+title: "Great is the Lord, sovereign king"
+structure: [[c1, v1, v2],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ Great is the Lord, sovereign king
+ We give You praise
+v1: |
+ You spoke the word and You rescued me
+ You poured out Your grace and you set me free
+ Now You've filled my life with the Spirit's power
+ And You've set my heart on fire
+v2: |
+ And by the power of Jesus' name
+ You have raised me up from my sin and shame
+ You've annointed me with the Spirit's power
+ And You've set my heart on fire
+v3: |
+ By grace I'm saved through faith in God
+ Not by my works but by Jesus' blood
+ Now I'm filled with strength by Spirit's power
+ And You've set my heart on fire
