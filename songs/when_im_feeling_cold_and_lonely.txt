@@ -1,0 +1,30 @@
+---
+title: "When Im Feeling cold and lonely"
+structure: [[v1, v2, pc1],[c1, b1]]
+inkey: z
+speed: z
+v1: |
+ When I'm feeling cold and lonely and I need a friend
+ When the thorns have snared me tightly, darkness closes in
+ Still I know He is good and He's holding my hand
+ And He's lifting me up 'till I see light again
+v2: |
+ Is your garden over-growing, have the weeds come in
+ Has your heart been slowly hardened by the ways of sin
+ But our God will restore and our God will forgive
+ And is grace is enough in His grace we can live
+pc1: |
+ Jesus can you come and take us higher
+ Lift us up as we praise Your name
+ Bring Your spirit Lord, come and fill us
+ Come and hear us Lord as we sing
+c1: |
+ Our God is reigning from His throne of grace
+ Let us draw near to His merciful face
+ Jesus has risen victorious o'er sin
+ High priest, our savior He's drawing us in
+b1: |
+ God of light, God of mercy
+ God of justice, God of grace
+ Holy Spirit draw us closer
+ Fill us up in Your embrace
