@@ -1,0 +1,29 @@
+title: "What can wash away my sing"
+structure: [[v1, v2, c1],[v3, v4, c1]]
+inkey: z
+speed: z
+v1: |
+ What can wash away my sin?
+ Nothing but the blood of Jesus
+ What can make me whole again?
+ Nothing but the blood of Jesus
+v2: |
+ For my pardon this I see
+ Nothing but the blood of Jesus
+ For my cleansing this my plea
+ Nothing but the blood of Jesus
+c1: |
+ O precious is the flow
+ That makes us white as snow
+ No other fount I know
+ Nothing but the blood of Jesus
+v3: |
+ Nothing can for sin atone
+ Nothing but the blood of Jesus
+ Naught of good that I have done
+ Nothing but the blood of Jesus
+v4: |
+ This is all my hope and peace
+ Nothing but the blood of Jesus
+ This is all my righteousness
+ Nothing but the blood of Jesus
