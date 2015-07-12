@@ -1,0 +1,20 @@
+---
+title: "You are beautiful beyond description"
+structure: [[v1, v2, c1]]
+inkey: z
+speed: z
+v1: |
+ You are beautiful beyond description
+ Too marvelous for words
+ Too wonderful for comprehension
+ Like nothing ever seen or heard
+v2: |
+ Who can grasp Your infinite wisdom
+ Who can fathom the depth of Your love
+ You are beautiful beyond description
+ Majesty, enthroned above
+c1: |
+ And I stand, I stand in awe of You
+ I stand, I stand in awe of You
+ Holy God, to whom all praise is due
+ I stand in awe of You
