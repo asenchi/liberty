@@ -1,6 +1,6 @@
 ---
 title: "Blessing and Honor, Glory and Power"
-structure: [[v1,v2,c1,b1]]
+structure: [[v1,v2,c1],[b1,v2,c1]]
 inkey: z
 speed: z
 v1: |
