@@ -1,6 +1,6 @@
 ---
 title: "Overwhelmed"
-structure: [[v1,c1,v2],[b1,b2,b3,c2]]
+structure: [[v1,c1],[v2,c2],[b1,c2]]
 inkey: "z"
 speed: "z"
 v1: |
@@ -32,11 +32,9 @@ b1: |
  You are Beautiful, You are Beautiful
  Oh God, there is no one more Beautiful
  You are Beautiful, God you are the most Beautiful
-b2: |
  You are Wonderful, You are Wonderful
  Oh God, there is no one more Wonderful
  You are Wonderful, God You are the most Wonderful
-b3: |
  You are Glorious, You are Glorious
  Oh God, there is no one more Glorious
  You are Glorious, God you are the most Glorious
