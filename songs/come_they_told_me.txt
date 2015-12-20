@@ -1,0 +1,29 @@
+---
+title: "Come they told me, pa rum pa pum pum"
+structure: [[v1,v2],[v3]]
+inkey: z
+speed: z
+v1: |
+ Come they told me, pa rum pa pum pum
+ Our newborn King to see, pa rum pa pum pum
+ Our finest gifts we bring, pa rum pa pum pum
+ To lay before the King, pa rum pa pum pum
+ Rum pa pum pum, rum pa pum pum
+ So to honor Him, pa rum pa pum pum
+ When we come
+v2: |
+ Little baby, pa rum pa pum pum
+ I am a poor boy too, pa rum pa pum pum
+ I have no gift to bring, pa rum pa pum pum
+ To lay before the King, pa rum pa pum pum
+ Rum pa pum pum, rum pa pum pum
+ Shall I play for you, pa rum pa pum pum
+ On my drum
+v3: |
+ Mary nodded, pa rum pa pum pum
+ The ox and lamb kept time, pa rum pa pum pum
+ I played my drums for Him, pa rum pa pum pum
+ I played my best for Him, pa rum pa pum pum
+ Rum pa pum pum, rum pa pum pum
+ Then he smiled at me, pa rum pa pum pum
+ Me and my drum
