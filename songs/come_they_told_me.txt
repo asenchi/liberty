@@ -18,7 +18,7 @@ v2: |
  To lay before the King (pa rum pa pum pum)
  Rum pa pum pum, rum pa pum pum
  Shall I play for you (pa rum pa pum pum)
- On my drum (pa rum pa pum pum)
+ On my drum
 v3: |
  Mary nodded (pa rum pa pum pum)
  The ox and lamb kept time (pa rum pa pum pum)
@@ -26,4 +26,4 @@ v3: |
  I played my best for Him (pa rum pa pum pum)
  Rum pa pum pum, rum pa pum pum
  Then he smiled at me (pa rum pa pum pum)
- Me and my drum (pa rum pa pum pum)
+ Me and my drum
