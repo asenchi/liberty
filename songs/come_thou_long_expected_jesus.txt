@@ -1,0 +1,41 @@
+---
+title: "Come Thou Long Expected Jesus"
+structure: [[v1,v2],[v3,v4]]
+inkey: z
+speed: z
+v1: |
+ Come, thou long-expected Jesus
+ Born to set They people free
+ From our fears of sins release us
+ Let us find our rest in Thee
+ Israel's strength and consolation
+ Hope of all the earth Thou art
+ Dear desire of every nation
+ Joy of every longing heart
+v2: |
+ Joy to those who long to see thee
+ Dayspring from on high, appear
+ Come, thou promised Rod of Jesse
+ Of thy birth we long to hear
+ Over the hills the angels singing news
+ Glad tidings of a birth
+ Go to him, your praises bringing
+ Christ the Lord has come to earth
+v3: |
+ Come to earth to taste our sadness
+ He whose glories knew no end
+ By His life He brings us gladness
+ Our Redeemer, Shepherd, Friend
+ Leaving riches without number
+ Born within a cattle stall
+ This the everlasting wonder
+ Christ was born of the Lord of all
+v4: |
+ Born Thy people to deliver
+ Born a child and yet a King
+ Born to reign in us forever
+ Now Thy gracious kingdom bring
+ By Thine own eternal Spirit
+ Rule in all our hearts alone
+ By Thine own sufficient merit
+ Raise us to Thy glorius throne
