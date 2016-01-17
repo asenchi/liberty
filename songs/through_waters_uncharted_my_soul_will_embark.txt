@@ -1,0 +1,27 @@
+---
+title: "Through waters uncharted my soul will embark"
+structure: [[v1, c1],[v2, c1]]
+inkey: z
+speed: z
+v1: |
+ Through waters uncharted my soul will embark
+ I'll follow Your voice straight into the dark
+ And if from the course You intend I depart
+ Speak to the sails of my wandering heart
+c1: |
+ Like the wind
+ You'll guide
+ Clear the skies before me
+ And I'll glide the open sea
+
+ Like the stars
+ Your Word
+ Will align my voyage
+ And remind me where I've been
+ And where I am going
+v2: |
+ Lost in the shallows amidst fear and fog
+ Your truth is the compass that points me back north
+ Jesus my captain
+ My soul's trusted Lord
+ All my allegiance is rightfully Yours

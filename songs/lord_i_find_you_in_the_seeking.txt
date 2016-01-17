@@ -1,0 +1,27 @@
+---
+title: "Lord I find You in the seeking"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ Lord I find You in the seeking
+ Lord I find You in the doubt
+ And to know You is to love You
+ And to know so little else
+c1: |
+ I need You
+ Oh how I need You
+ Oh how I need You
+ Oh how I need You
+v2: |
+ Lord I find You in the morning
+ Lord I seek You everyday
+ Let my life be for Your glory
+ Woven in Your threads of grace
+b1: |
+ Light, glorious light
+ I will go where You shine
+ Break the dawn, crack the skies
+ Make the way right before me
+ In Your light I will find
+ All I need, all I need is You
