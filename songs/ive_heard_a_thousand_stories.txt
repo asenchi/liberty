@@ -1,0 +1,28 @@
+---
+title: "I've heard a thousand stories"
+structure: [[v1,c1],[v2,c1],[v3,c1],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ I've heard a thousand stories of what they think You're like
+ But I've heard the tender whisper of love in the dead of night
+ You tell me that You're pleased and that I'm never alone
+c1: |
+ You're a good, good Father
+ It's who You are, it's who You are, it's who You are
+ And I'm loved by You, It's who I am, It's who I am, It's who I am
+v2: |
+ I've seen many searching for answers far and wide
+ But I know we're all searching for answers only You provide because
+ You know just what we need before we say a word
+b1: |
+ You are perfect in all of Your ways
+ You are perfect in all of Your ways
+ You are perfect in all of Your ways to us
+ You are perfect in all of Your ways to us
+v3: |
+ This Love so undeniable, I can hardly speak
+ Peace so unexplainable, I can hardly think
+ As you call me deeper still
+ As you call me deeper still
+ As you call me deeper still into love, your love
