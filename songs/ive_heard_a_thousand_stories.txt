@@ -1,6 +1,6 @@
 ---
 title: "I've heard a thousand stories"
-structure: [[v1,c1],[v2,c1],[v3,c1],[b1,c1]]
+structure: [[v1,c1, v2],[b1,c1,v3]]
 inkey: z
 speed: z
 v1: |
@@ -10,7 +10,7 @@ v1: |
 c1: |
  You're a good, good Father
  It's who You are, it's who You are, it's who You are
- And I'm loved by You, It's who I am, It's who I am, It's who I am
+ And I'm loved by You, it's who I am, it's who I am, it's who I am
 v2: |
  I've seen many searching for answers far and wide
  But I know we're all searching for answers only You provide because
@@ -18,7 +18,7 @@ v2: |
 b1: |
  You are perfect in all of Your ways
  You are perfect in all of Your ways
- You are perfect in all of Your ways to us
+ You are perfect in all of Your ways
  You are perfect in all of Your ways to us
 v3: |
  This Love so undeniable, I can hardly speak
