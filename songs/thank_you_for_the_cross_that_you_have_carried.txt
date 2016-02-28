@@ -1,0 +1,27 @@
+---
+title: "Thank You for the cross that You have carried"
+structure: [[v1, v2, c1],[b1, v3, c1]]
+inkey: z
+speed: z
+v1: |
+ Thank You for the cross that You have carried
+ Thank You for Your blood that was shed
+ You took the weight of sin upon Your shoulders
+ And sacrificed Your life so I could live
+c1: |
+ Now nothing is holding me back from You
+ Redeemer of my soul
+ Now nothing can hold me back from You
+ Your love will never let me go
+v2: |
+ Thank you for Your death and resurrections
+ Thank you for the power of Your blood
+ I am ovewhelmed by Your affection
+ The kindness and the greatness of Your love
+b1: |
+ Jesus, You make all things new
+v3: |
+ Thank You that we're living in Your kingdom
+ Jesus You're the King upon the throne
+ Thank You for the way You've always loved me
+ Now I get to love You in return
