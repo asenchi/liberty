@@ -1,0 +1,16 @@
+---
+title: "I have been crucified with Christ"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ I have been crucified with Christ
+ And it's no longer I who live
+ For I have died and now my life has been hidden
+ With Christ in God
+c1: |
+ I live by faith, in the Son of God
+ I walk by faith, in the Holy One
+ I stand by faith, in the King of Kings
+ Who loved me and gave Himself for me
+ Jesus loved me and gave Himself for me
