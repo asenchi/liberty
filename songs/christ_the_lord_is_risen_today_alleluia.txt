@@ -1,6 +1,6 @@
 ---
 title: "Christ the Lord is risen today, alleluia"
-structure: [[v1, v2, v3],[v4]]
+structure: [[v1, v2],[v3, v4]]
 inkey: z
 speed: z
 v1: |
