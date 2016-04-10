@@ -1,0 +1,25 @@
+---
+title: "To the King of glory and light, all praises"
+structure: [[v1, v2, c1],[v3, c1, b1]]
+inkey: z
+speed: z
+v1: |
+ To the King of glory and light, all praises
+ To the only Giver of life, our Maker
+ The gates are open wide, we worship You
+v2: |
+ Come see what love has done, amazing
+ He bought us with His blood, our Savior
+ The cross has overcome, we worship You
+v3: |
+ Now let the lost be found, forgiven
+ Death could not hold Him down, He's risen
+ So let the saints cry out, we worship You
+c1: |
+ Shout Hosanna Jesus He saves
+ Shout Hosanna He rose from the grave
+ Come and lift Him up, Hosanna
+b1: |
+ The same power that rolled the stone away
+ the same power alive in us today
+ King Jesus we call upon Your name, No other name
