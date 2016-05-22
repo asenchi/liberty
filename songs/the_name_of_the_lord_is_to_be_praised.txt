@@ -1,0 +1,9 @@
+---
+title: "The name of the Lord is to be praised"
+structure: [[v1, v2]]
+inkey: z
+speed: z
+v1: |
+ The name of the Lord is to be praised
+v2: |
+ We give You our praise
