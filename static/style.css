@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: white;
+  color: #fff;
 }
 
 ul {
@@ -46,12 +46,12 @@ li {
 }
 
 #creed {
-  font-size: 30px;
-  width: 940px;
+  font-size: 32;
+  width: 1000px;
 }
 
 #creed h1 {
-  font-size: 32px;
+  font-size: 34px;
 }
 
 #bot_title {
