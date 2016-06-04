@@ -1,0 +1,26 @@
+---
+title: "My hope is built on nothing less"
+structure: [[v1, c1, v2],[v3, c1]]
+inkey: z
+speed: z
+v1: |
+ My hope is built on nothing less
+ Then Jesus' blood and righteousness
+ I dare not trust the sweetest frame
+ But wholly trust in Jesus' name
+v2: |
+ When darkness seems to hide His face
+ I rest on His unchanging grace
+ In every high and stormy gale
+ My anchor holds within the veil
+ My anchor holds within the veil
+v3: |
+ When He shall come with trumpet sound
+ Oh may I then in Him be found
+ Dressed in His righteousness alone
+ Faultless to stand before the throne
+c1: |
+ Christ alone, cornerstone
+ Weak made strong, in the Savior's love
+ Through the storm, He is Lord
+ Lord of all
