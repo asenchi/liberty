@@ -1,0 +1,19 @@
+---
+title: "God is my shepherd, I won't be wanting"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ God is my shepherd, I won't be wanting
+ I won't be wanting
+ He makes me rest in fields of green
+ By quiet streams
+ Even though I walk through the valley
+ Of death and dying
+ I will not fear, cause you are with me
+ You're always with me
+c1: |
+ Your shepherd's staff comforts me
+ You are my feast in the presence of enemies
+ Surely goodness will follow me
+ In the house of God forever
