@@ -15,5 +15,5 @@ v1: |
 c1: |
  Your shepherd's staff comforts me
  You are my feast in the presence of enemies
- Surely goodness will follow me
+ Surely goodness will follow me, follow me
  In the house of God forever
