@@ -1,0 +1,24 @@
+---
+title: "My Jesus I love Thee"
+structure: [[v1,v2,b1,v3]]
+inkey: z
+speed: z
+v1: |
+ My Jesus I love Thee, I know Thou art mine
+ For Thee all the follies of sin I resign
+ My gracious Redeemer, my Savior art Thou
+ If ever I loved thee my Jesus 'tis now
+v2: |
+ I love Thee because Thou has first loved me
+ And purchased my pardon on Calvary's tree
+ I love Thee for wearing the thorns on Thy brow
+ If ever I loved Thee my Jesus 'tis now
+b1: |
+ I love you Jesus
+ I always will
+ Now and forever, I belong to you
+v3: |
+ In mansions of glory and endless delight
+ I'll ever adore Thee in heaven so bright
+ I'll sing with the glittering crown on my brow
+ If ever I loved Thee my Jesus tis now
