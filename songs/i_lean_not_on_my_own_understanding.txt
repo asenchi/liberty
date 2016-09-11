@@ -1,0 +1,13 @@
+---
+title: "I lean not on my own understanding"
+structure: [[v1, c1, b1]]
+inkey: z
+speed: z
+v1: |
+ I lean not on my own understanding
+ My life is in the hands of the maker of Heaven
+c1: |
+ I give it all to you God
+ Trusting that you'll make something beautiful out of me
+b1: |
+ There's nothing I hold on to
