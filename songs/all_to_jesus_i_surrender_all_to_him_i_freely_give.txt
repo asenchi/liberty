@@ -1,6 +1,6 @@
 ---
 title: "All to Jesus I surrender"
-structure: [[v1, c1, v2, c1, v3, c1, v4, c1, v5, c1]]
+structure: [[v1, c1, v2],[v3, c1, v4],[v5, c1]]
 inkey: "z"
 speed: "z"
 v1: |
@@ -9,9 +9,9 @@ v1: |
  I will ever love and trust Him
  In His presence daily live
 c1: |
- I surrender all, I surrender all.
+ I surrender all, I surrender all
  All to Thee, My Blessed Savior
- I surrender all.
+ I surrender all
 v2: |
  All to Jesus I surrender
  Humbly at His feet I bow
@@ -19,7 +19,7 @@ v2: |
  Take me Jesus take me now
 v3: |
  All to Jesus I surrender
- make me savior wholly Thine
+ Make me savior wholly Thine
  Let me feel the Holy Spirit
  Truly know that Thou art mine
 v4: |
