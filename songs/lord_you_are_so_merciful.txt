@@ -1,6 +1,6 @@
 ---
 title: "Lord you are so merciful"
-structure: [[v1, c1, v2],[c2]]
+structure: [[v1, c1, v2, c2]]
 inkey: z
 speed: z
 v1: |
