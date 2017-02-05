@@ -8,8 +8,8 @@ DATE=$(date +"%y%m%d")
 SRCPATH="/Volumes/DR-100MK2/MUSIC"
 DSTPATH="$root/Sermons"
 
-FULL="$DSTPATH/Full"
-TRACKS="$DSTPATH/Tracks"
+FULL="$DSTPATH/SermonsFull"
+TRACKS="$DSTPATH/SermonsTracks"
 
 test ! -d $SRCPATH && {
   echo "Error: Digital Recorder is not mounted."
