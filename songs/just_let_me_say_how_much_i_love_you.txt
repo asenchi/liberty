@@ -1,0 +1,35 @@
+---
+title: "Just let me say how much I love You"
+structure: [[v1, v2],[v3, v4],[v5, v6]]
+inkey: z
+speed: z
+v1: |
+ Just let me say how much I love You
+ Let me speak of Your mercy and grace
+ Just let me live in a shadow of Your beauty
+ Let me see You face to face
+v2: |
+ And the earth will shake as Your Word goes forth
+ And the heavens will tremble and fall
+ But let me say how much I love You
+ Oh my Savior, my Lord and Friend
+v3: |
+ Just let me hear Your finest whispers
+ As You gently call my name
+ And let me see Your power and Your glory
+ Let me feel Your spirit's flame
+v4: |
+ Let me find You in the desert
+ Till this sand is holy ground
+ And I am found completely surrendered
+ To You my Lord and Friend
+v5: |
+ So let me say how much I love You
+ With all my heart I long for You
+ For I am caught in this passion of knowing
+ This endless love I've found in You
+v6: |
+ And the depth of grace, the forgiveness found
+ To be called a child of God
+ Just makes me say how much I love You
+ Oh my Savior, my Lord and Friend
