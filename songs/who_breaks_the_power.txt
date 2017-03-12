@@ -1,0 +1,29 @@
+---
+title: "Who breaks the power"
+structure: [[v1, c1],[v2, c1, b1,b2]]
+inkey: z
+speed: z
+v1: |
+ Who breaks the power of sin and darkness
+ Whose love is mighty and so much stronger
+ The King of Glory, the King above all kings
+ Who shakes the whole earth with holy thunder
+ Who leaves us breathless in awe and wonder
+ The King of Glory, the King above all kings
+c1: |
+ This is amazing grace, this is unfailing love
+ That You would take my place, that You would bear my cross
+ You laid down Your life, that I would be set free
+ Oh, Jesus, I sing for, all that You've done for me
+v2: |
+ Who brings our chaos back into order
+ Who makes the orphan a son and daughter
+ The King of Glory, the King above all kings
+ Who rules the nations with truth and justice
+ Shines like the sun in all of its brilliance
+ The King of Glory, the King above all kings
+b1: |
+ Worthy is the Lamb who was slain
+ Worthy is the King who conquered the grave
+b2: |
+ Worthy is the Lamb who was slain, worthy, worthy, worthy
