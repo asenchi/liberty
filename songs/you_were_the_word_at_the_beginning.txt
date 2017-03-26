@@ -9,11 +9,11 @@ v1: |
  Your hidden glory in creation
  Now revealed in You our Christ
 c1: |
- What a beautiful Name it is
- What a beautiful Name it is
+ What a beautiful name it is
+ What a beautiful name it is
  The name of Jesus Christ my King
  What a beautiful name it is, nothing compares to this
- What a beautiful name it is, the Name of Jesus
+ What a beautiful name it is, the name of Jesus
 v2: |
  You didn't want heaven without us
  So Jesus You brought heaven down
@@ -32,14 +32,14 @@ b2: |
  Yours is the glory
  Yours is the Name above all names
 c2: |
- What a wonderful Name it is
- What a wonderful Name it is
+ What a wonderful name it is
+ What a wonderful name it is
  The name of Jesus Christ my King
  What a wonderful name it is, nothing compares to this
- What a wonderful name it is, the Name of Jesus
+ What a wonderful name it is, the name of Jesus
 c3: |
- What a powerful Name it is
- What a powerful Name it is
+ What a powerful name it is
+ What a powerful name it is
  The name of Jesus Christ my King
  What a powerful name it is, nothing can stand against
- What a powerful name it is, the Name of Jesus
+ What a powerful name it is, the name of Jesus

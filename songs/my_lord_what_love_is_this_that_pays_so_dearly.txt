@@ -1,0 +1,17 @@
+---
+title: "My Lord, what love is this that pays so dearly"
+structure: [[ v1, c1, v3, v4]]
+inkey: z
+speed: z
+v1: |
+ My Lord, what love is this that pays so dearly
+ That I, the guilty one, may go free
+c1: |
+ Amazing love, O what sacrifice, the Son of God, giv'n for me
+ My debt He pays, and my death He dies that I might live
+v3: |
+ And so they watched Him die despised, rejected
+ But oh, the blood He shed flowed for me
+v4: |
+ And now this love of Christ shall flow like rivers
+ Come wash your guilt away, live again
