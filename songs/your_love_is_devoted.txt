@@ -1,0 +1,26 @@
+---
+title: "Your love is devoted"
+structure: [[v1,c1],[v2,c1,b1,b2]]
+inkey: z
+speed: z
+v1: |
+ Your love is devoted, like a ring of solid gold
+ Like a vow that is tested, like a covenant of old
+ Your love is enduring, through the winter rain
+ And beyond the horizon, with mercy for today
+ Faithful You have been, and faithful You will be
+ You pledge yourself to me, and it's why I sing
+c1: |
+ Your praise will ever be on my lips, ever be on my lips
+v2: |
+ You father the orphan, Your kindness makes us whole
+ You shoulder our weakness, and Your strength becomes our own
+ You're making me like you, clothing me in white
+ Bringing beauty from ashes, for You will have Your bride
+ Free of all her guilt, and rid of all her shame
+ And known by her true name, and it's why I sing
+b1: |
+ You will be praised, You will be praised
+ With angels and saints we sing worthy are You Lord
+b2: |
+ And it's why I sing
