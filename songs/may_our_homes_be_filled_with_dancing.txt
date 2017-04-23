@@ -1,0 +1,23 @@
+---
+title: "May our homes be filled with dancing, may our streets be filled with joy"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ May our homes be filled with dancing
+ May our streets be filled with joy
+ May injustice bow to Jesus
+ As the people turn and pray
+c1: |
+ From the mountain to the valley
+ Hear our praises rise to You
+ From the heavens to the nations
+ Hear the singing fill the air
+v2: |
+ May a light shine in the darkness
+ As we walk before the cross
+ May Your glory fill the whole earth
+ As the water o'er the seas
+b1: |
+ Hallelujah, hallelujah
+ Hallelujah, hallelujah
