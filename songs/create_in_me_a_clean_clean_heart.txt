@@ -1,0 +1,15 @@
+---
+title: "Create in me a clean, clean heart"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Create in me a clean, clean heart
+ Create in me a work of art
+ Create in me a miracle
+ Something real and something beautiful
+c1: |
+ You're not finished with me yet
+ You're not finished with me yet
+ By Your power I can change, I can change
+ 'Cause You're not finished with me yet
