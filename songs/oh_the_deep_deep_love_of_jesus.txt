@@ -1,0 +1,25 @@
+---
+title: "Oh the deep, deep love of Jesus"
+structure: [[v1, v2],[v3, v4]]
+inkey: z
+speed: z
+v1: |
+ Oh the deep, deep love of Jesus
+ Vast unmeasured boundless free
+ Rolling as a mighty ocean
+ In its fullness over me
+v2: |
+ Underneath me all around me
+ Is the courage of His love
+ Leading Homeward leading homeward
+ To Thy glorious rest above
+v3: |
+ Oh the deep, deep love of Jesus
+ Tis a heaven of heavens to me
+ And it lifts me up to glory
+ For it lifts me up to Thee
+v4: |
+ Oh the deep, deep love of Jesus
+ Spread His praise from shore to shore
+ How He loveth, ever loveth
+ Changeth never, nevermore
