@@ -1,0 +1,16 @@
+---
+title: "My life is in You Lord"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ My life is in You Lord
+ My strength is in You Lord
+ My hope is in You Lord
+ in You, its in You
+c1: |
+ I will praise you with all of my life
+ I will praise you with all of my strength
+ With all of my life
+ With all of my strength
+ All of my hope is in You
