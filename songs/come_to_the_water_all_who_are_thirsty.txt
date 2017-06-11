@@ -1,0 +1,22 @@
+---
+title: "Come to the water, all who are thirsty"
+structure: [[v1, v2], [c1, b1]]
+inkey: z
+speed: z
+v1: |
+ Come to the water, all who are thirsty
+ Come and drink
+ Come to the table, all who are hungry
+ Come and feast
+v2: |
+ Those who are weary, those who are needy
+ Come receive
+ Come to the river, come to the river
+ Taste and see
+c1: |
+ Oh my soul thirsts for You and You alone
+b1: |
+ I will taste and see You are good
+ I will taste and see You are good
+ I will taste and see You are good
+ Good to us
