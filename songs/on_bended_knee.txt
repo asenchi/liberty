@@ -1,0 +1,15 @@
+---
+title: "On Bended Knee"
+structure: [[v1,v2]]
+inkey: z
+speed: z
+v1: |
+ On bended knee I come
+ With a humble heart I come
+ Bowing down before Your holy throne
+v2: |
+ Lifting holy hands to You
+ As I pledge my love anew
+ I worship You in spirit
+ I worship You in truth
+ Make my life A holy praise unto You
