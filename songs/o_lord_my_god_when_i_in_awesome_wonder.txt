@@ -1,10 +1,10 @@
 ---
-title: "O Lord my God When I in Awesome Wonder"
+title: "Oh Lord my God When I in Awesome Wonder"
 structure: [[v1,c1,v2],[v3,c1,v4]]
 inkey: z
 speed: z
 v1: |
- O Lord, my God, when I in awesome wonder
+ Oh Lord, my God, when I in awesome wonder
  Consider all the worlds Thy hands have made
  I see the stars I hear the rolling thunder
  Thy pow'r throughout the universe displayed
