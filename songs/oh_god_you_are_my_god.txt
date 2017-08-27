@@ -1,0 +1,13 @@
+---
+title: "Oh God, You are my God and I will ever praise You"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Oh God, You are my God and I will ever praise You
+ Oh God, You are my God and I will ever praise You
+c1: |
+ And I will seek You in the morning
+ And I will learn to walk in Your ways
+ And step by step You will lead me
+ And I will follow You all of my days
