@@ -1,0 +1,16 @@
+---
+title: "Its my joy to lay my life down"
+structure: [[v1,c1,c2]]
+inkey: z
+speed: z
+v1: |
+ Its my joy to lay my life down
+ Its my joy to lay my life down
+ Everything I give is nothing compared to
+ The surpassing worth of getting to know You
+c1: |
+ And the joy is found in the laying down
+ So I give it all to You
+c2: |
+ I let go
+ So I can take hold of You
