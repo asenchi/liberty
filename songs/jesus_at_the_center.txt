@@ -1,6 +1,6 @@
 ---
 title: "Jesus at the center of it all"
-structure: [[v1, c1, v2],[b1, c1]]
+structure: [[v1, c1, v2],[b1, c1, v3]]
 inkey: z
 speed: z
 v1: |
@@ -24,3 +24,8 @@ b1: |
  Jesus be the center
  It's all about You
  Yes it's all about You
+v3: |
+ Jesus be the center of Your Church
+ Jesus be the center of Your Church
+ Every knee will bow
+ And every tongue shall confess you Jesus, Jesus

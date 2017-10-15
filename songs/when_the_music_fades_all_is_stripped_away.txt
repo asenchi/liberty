@@ -1,0 +1,29 @@
+---
+title: When the music fades all is stripped away
+structure: [[v1, pc1, c1],[v2, pc1, c1]]
+inkey: z
+speed: z
+v1: |
+ When the music fades, all is stripped away
+ And I simply come
+ Longing just to bring something that's of worth
+ That will bless Your heart
+v2: |
+ King of endless worth, no one could express
+ How much You deserve
+ Though I'm weak and poor, all I have is Yours
+ Every single breath
+pc1: |
+ I'll bring You more than a song
+ For a song in itself
+ Is not what You have required
+ You search much deeper within
+ Through the way things appear
+ You're looking into my heart
+c1: |
+ I'm coming back to the heart of worship
+ And it's all about You
+ It's all about You, Jesus
+ I'm sorry Lord for the thing I've made it
+ When it's all about You
+ It's all about You, Jesus

@@ -1,0 +1,25 @@
+---
+title: "The riches of this world will fade"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ The riches of this world will fade
+ The treasures of our God remain
+ Here I empty myself
+ To owe this world nothing
+ And find everything in You
+v2: |
+ Take my life I sacrifice
+ And You alone I'm satisfied
+ Here I empty myself
+ To owe this world nothing
+ And find everything in You, everything in You
+c1: |
+ I surrender, I surrender, I surrender
+ All to you
+b1: |
+ Not my will but Yours be done
+ Not my strength but Yours alone
+ Nothing else but You oh Lord
+ I find everything in You

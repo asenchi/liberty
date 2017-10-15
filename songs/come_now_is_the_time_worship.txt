@@ -1,0 +1,15 @@
+---
+title: "Come now is the time to worship"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Come, now is the time to worship
+ Come, now is the time to give your heart
+ Come, just as you are to worship
+ Come, just as you are before your God, come
+c1: |
+ One day every tongue will confess You are God
+ One day every knee will bow
+ Still the greatest treasure remains for those
+ Who gladly choose You now

@@ -1,0 +1,15 @@
+---
+title: Give us clean hands, give us pure hearts"
+structure: [[v1, c1]]
+inkey: z
+speed: z
+v1: |
+ Give us clean hands, give us pure hearts
+ Let us not lift our souls to another
+ Give us clean hands, give us pure hearts
+ Let us not lift our souls to another
+c1: |
+ And oh God let us be a generation that seeks
+ That seeks Your face, oh God of Jacob
+ And oh God let us be a generation that seeks
+ That seeks Your face, oh God of Jacob
