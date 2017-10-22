@@ -1,0 +1,15 @@
+---
+title: "We have come to give You glory"
+structure: [[v1, v2, v3, v4]]
+inkey: z
+speed: z
+v1: |
+ We have come to give You glory
+ We have come to give You praise
+v2: |
+ You're welcome in this place
+v3: |
+ Bless the Lord all my soul and
+ let all that's within me shout out
+v4: | 
+ Have Your way
