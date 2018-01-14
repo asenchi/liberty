@@ -1,0 +1,13 @@
+---
+title: "Jesus, Oh how we love You"
+structure: [[v1,v2]]
+inkey: z
+speed: z
+v1: |
+ Jesus, Oh how we love You
+ Jesus, Oh how we love You
+ Jesus, Oh how we love You
+v2: |
+ There is no other we desire
+ There is no other we desire
+ There is no other we desire
