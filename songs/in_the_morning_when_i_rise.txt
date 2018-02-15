@@ -1,0 +1,25 @@
+---
+title: "In the morning when I rise"
+structure: [[v1, c1],[v2, c1],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ Give me Jesus
+ Give me Jesus
+ You can have all this world
+ Just give me Jesus
+v1: |
+ In the morning, when I rise
+ In the morning, when I rise
+ In the morning, when I rise
+ Give me Jesus
+v2: |
+ When I am alone
+ When I am alone
+ Oh, when I am alone
+ Give me Jesus
+v3: |
+ When I come to die
+ When I come to die
+ Oh, when I come to die
+ Give me Jesus
