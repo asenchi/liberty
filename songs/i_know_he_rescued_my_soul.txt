@@ -1,0 +1,24 @@
+---
+title: "I know He rescued my soul"
+structure: [[v1, pc1, c1],[b1, pc1, c1]]
+inkey: z
+speed: z
+v1: |
+ I know He rescued my soul
+ His blood covered my sin
+ I believe, I believe
+ My shame He's taken away
+ My pain is healed in His name
+ I believe, I believe
+pc1: |
+ I'll raise a banner
+ 'Cause my Lord has conquered the grave
+c1: |
+ My Redeemer lives, my Redeemer lives
+ My Redeemer lives, my Redeemer lives
+ My Redeemer lives, my Redeemer lives
+b1: |
+ You lift my burdens
+ I'll rise with You
+ I'm dancing on this mountaintop
+ To see Your kingdom come

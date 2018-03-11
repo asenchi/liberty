@@ -1,0 +1,33 @@
+---
+title: "Grander earth has quaked before"
+structure: [[v1, c1, v2],[b1, c1, o1]]
+inkey: z
+speed: z
+v1: |
+ Grander earth has quaked before
+ Moved by the sound of His voice
+ Seas that are shaken and stirred
+ Can be calmed and broken for my regard
+v2: |
+ Far be it for me to not believe
+ Even when my eyes can't see
+ And this mountain that's in front of me
+ Will be thrown into the midst of sea
+c1: |
+ Through it all, through it all
+ My eyes are on You
+ Through it all, through it all
+ It is well
+ Through it all, through it all
+ My eyes are on You
+ It is well with me
+b1: |
+ So let go my soul and trust in Him
+ The waves and wind still know His name
+ So let go my soul and trust in Him
+ The waves and wind still know His name
+o1: |
+ It is well with my soul
+ It is well with my soul
+ It is well with my soul
+ It is well, it is well with my soul
