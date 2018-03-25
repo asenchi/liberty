@@ -1,0 +1,25 @@
+---
+title: "There's a place where mercy reigns"
+structure: [[v1,c1],[v2,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ There's a place where mercy reigns, and never dies
+ There's a place where streams of grace, flow deep and wide
+ Where all the love I"ve ever found
+ Comes like a flood, comes flowing down
+c1: |
+ At the cross, at the cross, I surrender my life
+ I'm in awe of You, I'm in awe of You
+ Where Your love ran red, and my sin washed white
+ I owe all to You, I owe all to You, Jesus
+v2: |
+ There's a place where sin and shame, are powerless
+ Wehre my heart has peace with God, and forgiveness
+ Where all the love I've ever found
+ Comes like a flood, comes flowing down
+b1: |
+ Here my hope is found, here on holy ground
+ Here I bow down, here I bow down
+ Here arms open wide, here You saved my life
+ Here I bow down, here I bow down
