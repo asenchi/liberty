@@ -6,7 +6,7 @@ speed: z
 v1: |
  There's a place where mercy reigns, and never dies
  There's a place where streams of grace, flow deep and wide
- Where all the love I"ve ever found
+ Where all the love I've ever found
  Comes like a flood, comes flowing down
 c1: |
  At the cross, at the cross, I surrender my life
@@ -15,7 +15,7 @@ c1: |
  I owe all to You, I owe all to You, Jesus
 v2: |
  There's a place where sin and shame, are powerless
- Wehre my heart has peace with God, and forgiveness
+ Where my heart has peace with God, and forgiveness
  Where all the love I've ever found
  Comes like a flood, comes flowing down
 b1: |
