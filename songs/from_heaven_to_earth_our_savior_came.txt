@@ -1,0 +1,25 @@
+---
+title: "From Heaven to earth our Savior came"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ From Heaven to earth our Savior came
+ For us on a cross, He bled and died
+ And from the cross to an empty grave
+ He rose to life, He rose to life
+c1: |
+ He lives reigning in power
+ He lives Name above all names
+ Hallelujah now forever
+ Hallelujah Christ is risen
+v2: |
+ All glory to Him upon the throne
+ Forever exalted and seated high
+ The Lamb of God He has overcome
+ He is alive, He is alive
+b1: |
+ And on that day with Him I'll rise
+ For Christ He lives in me
+ This life I live no longer mine
+ For Christ He lives in me

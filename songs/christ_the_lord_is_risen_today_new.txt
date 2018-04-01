@@ -1,6 +1,6 @@
 ---
 title: "Christ the Lord is risen today, alleluia"
-structure: [[v1, v2],[v3, v4]]
+structure: [[v1, v2],[v3, v4, b1]]
 inkey: z
 speed: z
 v1: |
@@ -23,3 +23,8 @@ v4: |
  Following our exalted Head, alleluia
  Made like Him, like Him we rise, alleluia
  Ours the cross, the grave, the skies, alleluia
+b1: |
+ He is not dead
+ He is alive
+ We have this hope
+ In Jesus Christ
