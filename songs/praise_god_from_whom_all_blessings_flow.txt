@@ -1,0 +1,12 @@
+---
+title: "Praise God from whom all blessings flow"
+structure: [[v1, v2]]
+inkey: z
+speed: z
+v1: |
+ Praise God, from whom all blessings flow
+ Praise Him, all creatures here below
+ Praise Him above, ye heav'nly host
+ Praise Father, Son and Holy Ghost
+v2: |
+ Amen
