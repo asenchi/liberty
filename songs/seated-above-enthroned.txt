@@ -1,0 +1,28 @@
+---
+title: "Seated above, enthroned in the Father's love"
+structure: [[v1,pc1,c1],[v2,pc1,c1,b1]]
+inkey: c
+speed: z
+v1: |
+ Seated above, enthroned in the Father's love
+ Destined to die, poured out for all mankind
+ God's only Son, perfect and spotless one
+ He never sinned but suffered as if He did
+pc1: |
+ All authority
+ Every victory is Yours
+c1: |
+ Savior, worthy of honor and glory
+ Worthy of all our praise
+ You overcome
+ Jesus awesome in power forever
+ Awesome and great is Your name
+ You overcome
+v2: |
+ Power in hand speaking in the Father's plan
+ You're sending us out, light in this broken land
+b1: |
+ We will overcome
+ By the blood of the Lamb
+ And the word of our testimony
+ Everyone overcome
