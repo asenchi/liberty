@@ -11,6 +11,7 @@ v1: |
 pc1: |
  All authority
  Every victory is Yours
+ Every victory is Yours
 c1: |
  Savior, worthy of honor and glory
  Worthy of all our praise
