@@ -1,0 +1,22 @@
+---
+title: "He is jealous for me"
+structure: [[v1,pc1,c1]]
+inkey: z
+speed: z
+v1: |
+ He is jealous for me
+ Loves like a hurricane, I am a tree
+ Bending beneath the weight of his wind and mercy
+ When all of a sudden
+ I am unaware of these afflicitions eclipsed by glory
+ And I realize just how beautiful You are
+ And how great Your affections are for me
+pc1: |
+ And oh, how He loves us oh
+ Oh how He loves us
+ How He loves us all
+c1: |
+ He loves us
+ Oh how He loves us
+ Oh how He loves us
+ Oh how He loves
