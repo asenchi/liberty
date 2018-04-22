@@ -1,0 +1,27 @@
+---
+title: "Before I spoke a word, You were singing over me"
+structure: [[v1, c1],[v2, c1, b1]]
+inkey: z
+speed: z
+v1: |
+ Before I spoke a word, You were singing over me
+ You have been so, so good to me
+ Before I took a breath, You breathed Your life in me
+ You have been so, so kind to me
+v2: |
+ When I was Your foe, still Your love fought for me
+ You have been so, so good to me
+ When I felt no worth, You paid it all for me
+ You have been so, so kind to me
+c1: |
+ Oh, the overwhelming, never-ending, reckless love of God
+ Oh, it chases me down, fights 'til I'm found, leaves the ninety-nine
+ I couldn't earn it, I don't deserve it, still You give Yourself away
+ Oh, the overwhelming, never-ending, reckless love of God
+b1: |
+ There's no shadow You won't light up
+ Mountain You won't climb up
+ Coming after me
+ There's no wall You won't kick down
+ Lie You won't tear down
+ Coming after me

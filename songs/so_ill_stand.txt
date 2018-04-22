@@ -1,0 +1,12 @@
+---
+title: "So I'll stand with arms high and heart abandoned"
+structure: [[c1]]
+inkey: z
+speed: z
+c1: |
+ So I'll stand
+ With arms high and heart abandoned
+ In awe of the One who gave it all
+ I'll stand
+ My soul Lord to You surrendered
+ All I am is Yours
