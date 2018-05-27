@@ -1,0 +1,18 @@
+---
+title: "There must be more than this"
+structure: [[v1,c1],[v2,c1]]
+inkey: z
+speed: z
+v1: |
+ There must be more than this, O breath of God, come breath within
+ There must be more than this, Spriit of God we wait for You
+ Fill us anew we pray, fill us anew we pray
+c1: |
+ Consuming fire fan into flame
+ A passion for Your name
+ Spirit of God fall in this place
+ Lord have Your way, Lord have Your way with us
+v2: |
+ Come like a rushing wind, clothe us power from on high
+ Now set the captives free, leave us abandoned to Your praise
+ Lord let Your glory fall, Lord let Your glory fall
