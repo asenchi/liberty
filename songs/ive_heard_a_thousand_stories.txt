@@ -4,24 +4,20 @@ structure: [[v1,c1, v2],[b1,c1,v3]]
 inkey: z
 speed: z
 v1: |
- I've heard a thousand stories of
- What they think You're like
+ I've heard a thousand stories of what they think You're like
  But I've heard the tender whisper of
  Love in the dead of night
- You tell me that You're pleased and
- That I'm never alone
+ You tell me that You're pleased and that I'm never alone
 c1: |
  You're a good, good Father, it's who You are
  It's who You are, it's who You are
  And I'm loved by You, it's who I am
  It's who I am, it's who I am
 v2: |
- I've seen many searching for
- Answers far and wide
+ I've seen many searching for answers far and wide
  But I know we're all searching for answers
  Only You provide because
- You know just what we need
- Before we say a word
+ You know just what we need before we say a word
 b1: |
  You are perfect in all of Your ways
  You are perfect in all of Your ways
