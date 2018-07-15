@@ -1,0 +1,26 @@
+---
+title: "There's nothing worth more"
+structure: [[v1,v2,c1],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ There's nothing worth more that could ever come close
+ No thing can compare, You're our living hope
+ Your presence, Lord
+v2: |
+ I've tasted and seen of the sweetest of loves
+ Where my heart becomes free and my shame is undone
+ In your presence, Lord
+b1: |
+ Let us become more aware of Your presence
+ Let us experience the glory of Your goodness
+ Let us become more aware of Your presence
+ Let us experience the glory of Your goodness
+ Let us become more aware of Your presence
+ Let us experience the glory of Your goodness
+ Lord, your goodness, Lord
+c1: |
+ Holy Spirit, You are welcome here
+ Come flood this place and fill the atmosphere
+ Your glory, God, is what our hearts long for
+ To be overcome by Your presence, Lord
