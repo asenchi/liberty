@@ -11,8 +11,10 @@ v1: |
  Do you thirst for a drink from the well
  Jesus is calling
 c1: |
- Oh come to the alter, the Father's arms are open wide
- Forgiveness was bought with the precious blood of Jesus Christ
+ Oh come to the alter
+ The Father's arms are open wide
+ Forgiveness was bought with
+ The precious blood of Jesus Christ
 v2: |
  Leave behind your regrets and mistakes
  Come today there's no reason to wait
