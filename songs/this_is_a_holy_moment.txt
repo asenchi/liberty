@@ -1,0 +1,20 @@
+---
+title: "This is a Holy moment"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ This is a Holy moment
+v2: |
+ He is here with us now
+c1: |
+ Come with expectation
+ Everything abandoned
+ Look and see the Glory of our God
+ Lift your voice to Heaven
+ Jesus is our anthem
+ Celebrate the wonder of His love
+b1: |
+ For Your honor and fame
+ Fall again in this place
+ Fill us up as we overflow with praise
