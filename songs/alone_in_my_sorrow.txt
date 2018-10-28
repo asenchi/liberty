@@ -1,0 +1,30 @@
+---
+title: "Alone in my sorrow"
+structure: [[v1,c1],[v2,c1],[v3,c2]]
+inkey: z
+speed: z
+v1: |
+ Alone in my sorrow and dead in my skin
+ Lost without hope with no place to begin
+ Your love made a way to let mercy come in
+ When death was arrested and my life began
+v2: |
+ Ash was redeemed only beauty remains
+ My orphan heart was given a name
+ My mourning grew quiet my feet rose to dance
+ When death was arrested and my life began
+c1: |
+ Oh Your grace so free, washes over me
+ You have made me new, now life begins with You
+ It's Your endless love, pouring down on us
+ You have made me new, now life begins with You
+v3: |
+ Released from my chains I'm a prisoner no more
+ My shame was a ransom He faithfully bore
+ He cancelled my debt and He called me his friend
+ When death was arrested and my life began
+c2: |
+ Our Savior displayed on a criminal's cross
+ Darkness rejoiced as though heaven had lost
+ But then Jesus arose with our freedom in hand
+ That's when death was arrested and my life began
