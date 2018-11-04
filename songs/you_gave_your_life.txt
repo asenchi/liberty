@@ -1,0 +1,35 @@
+---
+title: "You gave Your life"
+structure: [[v1,v2,c1],[v3,v4,c1],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ You gave Your life, as a sacrifice
+ So I surrender all
+ You left Your throne, and made me Your own
+ Now I surrender all
+v2: |
+ Salvation came, through Your mighty Name
+ The power of sin and death no longer reigns
+ Your victory is now complete
+ New life, and love and hope for all mankind
+c1: |
+ Bless the Lord, oh my soul
+ And all that is within me
+ Bless the Lord, oh my soul
+ Glory to Your name
+v3: |
+ When I behold Your matchless love
+ Lord I surrender all
+ Upon that tree, Lord You set me free
+ Now I surrender all
+v4: |
+ Amazing grace, how sweet the sound
+ That saved a wretch, saved a wretch like me
+ I once was lost, but now I'm found
+ I once was blind, but now I can see
+b1: |
+ Now I will live forever in Your presence Lord
+ And worship You in spirit and in truth
+ With all the saints before the Throne of glory
+ We will bow down before Your majesty
