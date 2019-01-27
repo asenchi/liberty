@@ -1,0 +1,34 @@
+---
+title: "Savior I come"
+structure: [[v1, pc1, c1],[v2, pc1, c1],[b1, pc1, c1]]
+inkey: z
+speed: z
+v1: |
+ Savior I come
+ Quiet my soul, remember
+ Redemption's hill
+ Where Your blood was spilled
+ For my ransom
+v2: |
+ You were as I
+ Tempted and trialed
+ Human
+ The Word became flesh
+ Bore my sin and death
+ Now You're risen
+pc1: |
+ Everything I once held dear
+ I count it all as lost
+c1: |
+ Lead me to the cross
+ Where Your love poured out
+ Bring me to my knees
+ Lord I lay me down
+ Rid me of myself
+ I belong to You
+ Lead me, lead me to the cross
+b1: |
+ To Your heart
+ To Your heart
+ Lead me to Your heart
+ Lead me to Your heart
