@@ -1,6 +1,6 @@
 ---
 title: "Let the King of my heart be the mountain where I run"
-structure: [[v1, c1, v2, b1]]
+structure: [[v1, c1, v2, b1],[b2, c1]]
 inkey: z
 speed: z
 v1: |
@@ -18,3 +18,6 @@ c1: |
 b1: |
  You're never gonna let, never gonna let me down
  You're never gonna let, never gonna let me down
+b2: |
+ When the night is holding on to me
+ God is holding on
