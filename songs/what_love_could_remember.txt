@@ -1,0 +1,24 @@
+---
+title: "What love could remember, no wrongs we have done"
+structure: [[v1, c1, v2],[v3, c1]]
+inkey: z
+speed: z
+v1: |
+ What love could remember, no wrongs we have done
+ Omniscient, all-knowing, He counts not their sum
+ Thrown into a sea without bottom or shore
+ Our sins they are many, His mercy is more
+v2: |
+ What patience would wait as we constantly roam
+ What father so tender is calling us home
+ He welcomes the weakest, the vilest, the poor
+ Our sins they are many, His mercy is more
+v3: |
+ What riches of kindness He lavished on us
+ His blood was the payment, His life was the cost
+ We stood 'neath a debt we could never afford
+ Our sins they are many, His mercy is more
+c1: |
+ Praise the Lord, His mercy is more
+ Stronger than darkness, new every morn
+ Our sins they are many, His mercy is more

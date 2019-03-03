@@ -1,0 +1,19 @@
+---
+title: "You are so good to me, You heal my broken heart"
+structure: [[v1, c1, v2],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ You are beautiful my sweet, sweet song
+ You are beautiful my sweet, sweet song
+ You are beautiful my sweet, sweet song
+ I will sing again
+v1: |
+ You are so good to me, You heal my broken heart
+ You are my Father who loves me
+v2: |
+ You ride upon the clouds, You lead me to the truth
+ You are the Spirit inside me
+v3: |
+ You poured out all Your blood, You died upon the cross
+ You are my Jesus who loves me

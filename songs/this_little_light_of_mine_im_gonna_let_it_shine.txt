@@ -1,0 +1,22 @@
+---
+title: "This little light of mine, I'm gonna let it shine"
+structure: [[c1, v1, v2],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ Amen
+v1: |
+ This little light of mine, I'm gonna let it shine
+ This little light of mine, I'm gonna let it shine
+ This little light of mine, I'm gonna let it shine
+ Let it shine, let it shine, let it shine
+v2: |
+ Everywhere I go, I'm gonna let it shine
+ Everywhere I go, I'm gonna let it shine
+ Everywhere I go, I'm gonna let it shine
+ Let it shine, let it shine, let it shine
+v3: |
+ Even in my home, I'm gonna let it shine
+ Even in my home, I'm gonna let it shine
+ Even in my home, I'm gonna let it shine
+ Let it shine, let it shine, let it shine
