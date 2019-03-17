@@ -1,0 +1,27 @@
+---
+title: "Been traveling these wide roads for so long"
+structure: [[v1, pc1, c1],[v2, pc1, c1],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ Been traveling these wide roads for so long
+ My heart's been far from You, ten thousand miles gone
+ Oh, I wanna come near and give ya every part of me
+ But there's blood on my hands, and my lips aren't clean
+v2: |
+ Dip me in Your smooth waters I go in
+ As a man with many crimes, come up for air
+ As my sins flow down the Jordan
+ Oh, I wanna come near and give ya every part of me
+ But there's blood on my hands, and my lips aren't clean
+pc1: |
+ In my darkness I remember
+ Momma's words reoccur to me
+ Surrender to the good Lord
+ And He'll wipe your slate clean
+c1: |
+ Take me to Your river, I wanna go
+ Oh, go on take me to Your river, I wanna know
+b1: |
+ I wanna go, wanna go, wanna go
+ I wanna know, wanna know, wanna know

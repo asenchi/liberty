@@ -1,6 +1,6 @@
 ---
 title: "You are so good to me, You heal my broken heart"
-structure: [[v1, c1, v2],[v3, c1]]
+structure: [[v1, c1, v2, b1],[v3, c1, b1]]
 inkey: z
 speed: z
 c1: |
@@ -17,3 +17,8 @@ v2: |
 v3: |
  You poured out all Your blood, You died upon the cross
  You are my Jesus who loves me
+b1: |
+ You are my strong melody
+ You are my dancing rhythm
+ You are my perfect rhyme
+ And I want to sing forever
