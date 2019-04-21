@@ -1,0 +1,31 @@
+---
+title: "Though the Earth cried out for blood, satisfied her hunger was"
+structure: [[v1, c1],[v2, c1, b1]]
+inkey: z
+speed: z
+v1: |
+ Though the Earth cried out for blood
+ Satisfied her hunger was
+ Her billows calmed on raging seas
+ For the souls of men she craved
+ Sun and moon from balcony 
+ Turned their head in disbelief
+ Their precious love would taste the sting
+ Disfigured and disdained
+v2: |
+ So three days in darkness slept
+ The Morning Sun of righteousness
+ But rose to shame the throes of death
+ And overturn his rule
+ Now daughters and the sons of men
+ Would pay not their dues again
+ The debt of blood they owed was rent
+ When the day rolled anew
+c1: |
+ On Friday a thief, on Sunday a King
+ Laid down in grief, but awoke with keys
+ Of Hell on that day, the first born of the slain
+ The Man Jesus Christ laid death in his grave
+b1: |
+ He has cheated Hell and seated us above the fall
+ In desperate places He paid our wages, one time once and for all 
