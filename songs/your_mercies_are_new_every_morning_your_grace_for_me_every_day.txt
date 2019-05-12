@@ -1,0 +1,31 @@
+---
+title: "Your mercies are new every morning, Your grace for me every day"
+structure: [[v1, v2, c1],[v3, c2, b1]]
+inkey: z
+speed: z
+v1: |
+ Your mercies are new every morning
+ Your grace for me every day
+ Your love never failing
+ Your Spirit to guide me when all I feel is pain
+v2: |
+ God let Your love come surround me
+ You will be my peace in the storm
+ I will strust in the rock Abba Father above
+ You will never leave me alone
+v3: |
+ When I feel lost in the darkness or when things look bright
+ I will trust in You God I will fight this good fight
+ For when my strength fails, beginning to let go
+ Lord You suffered my sin so that I'd be made new
+c1: |
+ Oh Lord You are faithful, so faithful, so faithful
+c2: |
+ Oh Lord You are faithful, so faithful, so faithful
+ Oh yes You are, You have saved my life from the grave
+ And You made me whole
+b1: |
+ So I will sing to You, I will shout to You
+ You are my rock, You are my rock
+ I will worship you with all of my life
+ You are my God, You are my God
