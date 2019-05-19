@@ -1,0 +1,11 @@
+---
+title: "The steadfast love of the Lord never ceases"
+structure: [[c1]]
+inkey: z
+speed: z
+c1: |
+ The steadfast love of the Lord never ceases
+ His mercies never come to an end
+ They are new every morning, new every morning
+ Great is Your faithfulness, O Lord
+ Great is Your faithfulness
