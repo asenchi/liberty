@@ -1,0 +1,23 @@
+---
+title: ""
+structure: [[v1, c1, v2],[v3, c1]]
+inkey: z
+speed: z
+v1: |
+  The love of God is greater far, than tongue or pen can ever tell
+  It goes beyond the highest star, and reaches to the lowest hell
+  The guilty pair bowed down with care, God gave his Son to win
+  His erring child he reconciled, and pardoned every sin
+v2: |
+  When time at last shall pass away, and earthly thrones and kingdoms fall
+  When those who here refuse to pray, on rocks and hills and mountains call
+  God's love, so sure, shall still endure, all measureless and strong
+  Redeeming grace to Adam's race, the saints' and angels' song
+v3: |
+  Could we with ink the ocean fill, and were the skies of parchment made
+  Were every stalk on earth a quill, and everyone a scribe by trade
+  To write the love of God above, would drain the ocean dry
+  Nor could the scroll contain the whole, though stretched from sky to sky
+c1: |
+  O love of God, how rich and pure, how measureless and strong
+  It shall forevermore endure, the saints' and angels' song
