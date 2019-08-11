@@ -1,0 +1,30 @@
+---
+title: "I love You Lord"
+structure: [[v1, c1, v2],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ I love You, Lord
+ For Your mercy never fails me
+ All my days, I've been held in Your hands
+ From the moment that I wake up
+ Until I lay my head
+ Oh, I will sing of the goodness of God
+v2: |
+ I love Your voice
+ You have led me through the fire
+ And in darkest night You are close like no other
+ I've known You as a Father
+ I've known You as a Friend
+ And I have lived in the goodness of God
+c1: |
+ And all my life You have been faithful
+ And all my life You have been so, so good
+ With every breath that I am able
+ Oh, I will sing of the goodness of God
+b1: |
+ Your goodness is running after, it's running after me
+ Your goodness is running after, it's running after me
+ With my life laid down, I’m surrendered now
+ I give you everything
+ Your goodness is running after, it's running after me
