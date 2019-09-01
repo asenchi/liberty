@@ -1,0 +1,30 @@
+---
+title: "I cast my mind to Calvary"
+structure: [[v1, v2, c1],[v3, v4, c1]]
+inkey: z
+speed: z
+v1: |
+ I cast my mind to Calvary
+ Where Jesus bled and died for me
+ I see His wounds, His hands, His feet
+ My Savior on that cursed tree
+v2: |
+ His body bound and drenched in tears
+ They laid Him down in Joseph's tomb
+ The entrance sealed by heavy stone
+ Messiah still and all alone
+v3: |
+ Then on the third at break of dawn
+ The Son of heaven rose again
+ O trampled death where is your sting?
+ The angels roar for Christ the King
+v4: |
+ He shall return in robes of white
+ The blazing Son shall pierce the night
+ And I will rise among the saints
+ My gaze transfixed on Jesus' face
+c1: |
+ O praise the name of the Lord our God
+ O praise His name forevermore
+ For endless days we will sing Your praise
+ Oh Lord, oh Lord our God
