@@ -1,0 +1,23 @@
+---
+title: "Your hands reached into the depths of darkness"
+structure: [[v1, v2, c1],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ Your hands reached into the depths of darkness
+ Your arms pulled me to the light above
+ Your voice spoke the word that broke my heart
+ Your eyes burn with holy passion, fire, and love
+v2: |
+ You lead me beside the quiet waters
+ You walk in the shadows of death's darkened door
+ You make tables right before my enemies
+ You take oil and then you pour it over me
+c1: |
+ The Lord is my shepherd, I will fear no evil
+ You are my shepherd, God, I will fear no evil
+b1: |
+ Surely goodness and mercy cover me
+ All the days of my life they cover me
+ Surely i'm going to dwell in the house of the Lord
+ Forever and ever and ever and ever more
