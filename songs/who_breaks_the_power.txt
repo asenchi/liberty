@@ -1,6 +1,6 @@
 ---
 title: "Who breaks the power"
-structure: [[v1, c1],[v2, c1, b1,b2]]
+structure: [[v1, c1],[v2, c1],[b1, b2, c1]]
 inkey: z
 speed: z
 v1: |
@@ -11,10 +11,14 @@ v1: |
  Who leaves us breathless in awe and wonder
  The King of Glory, the King above all kings
 c1: |
- This is amazing grace, this is unfailing love
- That You would take my place, that You would bear my cross
- You laid down Your life, that I would be set free
- Oh, Jesus, I sing for, all that You've done for me
+ This is amazing grace
+ This is unfailing love
+ That You would take my place
+ That You would bear my cross
+ You laid down Your life
+ That I would be set free
+ Oh, Jesus, I sing for
+ All that You've done for me
 v2: |
  Who brings our chaos back into order
  Who makes the orphan a son and daughter
@@ -26,4 +30,5 @@ b1: |
  Worthy is the Lamb who was slain
  Worthy is the King who conquered the grave
 b2: |
- Worthy is the Lamb who was slain, worthy, worthy, worthy
+ Worthy is the Lamb who was slain
+ Worthy, worthy, worthy
