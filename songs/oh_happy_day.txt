@@ -1,0 +1,13 @@
+---
+title: "Oh happy day"
+structure: [[v1]]
+inkey: z
+speed: z
+v1: |
+ Oh happy day (oh happy day)
+ Oh happy day (oh happy day)
+ When Jesus washed (when Jesus washed)
+ When Jesus washed (when Jesus washed)
+ Jesus washed (when Jesus washed)
+ Washed my sins away (oh happy day)
+ Oh happy day (oh happy day)

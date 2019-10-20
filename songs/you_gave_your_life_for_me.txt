@@ -1,0 +1,26 @@
+---
+title: "You gave Your life for me"
+structure: [[v1, c1, v2],[c2, b1]]
+inkey: z
+speed: z
+v1: |
+ You gave Your life for me
+ You gave Your life
+ Now it's all that You ask of me
+v2: |
+ You gave Your life for us
+ You gave Your life
+ Now You're calling out to us
+c1: |
+ So I lay it down, I lay it down
+ All this world has to offer
+ All this world has to offer
+ I lay it down
+c2: |
+ Come lay it down, come lay it down
+ All this world has to offer
+ All this world has to offer
+ Come lay it down
+b1: |
+ And be free, you are free
+ Lay it down, and be free
