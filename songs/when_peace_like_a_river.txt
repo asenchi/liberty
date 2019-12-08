@@ -1,0 +1,29 @@
+---
+title: "When peace like a river"
+structure: [[v1, c1, v2],[v3, c1, v4]]
+inkey: z
+speed: z
+v1: |
+ When peace like a river attendeth my way
+ When sorrows like sea billows roll
+ Whatever my lot, Thou hast taught me to say
+ It is well, it is well, with my soul
+v2: |
+ Though Satan should buffet, though trials should come
+ Let this blest assurance control
+ That Christ has regarded my helpless estate
+ And hath shed His own blood for my soul
+v3: |
+ My sin, oh, the bliss of this glorious thought
+ My sin, not in part but the whole
+ Is nailed to the cross, and I bear it no more
+ Praise the Lord, praise the Lord, o my soul
+v4: |
+ And, Lord haste the day when the faith shall be sight
+ The clouds be rolled back as a scroll
+ The trump shall resound and the Lord shall descend
+ Even so, it is well with my soul
+c1: |
+ It is well (it is well)
+ With my soul (with my soul)
+ It is well, it is well with my soul
