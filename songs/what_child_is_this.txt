@@ -1,0 +1,27 @@
+---
+title: "What child is this"
+structure: [[v1, c1],[v2, c1],[v3, c1]]
+inkey: z
+speed: z
+c1: |
+ This, this is Christ the king
+ Whom shepherds guard and angels sing
+ Haste, haste to bring Him laud
+ The babe, the son of Mary
+c2: |
+ Nails, spear shall pierce Him through
+v1: |
+ What child is this who laid to rest
+ On Mary's lap is sleeping
+ Whom angels greet with anthems sweet
+ While shepherds watch are keeping
+v2: |
+ Why lies He in such mean estate
+ Where ox and ass are feeding
+ The end of fear for all who hear
+ The silent Word is speaking
+v3: |
+ So bring him incense, gold and myrrh
+ Come peasant king to love Him;
+ The king of kings salvation brings
+ Let loving hearts enthrone Him

@@ -1,0 +1,27 @@
+---
+title: "I give my life again"
+structure: [[v1, c1],[v2, c1],[b1, c1]]
+inkey: z
+speed: z
+v1: |
+ I give my life again, every breath I have
+ For You are my reward
+ Jesus take my life, a sacrifice
+ All I have is Yours
+ All I have is Yours
+v2: |
+ Jesus here I am, with open hands
+ Lifted high to You
+ Could my heart contain, all Your love for me
+ You're all I need to know
+ You're all I need to know
+c1: |
+ You are my reward, all I'm living for
+ I surrender all my life to You
+ All consuming fire, You are my desire
+ No one else but You
+ I surrender all my life to You
+b1: |
+ Nothing compares to knowing You
+ Nothing compares to loving You
+ I'm giving my life to follow You my King
