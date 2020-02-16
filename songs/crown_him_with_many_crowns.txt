@@ -1,0 +1,41 @@
+---
+title: "Crown Him with many crowns"
+structure: [[v1, v2],[v3, v4]]
+inkey: z
+speed: z
+v1: |
+ Crown Him with many crowns
+ The Lamb upon His throne
+ Hark! How the Heav'nly anthem drowns
+ All music but its own
+ Awake my soul and sing
+ Of Him who died for thee
+ And hail Him as thy matchless King
+ Through all eternity
+v2: |
+ Crown Him the Lord of life
+ Who triumphed o'er the grave
+ And rose victorious in the strife
+ For those He came to save
+ His glories now we sing
+ Who died and rose on high
+ Who died eternal life to bring
+ And lives that death may die
+v3: |
+ Crown Him the Lord of Heav'n
+ Enthroned in worlds above
+ Crown Him the King to whom is giv'n
+ The wondrous name of love
+ Crown Him with many crowns
+ As thrones before Him fall
+ Crown Him, ye kings, with many crowns
+ Fore He is King of all
+v4: |
+ Crown Him the Lord of love
+ Behold His hands and side
+ Those wounds, yet visible above
+ In beauty glorified
+ All hail, Redeemer, hail
+ For Thou has died for me
+ Thy praise and glory shall not fail
+ Throughout eternity
