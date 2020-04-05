@@ -1,6 +1,6 @@
 ---
 title: "My Jesus I love Thee"
-structure: [[v1,v2,b1,v3]]
+structure: [[v1,v2,v3]]
 inkey: z
 speed: z
 v1: |
