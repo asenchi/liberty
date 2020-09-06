@@ -1,0 +1,27 @@
+---
+title: "I'm trading my sorrows"
+structure: [[v1,c1],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ I'm trading my sorrows
+ I'm trading my shame
+ I'm laying them down
+ For the joy of the Lord
+ I'm trading my sickness
+ I'm trading my plan
+ I'm laying them down
+ For the joy of the Lord
+b1: |
+ I am pressed but not crushed
+ Persecuted not abandoned
+ Struck down but not destroyed
+ I am blessed beyond the curse
+ For his promise will endure
+ That his joy's gonna be my strength
+ Though the sorrow may last for the night
+ His joy comes in the morning
+c1: |
+ We say yes Lord yes Lord yes yes Lord
+ Yes Lord yes Lord yes yes Lord
+ Yes Lord yes Lord yes yes Lord Amen
