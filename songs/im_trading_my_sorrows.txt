@@ -1,17 +1,16 @@
 ---
 title: "I'm trading my sorrows"
-structure: [[v1,c1],[b1,c1]]
+structure: [[v1,v2,c1],[b1,c1]]
 inkey: z
 speed: z
 v1: |
  I'm trading my sorrows
  I'm trading my shame
- I'm laying them down
- For the joy of the Lord
+ I'm laying them down for the joy of the Lord
+v2: |
  I'm trading my sickness
  I'm trading my plan
- I'm laying them down
- For the joy of the Lord
+ I'm laying them down for the joy of the Lord
 b1: |
  I am pressed but not crushed
  Persecuted not abandoned
