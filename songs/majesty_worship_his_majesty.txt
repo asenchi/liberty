@@ -1,0 +1,20 @@
+title: "Majesty, Worship His Majesty"
+structure: [[v1,v2,c1,v3]]
+inkey: z
+speed: z
+v1: |
+ Majesty, worship His majesty
+ Unto Jesus be all glory
+ Honor and praise
+v2: |
+ Majesty Kingdom, authority
+ Flows from His Throne unto His own
+ His anthem raise
+c1: |
+ So exalt, lift up on high the Name of Jesus
+ Magnify, come glorify
+ Christ Jesus the King
+v3: |
+ Majesty, worship His majesty
+ Jesus who died, now glorified
+ King of all kings
