@@ -5,7 +5,7 @@
 </div>
 {% endblock %}
 {% block body %}
-{% for key, items in songs.iteritems() if items %}
+{% for key, items in songs.items() if items %}
 <h1>{{ key|replace("_", " ")|title }}</h1>
 <ul>
 {% for i,song in items %}
