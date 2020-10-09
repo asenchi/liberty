@@ -2,10 +2,5 @@
 
 cd $(dirname $0)/..
 
-if [ -d ./venv ]
-then source ./venv/bin/activate
-else echo "No local virtualenv" && exit 1
-fi
-
 echo "Starting server..."
-python app.py
+pipenv run python app.py
