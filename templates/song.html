@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 {% block body %}
 <div id="slides">
-{% set counter = 1 -%}
 {% for slide in song -%}
-<a name="{{ counter }}"> <!-- slide anchor -->
-<div class="slide" id="slide{{ counter }}" {% if not counter == 1 %}style="display:none"{% endif -%}>
+{% set idx = loop.index -%}
+<a name="{{ idx }}"> <!-- slide anchor -->
+<div class="slide" id="slide{{ idx }}"{% if not idx == 1 %} style="display:none"{% endif -%}>
     {% for part in slide -%}
     <div class="part">
         {% for line in part -%}
@@ -14,7 +14,6 @@
         {% endfor -%}
     </div>
     {% endfor -%}
-{% set counter = counter + 1 -%}
 </div>
 {% endfor -%}
 </div>

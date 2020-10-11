@@ -31,10 +31,10 @@ def build_song(serial, raw):
         # Loop through our structure and build a Python structure of our song
         for idx, struct in enumerate(serial["structure"]):
             if type(struct) is list:
-                slide = []
+                slides = []
                 for part in struct:
-                    slide.append(serial[part].split('\n'))
-                serial["final"].append(slide)
+                    slides.append(serial[part].split('\n'))
+                serial["final"].append(slides)
     return serial
 
 def get_files(directory):
