@@ -1,0 +1,9 @@
+title: "We will feast in the house of Zion Chorus"
+structure: [[c1]]
+inkey: z
+speed: z
+c1: |
+ We will feast in the house of Zion
+ We will sing with our hearts restored
+ He has done great things, we will say together
+ We will feast and weep no more
