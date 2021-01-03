@@ -1,6 +1,6 @@
 ---
 title: "God of Abraham"
-structure: [[v1],[pc1, c1],[v2],[pc1,c1],[b1,c1]]
+structure: [[v1, pc1, c1],[v2, pc1, c1],[b1,b2,c1]]
 inkey: z
 speed: z
 v1: |
@@ -18,17 +18,14 @@ v2: |
  There’s nothing you can’t do
  You’re faithful and true
 pc1: |
- Though the storms may come
- And the winds may blow
+ Though the storms may come and the winds may blow
  You’ll remain steadfast
- And let my heart learn
- When you speak a word
+ And let my heart learn, when you speak a word
  It will come to pass
 c1: |
  Great is your faithfulness to me
  Great is your faithfulness to me
- From the rising sun
- To the setting same
+ From the rising sun to the setting same
  I will praise your name
  Great is your faithfulness to me
 b1: |
@@ -36,6 +33,7 @@ b1: |
  My anchor to the ground
  My hope and firm foundation
  He’ll never let me down
+b2: |
  I put my trust in Jesus
  My anchor to the ground
  My hope and firm foundation
