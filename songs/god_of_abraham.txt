@@ -1,6 +1,6 @@
 ---
 title: "God of Abraham"
-structure: [[v1,pc1,c1],[v2,pc1,c1],[b1,c1]]
+structure: [[v1],[pc1, c1],[v2],[pc1,c1],[b1,c1]]
 inkey: z
 speed: z
 v1: |
