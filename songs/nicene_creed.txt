@@ -1,6 +1,6 @@
 ---
 title: "Nicene Creed"
-structure: [[v1,v2],[v3],[v4]]
+structure: [[v1],[v3],[v4]]
 inkey: z
 speed: z
 v1: |
@@ -8,7 +8,6 @@ v1: |
      the Father almighty,
      maker of heaven and earth,
      of all things visible and invisible.
-v2: |
  And in one Lord Jesus Christ,
      the only Son of God,
      begotten from the Father before all ages,
