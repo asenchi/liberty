@@ -1,0 +1,30 @@
+---
+title: "I was a wretch"
+structure: [[v1,c1,v2][v3,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ I was a wretch, I remember who I was
+ I was lost, I was blind, I was running out of time
+ Sin separated, the breach was far to wide
+ But from the far side of the chasm, You held me in your sight
+v2: |
+ So You made a way, across the great divide
+ Left behind, Heavens throne, to build it here inside
+ And there at the cross, You paid the debt I owed
+ Broke my chains, freed my soul, for the first time I had hope
+c1: |
+ Thank you Jesus for the blood applied
+ Thank you Jesus it has washed me white
+ Thank you Jesus You have saved my life
+ Brought me from the darkness into glorius light
+v3: |
+ You took my place, laid inside my tomb of sin
+ You were buried for three days, and then you walked right out again
+ And now death has no sting, and life no end
+ For I have been transformed, by the blood of the lamb
+b1: |
+ There is nothing stronger than the wonder working power
+ of the blood, the blood
+ That calls us sons and daughters, we are ransomed by the Father
+ Through the blood, the blood
