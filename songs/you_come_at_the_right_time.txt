@@ -5,14 +5,11 @@ inkey: z
 speed: z
 v1: |
  You come at the right time
- When I least expect it
- Never behind
+ When I least expect it, never behind
  So why would I be surprised
- When You deliver
- Every time
+ When You deliver every time
 pc1: |
- On mountaintops
- You stay the same
+ On mountaintops, You stay the same
  In valleys low, You never change
 c1: |
  And I believe that I will see
@@ -21,11 +18,9 @@ c1: |
  Your faithfulness remains
 v2: |
  You go, You go before me
- To prepare the blessing
- You made a way
+ To prepare the blessing, You made a way
  It's more than I could imagine
- More than I can fathom
- Or comprehend
+ More than I can fathom or comprehend
 b1: |
  God of my present, God of my future
  You write the story
