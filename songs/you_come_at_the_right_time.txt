@@ -4,7 +4,7 @@ structure: [[v1,pc1,c1],[v2,pc1,c1,b1]]
 inkey: z
 speed: z
 v1: |
- You come at the right right time
+ You come at the right time
  When I least expect it
  Never behind
  So why would I be surprised
