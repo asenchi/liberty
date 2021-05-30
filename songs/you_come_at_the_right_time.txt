@@ -1,0 +1,32 @@
+---
+title: "You come at the right time"
+structure: [[v1,pc1,c1],[v2,pc1,c1,b1]]
+inkey: z
+speed: z
+v1: |
+ You come at the right right time
+ When I least expect it
+ Never behind
+ So why would I be surprised
+ When You deliver
+ Every time
+pc1: |
+ On mountaintops
+ You stay the same
+ In valleys low, You never change
+c1: |
+ And I believe that I will see
+ The goodness of the Lord
+ I'm confident as seasons change
+ Your faithfulness remains
+v2: |
+ You go, You go before me
+ To prepare the blessing
+ You made a way
+ It's more than I could imagine
+ More than I can fathom
+ Or comprehend
+b1: |
+ God of my present, God of my future
+ You write the story
+ You hold it all together
