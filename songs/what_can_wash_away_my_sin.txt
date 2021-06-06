@@ -1,4 +1,4 @@
-title: "What can wash away my sing"
+title: "What can wash away my sin"
 structure: [[v1, c1, v2],[v3, c1, v4]]
 inkey: z
 speed: z
