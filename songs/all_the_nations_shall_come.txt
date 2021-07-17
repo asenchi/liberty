@@ -9,7 +9,7 @@ v1: |
  They shall worship the Lord 
  Lift up high praises to the Lord 
  Lift up high praises to our God
-c1:
+c1: |
  You are King, You are Prince of Peace
  And You will reign on David’s throne
  You are Jesus, You are Prince of Peace
