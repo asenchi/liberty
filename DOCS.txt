@@ -1,8 +1,8 @@
 ---
 title: "First Line of Song"
 structure: [[v1, c1],[v2, c1, b1]]
-inkey: key (i.e: a)
-speed: speed (i.e. one of fast or slow)
+inkey: key     # (i.e: a)
+speed: speed   # (i.e. one of fast or slow)
 v1: |
  Text defined in these blocks represent the song lyrics.
  This represents verse 1.
