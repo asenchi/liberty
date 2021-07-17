@@ -1,8 +1,0 @@
-#!/bin/sh
-
-cd $(dirname $0)/..
-
-virtualenv local --no-site-packages --distribute
-source ./local/bin/activate
-
-pip install -U -r requirements.txt
