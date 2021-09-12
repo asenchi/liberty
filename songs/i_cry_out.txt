@@ -1,6 +1,6 @@
 ---
 title: "I Cry Out"
-structure: [[v1,v2,v3,c1,c2]]
+structure: [[v1,v2,v3,c1]]
 inkey: "z"
 speed: "z"
 v1: |
@@ -14,10 +14,6 @@ v3: |
  You are my hope and Your promise never fails me
  And my desire is to follow You forever
 c1: |
- For You are good
- For You are good
- For You are good to me
-c2: |
  For You are good
  For You are good
  For You are good to me
