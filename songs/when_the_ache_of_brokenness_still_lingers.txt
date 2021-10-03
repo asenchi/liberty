@@ -1,0 +1,22 @@
+title: "When the ache of brokenness still lingers"
+structure: [[v1,c1,v2],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ When the ache of brokenness still lingers
+ When the hour of loneliness is long
+ I will stand upon Your sworn intention
+ And I will praise Your promise with a song
+c1: |
+ And I will say goodness, I will say mercy,
+ Surely Your love, oh God, has followed me
+v2: |
+ Even here, with sorrows all around me
+ Still Your love is more than I have lost
+ So, I will trust the hands that bled forgiveness
+ And I will trust the heart that bore the cross
+b1: |
+ Only goodness and perfect joy you have in store
+ All my fountains all my good is in you Lord
+ Full assurance soon I'll see no more by faith
+ That only goodness from the first was in your ways
