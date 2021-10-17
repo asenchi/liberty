@@ -1,0 +1,31 @@
+title: "Our rights and our freedoms"
+structure: [[v1,c1],[v2,c1],[b1, v3, c1]]
+inkey: z
+speed: z
+v1: |
+ Our rights and our freedoms, Our flags and our kingdoms
+ All of our idols must bow
+ Our walls and our weapons, Our wordly possessions
+ All of our idols must bow
+c1: |
+ You have our yes
+ That our lives confess and say, "Jesus is Lord"
+ We'll take up our cross
+ No matter the cost, we say, "Jesus is Lord"
+v2: |
+ Our selfish ambition, For power and position
+ All of our idols must bow
+ Our fearful reactions, And constant distractions
+ All of our idols must bow
+b1: |
+ Our joy is to hope beside Jesus, our Savior
+ To love those who hate us, embracing our neighbors
+ To lay down our lives for the poor and the needy
+ The cross is our call and our only allegiance
+ To Jesus, our Lord, To Jesus, our Lord
+ Jesus is Lord
+v3: |
+ Our holy commitment, in body and spirit
+ To honor You, Jesus, as Lord
+ Our love and affection, Our time and attention
+ Lord You deserve it all, Lord You deserve it all, Lord You can have it all
