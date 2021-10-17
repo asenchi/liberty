@@ -1,5 +1,5 @@
 title: "Our rights and our freedoms"
-structure: [[v1,c1],[v2,c1],[b1],[v3]]
+structure: [[v1,c1],[v2,c1],[b1,v3]]
 inkey: z
 speed: z
 v1: |
@@ -33,7 +33,6 @@ b1: |
  The cross is our call
  And our only allegiance
  To Jesus, our Lord
- To Jesus, our Lord
  Jesus is Lord
 v3: |
  Our holy commitment
@@ -41,6 +40,5 @@ v3: |
  To honor You, Jesus, as Lord
  Our love and affection
  Our time and attention
- Lord You deserve it all
  Lord You deserve it all
  Lord You can have it all
