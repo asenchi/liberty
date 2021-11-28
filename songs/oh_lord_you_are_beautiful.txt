@@ -1,0 +1,14 @@
+title: "Oh Lord Youre beautiful"
+structure: [[v1,c1]]
+inkey: z
+speed: z
+v1: |
+ Oh Lord, you're beautiful
+ Your face is all I seek
+ And when Your eyes are on this child
+ Your grace abounds to me
+c1: |
+ Oh Lord, please light the fire
+ That once burned bright and clear
+ Replace the lamp of my first love
+ That burns with holy fear
