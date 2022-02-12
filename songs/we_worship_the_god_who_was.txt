@@ -1,0 +1,35 @@
+title: "We worship the God who was"
+structure: [[v1, c1],[v2,c1],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ We worship the God who was
+ We worship the God who is
+ We worship the God who evermore will be
+ He opened the prison doors
+ He parted the raging sea
+ My God, He holds the victory
+c1: |
+ There's joy in the house of the Lord
+ There's joy in the house of the Lord today
+ And we won't be quiet
+ We shout out Your praise
+ There's joy in the house of the Lord
+ Our God is surely in this place
+ And we won't be quiet
+ We shout out Your praise
+v2: |
+ We sing to the God who heals
+ We sing to the God who saves
+ We sing to the God who always makes a way
+ He hung up on that cross
+ Then He rose up from that grave
+ My God's still rolling stones away
+b1: |
+ We were the beggars
+ Now we're royalty
+ We were the prisoners
+ Now we're running free
+ We are forgiven, accepted
+ Redeemed by His grace
+ Let the house of the Lord sing praise
