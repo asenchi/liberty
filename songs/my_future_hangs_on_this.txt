@@ -1,5 +1,5 @@
 title: "My Future Hangs on This"
-structure: [[v1,c1],[v2,c1,b1],[v3,c1,b1]]
+structure: [[c1,v1],[c1,v2,b1],[c1,v3,b1]]
 inkey: e
 speed: slow
 v1: |
