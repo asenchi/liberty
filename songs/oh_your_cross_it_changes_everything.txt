@@ -1,4 +1,4 @@
-title: "My Future Hangs on This"
+title: "Oh Your Cross it Changes Everything"
 structure: [[c1,v1],[c1,v2,b1],[c1,v3,b1]]
 inkey: e
 speed: slow
