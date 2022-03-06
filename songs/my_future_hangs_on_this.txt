@@ -1,5 +1,5 @@
 title: "My Future Hangs on This"
-structure: [[v1,c1],[v2,c1],[v3,c1,b1]]
+structure: [[v1,c1],[v2,c1,b1],[v3,c1,b1]]
 inkey: e
 speed: slow
 v1: |
@@ -10,14 +10,18 @@ v1: |
  Rewind to innocence
  Reborn perfect as a child
 v2: |
- When sin and ugliness collide with redemptions kiss
+ When sin and ugliness collide
+ With redemptions kiss
  Beauty awakens by romance
- Always inside this mess I have found forgiveness
+ Always inside this mess
+ I have found forgiveness
  Mercy as infinite as You
 v3: |
- Fragments of brokenness salvaged by the art of grace
+ Fragments of brokenness salvaged
+ By the art of grace
  You craft life from our mistakes
- Black skies of my regrets outshone by this kindness
+ Black skies of my regrets outshone
+ By this kindness
  New life dawns over my soul
 c1: |
  Oh Your cross it changes everything
