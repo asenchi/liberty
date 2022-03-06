@@ -1,0 +1,29 @@
+title: "My Future Hangs on This"
+structure: [[v1,c1],[v2,c3],[v3,c1,b1]]
+inkey: e
+speed: slow
+v1: |
+ My future hangs on this
+ You make preciousness from dust
+ Please don't stop creating me
+ Your blood offers the chance to
+ Rewind to innocence
+ Reborn perfect as a child
+v2: |
+ When sin and ugliness collide with redemptions kiss
+ Beauty awakens by romance
+ Always inside this mess I have found forgiveness
+ Mercy as infinite as You
+v3: |
+ Fragments of brokenness salvaged by the art of grace
+ You craft life from our mistakes
+ Black skies of my regrets outshone by this kindness
+ New life dawns over my soul
+c1: |
+ Oh Your cross it changes everything
+ There my world begins again with You
+ Oh Your cross it's where my hope restarts
+ A second chance is Heaven's heart
+b1: |
+ Countless second chances we've been
+ Given at the cross
