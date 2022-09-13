@@ -1,6 +1,6 @@
 ---
 title: "I want to know you Lord"
-structure: [[v1,c1],[v2,c1],[v3,v4],[b1,c1]]
+structure: [[v1,c1,v2],[v3,c1,v4],[b1,c1]]
 inkey: z
 speed: z
 v1: |
