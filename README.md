@@ -1,5 +1,7 @@
 # Liberty Song Application
 
+[https://liberty.pages.dev][]
+
 ## Introduction
 
 In an effort to make managing songs for worship easier to manage the Liberty
@@ -81,7 +83,11 @@ There was a valiant attempt at trying to sort songs by key or speed, however
 this never materialized. Most songs are listed as speed "z" or key "z". This
 practice is continued with new songs.
 
-## Deploying to Heroku
+## Deploying to Cloudflare
+
+This site is now deployed to Cloudflare Pages: [https://liberty.pages.dev][]
+
+## [DEPRECATED] Deploying to Heroku
 
 1. GITHUB: Fork the [asenchi/libery](https://github.com/asenchi/liberty) application to your own user.
 2. HEROKU: [Sign up for an account](https://heroku.com)
@@ -89,3 +95,5 @@ practice is continued with new songs.
 4. HEROKU: Connect the application to GitHub (make sure to choose your user/repo and **DO NOT USE** asenchi/liberty)
 5. HEROKU: Select 'Enable Automatic Deploys' and ensure it is set to 'master' branch
 6. HEROKU: Perform a 'Manual deploy' by choosing the 'master' branch and clicking 'Deploy Branch'
+
+[https://liberty.pages.dev]: https://liberty.pages.dev
