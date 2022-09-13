@@ -1,0 +1,71 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: 5px;
+  padding: 25px;
+  padding-left: 50px;
+}
+
+a {
+  color: #fff;
+}
+
+ul {
+  font-size: 32px;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+.current {
+  display: inline;
+}
+
+.slide .part {
+  margin-bottom: 40px;
+}
+
+.slide .line {
+  font-size: 36px;
+  letter-spacing: 0.0em;
+  margin-bottom: 1px;
+  white-space: pre;
+}
+
+#single {
+  font-size: 24px;
+}
+
+#single a {
+  font-size: 24px;
+}
+
+#creed {
+  font-size: 32;
+  width: 1000px;
+}
+
+#creed h1 {
+  font-size: 34px;
+}
+
+#bot_title {
+  position: absolute;
+  left: 1em;
+  bottom: 1em;
+  color: #222;
+  font-size: 32px;
+}
+
+#progress {
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+  color: #222;
+  font-size: 32px;
+}

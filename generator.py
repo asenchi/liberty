@@ -23,7 +23,7 @@ def yamlize(string):
         print("Only one song should be defined per file. Songs are defined by the '---' at the top. See documentation")
         raise
 
-def build_song(serial, raw):
+def build_song(serial, raw=None):
     if raw:
         serial["raw"] = raw
     if serial["structure"]:

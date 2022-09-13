@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd $(dirname $0)/..
+
+echo "Freezing files..."
+pipenv run python freeze.py

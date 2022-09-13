@@ -1,0 +1,54 @@
+<!doctype>
+<html lang="en">
+  <head>
+    <title>How to structure a song</title>
+    <link rel=stylesheet type=text/css href="/static/style.css">
+
+    <link rel="shortcut icon" href="/static/favicon.ico">
+    <script src="/static/slides.js"></script>
+  </head>
+
+  <body>
+    
+    
+<div style="font-size: 22px;line-height:1.3em;">
+<pre>
+---
+title: &#34;First Line of Song&#34;
+structure: [[v1, c1],[v2, c1, b1]]
+inkey: key     # (i.e: a)
+speed: speed   # (i.e. one of fast or slow)
+v1: |
+ Text defined in these blocks represent the song lyrics.
+ This represents verse 1.
+ The &#39;v1&#39; label defines this portion of the song.
+ The &#39;|&#39; character is very important and should always be included after the label.
+ These labels allow us to define a structure for the song.
+ Add 1 space before each line of the song.
+ This structure is defined at the top of the file.
+ The outer square brackets represent the entire song.
+ The inner brackets define slides.
+ &#39;v1&#39; and &#39;c1&#39; are defined as slide one.
+v2: |
+ This is verse 2.
+ Find &#39;v2&#39; in the structure above.
+ Notice that it is listed in a separate set of brackets from &#39;v1&#39;.
+ &#39;v2&#39; and &#39;c1&#39; are slide two.
+ Since we sing the chorus after each verse, we include the chorus on each slide.
+c1: |
+ This is the chorus.
+ As noted above, we include it on both slides.
+ If there are more chorus&#39;, increment the number, so the next chorus would be &#39;c2&#39;.
+ Each section of the song should be uniquely labeled (&#39;v1&#39;, &#39;v2&#39;,etc.)
+ The labels are arbitrary, you could use &#39;v1&#39;, &#39;v2&#39; for example.
+ The &#39;:&#39; and &#39;|&#39; are very important for how the song is displayed.
+b1: |
+ This is an example for defining a bridge and is only shown on the 2nd slide.
+ It is a good idea to look at the structure of existing songs for more examples.
+ Look at this document closely, this would display properly as an actual song. :)
+
+</pre>
+</div>
+
+  </body>
+</html>
