@@ -1,0 +1,23 @@
+---
+title: "I want to know you Lord"
+structure: [[v1,c1],[v2,c1],[v3,v4],[b1,c1]]
+inkey: z
+speed: z
+v1: |
+ I want to know you Lord, like I know a friend
+ I want to know you Lord
+c1: |
+ So I'm laying down all my religion
+ I lay it down, I want to know you Lord
+v2: |
+ I used to think I could box you in
+ But I'm laying down, I want to know you Lord
+v3: |
+ Lord I've been told to feel ashamed, I've been told I don't measure up
+ Lord I've been told I'm not good enough, but you're here with me
+v4: |
+ I reach out and find me in the dust
+ You say no amount of untruths can separate us
+b1: |
+ I will rejoice in the simple gospel
+ I will rejoice in you, Lord
