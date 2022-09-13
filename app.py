@@ -15,16 +15,16 @@ FREEZER_IGNORE_MIMETYPE_WARNINGS = True
 app = Flask(__name__)
 app.config.from_object(__name__)
 
-@app.route("/songs.json")
-def raw():
-    songlist = get_files(app.config["SONGS"])
-    songs = []
-    for song, path in songlist:
-        opened     = open_file(path)
-        serialized = yamlize(opened)
-        compiled   = build_song(serialized, opened)
-        songs.append(compiled)
-    return json.dumps(songs, sort_keys=True, indent=4)
+# @app.route("/songs.json")
+# def raw():
+#     songlist = get_files(app.config["SONGS"])
+#     songs = []
+#     for song, path in songlist:
+#         opened     = open_file(path)
+#         serialized = yamlize(opened)
+#         compiled   = build_song(serialized, opened)
+#         songs.append(compiled)
+#     return json.dumps(songs, sort_keys=True, indent=4)
 
 @app.route("/")
 def index():
