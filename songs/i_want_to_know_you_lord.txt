@@ -13,8 +13,10 @@ v2: |
  I used to think I could box you in
  But I'm laying down, I want to know you Lord
 v3: |
- Lord I've been told to feel ashamed, I've been told I don't measure up
- Lord I've been told I'm not good enough, but you're here with me
+ Lord I've been told to feel ashamed
+ I've been told I don't measure up
+ Lord I've been told I'm not good enough
+ but you're here with me
 v4: |
  I reach out and find me in the dust
  You say no amount of untruths can separate us
