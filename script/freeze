@@ -3,4 +3,4 @@
 cd $(dirname $0)/..
 
 echo "Freezing files..."
-pipenv run python freeze.py
+pipenv run python3 freeze.py
