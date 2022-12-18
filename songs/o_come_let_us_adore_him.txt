@@ -1,0 +1,24 @@
+---
+title: "O Come Let Us Adore Him"
+structure: [[v1,v2],[v3,v4]]
+inkey: z
+speed: z
+v1: |
+ O come let us adore Him,
+ O come let us adore Him,
+ O come let us adore Him,
+ Christ the Lord.
+v2: |
+ For He alone is worthy,
+ For He alone is worthy,
+ Christ the Lord.
+v3: |
+ We'll give Him all the glory
+ We'll give Him all the glory
+ We'll give Him all the glory
+ Christ the Lord.
+v4: |
+ We'll give You all the glory
+ We'll give You all the glory
+ We'll give You all the glory
+ Christ the Lord.
