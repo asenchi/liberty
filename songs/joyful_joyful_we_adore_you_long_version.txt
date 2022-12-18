@@ -1,35 +1,45 @@
 ---
 title: "Joyful joyful we adore thee"
-structure: [[v1,v2,v3],[v4,v5,v6]]
+structure: [[v1a, v1b],[v2a,v2b],[v3a,v3b],[v4a,v4b]]
 inkey: z
 speed: z
-v1: |
+v1a: |
  Joyful, joyful we adore thee
  God of glory Lord of love
  Hearts unfold like flowers before You
  Opening to the sun above
-v2: |
+v1b: |
  Melt the clouds of sin and sadness
  Drive the dark of doubt away
- Giver of eternal gladness
+ Giver of immortal gladness
  Fill us with the light of day
-v3: |
+v2a: |
  All Thy works with joy surround Thee
  Earth and heaven reflect Thy rays
  Stars and angels sing around Thee
  Center of unbroken praise
-v4: |
+v2b: |
  Field and forest vale and mountain
  Flowery meadow flashing sea
  Singing bird and flowing fountain
  Call us to rejoice in Thee
-v5: |
+v3a: |
  Thou art giving and forgiving
  Ever blessing ever blessed
  Wellspring of the joy of living
  Ocean depth of happy rest
-v6: |
+v3b: |
  Thou our Father Christ our Brother
  All who live in love are Thine
  Teach us how to love each other
  Lift us to the joy divine
+v4a: |
+ Mortals join the happy chorus
+ Which the morning stars began
+ Father love is reigning over us
+ Brother love binds man to man
+v4b: |
+ Ever singing march we onward
+ Victors in the midst of strife
+ Joyful music leads us sunward
+ in the triumph song of life
