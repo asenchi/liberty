@@ -9,8 +9,9 @@ v1: |
  O come let us adore Him,
  Christ the Lord.
 v2: |
- For He alone is worthy,
- For He alone is worthy,
+ We'll praise his name forever
+ We'll praise his name forever
+ We'll praise his name forever
  Christ the Lord.
 v3: |
  We'll give Him all the glory
@@ -18,7 +19,7 @@ v3: |
  We'll give Him all the glory
  Christ the Lord.
 v4: |
- We'll give You all the glory
- We'll give You all the glory
- We'll give You all the glory
+ For He alone is worthy,
+ For He alone is worthy,
+ For He alone is worthy,
  Christ the Lord.
