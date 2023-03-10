@@ -1,0 +1,34 @@
+title: "Lord I come to you"
+structure: [[v1,v2,c1],[v3,v4,c1]]
+inkey: z
+speed: z
+v1: |
+ Lord I come to You
+ Let my heart be changed renewed
+ Flowing from the grace
+ That I've found in You
+v2: |
+ Lord I've come to know
+ The weaknesses I see in me
+ Will be stripped away
+ By the power of Your love
+c1: |
+ Hold me close
+ Let Your love surround me
+ Bring me near
+ Draw me to Your side
+ And as I wait
+ I'll rise up like the eagle
+ And I will soar with You
+ Your Spirit leads me on
+ In the power of Your love
+v3: |
+ Lord unveil my eyes
+ Let me see You face to face
+ The knowledge of Your love
+ As You live in me
+v4: |
+ Lord renew my mind
+ As Your will unfolds in my life
+ In living everyday
+ By the power of Your love
